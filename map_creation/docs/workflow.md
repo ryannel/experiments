@@ -1,5 +1,7 @@
 # The production arc
 
+The user steers the map through conversation with **GPT-6 Astra on High**. The agent selects skills, manages files, operates image/render tools and presents useful checkpoints. The [conversation walkthrough](walkthrough.md) shows that interaction.
+
 A map combines three records: **what the world means**, **where features are intended to go**, and **what the painting actually shows**. Keep them separate and reconcile them after changes.
 
 | Stage | Produce | Review before expansion |
@@ -15,9 +17,9 @@ A map combines three records: **what the world means**, **where features are int
 
 ## The repeatable rendering loop
 
-**Prepare → paint → ingest → inspect → accept.** Use `mapkit.py` for the small-map implementation; the [walkthrough](walkthrough.md) shows each command.
+**Prepare → paint → ingest → inspect → accept.** The agent can use `mapkit.py` for the small-map implementation; the [technical walkthrough](technical-walkthrough.md) supplies its commands. The user does not need to perform these steps manually.
 
-A prepared candidate freezes the world/style hashes, current accepted revision, native rectangle, guide/context and any edit mask. Painting is an explicit external step. Ingestion keeps the returned original and, for refinements, composites through the mask. Inspection produces small overviews and overlapping native crops. Acceptance requires completed review records tied to the exact candidate and rejects stale inputs.
+A prepared candidate freezes the world/style hashes, current accepted revision, native rectangle, guide/context and any edit mask. The agent paints through its configured image tool as a separate operation from the Python helper. Ingestion keeps the returned original and, for refinements, composites through the mask. Inspection produces small overviews and overlapping native crops. Acceptance requires completed review records tied to the exact candidate and rejects stale inputs.
 
 Review and acceptance in this helper mean **recorded reviewer selection**. They never imply user approval, demographic validity or geographic simulation. Name the reviewer honestly. If the user has authorized continued production, record agent review and keep going within that authorization; do not invent extra permission gates.
 

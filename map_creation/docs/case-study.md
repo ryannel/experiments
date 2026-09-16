@@ -24,6 +24,8 @@ The source project's complete atlas record reports 81 production tiles and a nat
 
 The original forest and village instructions accumulated setting-specific paths and history. This kit extracts their reusable decisions and adds a complete path into the work: brief, style comparison, geography and society planning, a representative pilot, expansion, refinement and release.
 
-Its new Python helper is deliberately smaller than the private production pipeline. It demonstrates structural guides, native candidate bookkeeping, masks and explicit review. It neither reconstructs the showcase nor proves unattended map generation. The example world is new, fictional and public-safe.
+The intended interface is a conversation with GPT-6 Astra on High: the user steers the creative decisions while the agent operates the skills, image tools and production records.
+
+Its supporting Python helper is deliberately smaller than the private production pipeline. It demonstrates structural guides, native candidate bookkeeping, masks and explicit review. It neither reconstructs the showcase nor proves unattended map generation. The example world is new, fictional and public-safe.
 
 A useful next experiment is to complete two adjacent painted regions, review their shared river and road, then measure attempts and repair effort. That provides more credible evidence about scaling than either a single beautiful crop or a large synthetic object-count benchmark.

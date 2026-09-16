@@ -1,4 +1,4 @@
 interface:
   display_name: "Map director"
   short_description: "Guide a fantasy map from brief through reviewed release."
-  default_prompt: "Use $map-director to help with this map project."
+  default_prompt: "Use $map-director with GPT-6 Astra on High to guide my map project and handle the tools and files."

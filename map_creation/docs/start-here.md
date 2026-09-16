@@ -1,5 +1,7 @@
 # Start a map
 
+Start a task in this folder with **GPT-6 Astra / High** and use the README's starting prompt. The agent conducts the conversation below, fills the records and runs the supporting tools. You can bring an idea without having a finished setting or a technical plan. See the [conversation walkthrough](walkthrough.md).
+
 Choose a scope first: a world atlas, a region for journeys, or a settlement for local play. Each has a different visual unit. An atlas town marker can represent thousands of people; a house in a village drawing might represent one household. Neither automatically sets ground scale.
 
 A useful first conversation covers:

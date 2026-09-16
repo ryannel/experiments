@@ -10,10 +10,10 @@ from urllib.parse import unquote
 from PIL import Image
 
 ROOT = Path(__file__).resolve().parents[1]
-ROOT_FILES = ('README.md','AGENTS.md','CREDITS.md','LICENSE.md','requirements.txt','.gitignore')
+ROOT_FILES = ('README.md','AGENTS.md','CREDITS.md','LICENSE.md','requirements.txt','.gitignore','.codex/config.toml')
 SOURCE_DIRS = ('.agents','docs','templates','examples','showcase','scripts','tests')
 IGNORED_PARTS = {'__pycache__','.pytest_cache','.DS_Store'}
-EXTENSIONS = {'.md','.json','.py','.txt','.yaml','.yml','.jpg','.png','.svg'}
+EXTENSIONS = {'.md','.json','.py','.txt','.yaml','.yml','.jpg','.png','.svg','.toml'}
 
 
 def selected_files(root):

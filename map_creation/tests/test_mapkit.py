@@ -186,6 +186,7 @@ class MapkitTests(unittest.TestCase):
         with zipfile.ZipFile(archive) as z:
             names=z.namelist()
             self.assertTrue(any('/.agents/skills/map-director/SKILL.md' in n for n in names))
+            self.assertIn('map_creation/.codex/config.toml', names)
             self.assertFalse(any('/work/' in n or '/__pycache__/' in n for n in names))
             z.extractall(self.base/'extracted')
         extracted=self.base/'extracted/map_creation'

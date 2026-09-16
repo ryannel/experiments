@@ -7,9 +7,15 @@ description: Coordinate a complete fantasy map project, including scope, style e
 
 Locate this kit's root by walking three directories up from this skill folder. Read [the workflow](../../../docs/workflow.md) and project AGENTS.md. Run tools from that root. Keep the bundle intact; it needs no private library.
 
+## Agent setup and division of work
+
+Use GPT-6 Astra with High reasoning for this experiment. Follow [setup](../../../docs/setup.md): inspect available session metadata, report a known mismatch, and ask for a one-time settings check only when you cannot verify it. A SKILL.md cannot change the running model. Do not silently substitute another model or reasoning level.
+
+Lead with a creative conversation and a concrete next step. Operate the supporting tools yourself: set up dependencies when needed, create the working project, populate templates from the conversation, call the image tool, inspect outputs and maintain records. Reserve user questions for material creative choices, budget, missing access or permissions. Do not make command execution or editing JSON the user's normal responsibility.
+
 ## Begin or resume
 
-For a new map, use [start-here](../../../docs/start-here.md) to identify purpose, representation scale, mood, available references and budget. Ask a small number of material questions, proposing concrete choices when helpful. Use `scripts/mapkit.py new --output work/<slug>` for the runnable example, then replace its world and planning records with the user's intent. Do not quietly adopt the example's canon.
+For a new map, use [start-here](../../../docs/start-here.md) to identify purpose, representation scale, mood, available references and budget. Ask a small number of material questions, proposing concrete choices when helpful. When a working project is needed, run `scripts/mapkit.py new --output work/<slug>` yourself after any necessary local setup, then replace its world and planning records with the user's intent. Do not quietly adopt the example's canon.
 
 For existing work, read `planning/brief.md`, `planning/decisions.md`, `world.json`, `style.json` and `metadata/state.json`. Summarize the accepted state and open questions before the next action. Never regenerate a good scene just because it is easier than understanding it.
 

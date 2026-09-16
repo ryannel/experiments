@@ -10,7 +10,7 @@ Select public artwork and metadata deliberately. Hidden GM material can leak thr
 
 ## This experiment kit
 
-Run:
+For the agent or maintainer:
 
 ```sh
 python -m unittest discover -s tests -v
@@ -18,9 +18,9 @@ python scripts/check_package.py
 python scripts/package_experiment.py --output dist/map_creation.zip
 ```
 
-The packager includes only maintained docs, skills, scripts, templates, examples, tests, showcase and named root files. It refuses symlinks and does not include working projects, credentials, generated release archives or caches. It writes a SHA-256 sidecar beside the ZIP. Extract the archive into a new location and run its quickstart there before publishing.
+The packager includes only maintained docs, skills, project model configuration, scripts, templates, examples, tests, showcase and named root files. It refuses symlinks and does not include working projects, credentials, generated release archives or caches. It writes a SHA-256 sidecar beside the ZIP. Extract the archive into a new location and run its optional offline demo there and inspect the agent setup before publishing.
 
-The ZIP contains `map_creation/`, including `.agents/`. It has no dependency on the experiments root. Root sparse-checkout instructions work once the owner publishes the repository and the reader supplies its clone URL. A future experiment must supply its own quickstart and reuse terms.
+The ZIP contains `map_creation/`, including `.agents/` and `.codex/config.toml`. It has no dependency on the experiments root. The root sparse-checkout instructions use the public `ryannel/experiments` repository URL. A future experiment must supply its own quickstart and reuse terms.
 
 ## Publication copy
 

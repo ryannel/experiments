@@ -1,23 +1,29 @@
-# Setup
+# Set up the agent
 
-## Local helper
+## Required: GPT-6 Astra with High reasoning
 
-Use the README's virtual environment commands. The helpers need Python 3.10+ and Pillow; Python 3.14.5 with Pillow 12.2.0 is the packaging test environment. A fresh dependency installation needs package-index access. Runtime guide generation is offline. A current Git client is useful for versioning; the helper does not create commits or remotes.
+Open `map_creation` as your Codex project, start a task, and select **GPT-6 Astra** with reasoning effort **High**. This is the required agent setup for this experiment, chosen by its author. It is not a comparative claim that other models cannot make maps.
 
-## Agent skills
+The model identifier is `gpt-6-astra`; High corresponds to `high`. OpenAI documents that reasoning level for [GPT-6 Astra](https://developers.openai.com/api/docs/models/gpt-6-astra).
 
-Keep `.agents/skills/` inside this experiment and launch your agent with `map_creation` as the working directory. Codex discovers repository skills in `.agents/skills`; skill mentions can explicitly select them. See the [official skills documentation](https://learn.chatgpt.com/docs/build-skills), checked 16 September 2026. Host interfaces and tool availability can differ.
+The included [.codex/config.toml](../.codex/config.toml) sets both project defaults. Codex loads project configuration only for trusted projects, and explicit overrides can take precedence. Check the actual task settings in your client; a prompt or skill cannot switch the running model or prove which model is active. These settings are local to this experiment and do not edit your personal defaults. See [official configuration guidance](https://learn.chatgpt.com/docs/config-file/config-basic).
 
-If a skill is not listed, restart the session in this folder or ask the agent to read `.agents/skills/map-director/SKILL.md` directly. If you have older Lantern skills installed, specify the file in this workspace to avoid ambiguity. With another assistant, supply AGENTS.md and the relevant SKILL.md as instructions. No particular agent product is required to read the workflow.
+If GPT-6 Astra or High is unavailable in your account/client, resolve that setup before following the map-production workflow. The agent should report a known mismatch and help you select the required settings, rather than silently choosing another model. If it cannot inspect session settings, it should say so and ask you to check the displayed selection once.
 
-The skills deliberately rely on the rest of this standalone experiment. Copy the entire folder when moving it; installing only a skill directory globally loses its docs, templates and tools.
+## Give the agent the project and tools
 
-## Painting capability
+Keep the entire folder, including `.agents/skills/`, `.codex/`, docs and templates. The agent needs project file access, a way to run local helpers, image inspection, and image generation/editing. GPT-6 Astra is the directing agent; the image tool creates or edits the artwork. Model selection alone does not establish that those tools are connected.
 
-Use an image tool that can create images and accept image references for edits. Native dimensions and reference fidelity vary by provider: verify returned files rather than assuming a requested size was honored. A chat interface without file output or image editing can still help with planning and briefs; use an external image editor for painting and import its lossless output.
+Ask the agent to check its available tools at the start. It can prepare the brief and world plan while resolving a missing image tool, but must explain what is needed before painting. It should not switch to a paid API or make you perform a manual image handoff without discussing that change. Agree a generation/time budget before a batch.
 
-These scripts do not call an image API. If your agent has a built-in image tool, use it through that tool's own instructions. If it does not, the same briefs work as a manual handoff. Configure accounts with the provider directly; do not put credentials in prompts or this repository. Paid generation limits and pricing depend on your account; agree a batch budget before starting. Blender and custom asset libraries are optional extensions, not setup requirements.
+Codex discovers project skills in `.agents/skills`. If the director does not appear, ask the agent to read `.agents/skills/map-director/SKILL.md` directly, or restart the task in this folder. Specify the project-local skill if you also have older Lantern skills installed. See the [official skills documentation](https://learn.chatgpt.com/docs/build-skills). These setup references were checked on 16 September 2026.
 
-## Capability check before a full run
+## Let the agent handle technical setup
 
-Confirm that you can read/write project files, inspect a small image, generate or import one lossless image, and report its actual dimensions. Establish whether edits can use references; the local mask compositor supplies exact outside-mask preservation independently of a model's promises. Stop expansion if the pilot cannot preserve required geography.
+You can begin with the starting prompt in the README. When local helper work is needed, the agent checks for Python 3.10+, creates a project-local virtual environment if appropriate, and installs the pinned Pillow dependency. It should diagnose missing dependencies and perform available setup within its permissions; involve you only for an unavailable capability, account access or a required permission.
+
+The [helper reference](tools.md) and [offline demo](offline-demo.md) provide the technical commands. They are reference material for the agent, not prerequisites for your first conversation. Node, Blender and the original private asset library are not required by the bundled helper.
+
+## First response to expect
+
+The agent should acknowledge your premise, check the required settings as far as its tools allow, ask a few useful creative/budget questions, and suggest the first concrete step. It should create and maintain the records itself. You should not receive a list of JSON files to populate or shell commands to execute as the normal onboarding flow.

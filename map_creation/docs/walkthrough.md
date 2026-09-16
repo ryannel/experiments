@@ -1,54 +1,53 @@
-# From the example to your first painting
+# Make a map through conversation
 
-## 1. Prepare the plan
+Use **GPT-6 Astra with High reasoning** in the `map_creation` project. Start with the README prompt; the agent uses `map-director` to coordinate the other skills. You can phrase requests naturally and give feedback while work progresses.
 
-Run the README quickstart. Inspect `previews/guide.jpg`, then replace the example assumptions in `planning/brief.md` and `planning/societies.md`. Select or trial an art style, save its reference in `assets/masters/`, and update `style.json`.
+## 1. Find the world
 
-Preparing a candidate freezes inputs. If you have already run the quickstart and then changed the world/style, use `pilot-v2` in the following commands instead of `pilot-v1`.
+> I want a cold coastal region with three competing port cities, fishing villages and a large wild interior. Help me turn that into a workable map.
 
-## 2. Paint the prepared crop
+The agent asks about the map's purpose, tone and useful scale, proposes a manageable first region, and saves the brief. It also checks its tools and agrees a generation budget. You make the meaningful creative choices; it keeps the records.
 
-The quickstart rectangle `[300, 220, 768, 512]` includes forest, a tributary/main river relationship and settlement approaches. Inspect `iterations/pilot-v1/guide.png`, `prior.png` and `context.jpg`.
+## 2. Find the style
 
-Use prompt.md as a starting point. Add the selected style reference, the wood-road crossing and explicit expectations for the river and site entrances. Submit the exact brief and references to your configured image tool or paint the crop manually. Ask for a 768 × 512 lossless PNG. Verify the returned dimensions; some tools cannot produce that size. If unsupported, prepare a new native rectangle at a supported size within the canvas, rather than upscaling returned pixels.
+> Show me a few art directions for the same small coastal scene. I want detailed terrain but readable towns, and room for labels.
 
-Save the returned painting to `work/my-world/assets/masters/pilot-returned-v1.png`. Copy [provenance.json](../templates/provenance.json) into that same folder as `pilot-provenance-v1.json`, and replace its placeholders with the exact tool, prompt, call count, references and actual dimensions.
+The agent uses `map-art-direction` to prepare comparable trials and generate them within the agreed budget. It explains differences in camera, light, palette and readability. You choose a direction or describe what to combine. The agent retains the chosen reference and writes the style contract.
 
-```sh
-python scripts/mapkit.py ingest work/my-world pilot-v1   --image work/my-world/assets/masters/pilot-returned-v1.png   --provenance work/my-world/assets/masters/pilot-provenance-v1.json
-python scripts/mapkit.py inspect work/my-world pilot-v1
-```
+## 3. Give people and factions room
 
-## 3. Review and select
+> Plan where the ports, villages and powers belong. Include how they trade and what supports their populations, and leave genuine wilderness between the settled areas.
 
-Open the candidate's evidence/overview.jpg and native PNG crops. Follow [review.md](review.md), including the complete affected river and road connections beyond the crop. Add evidence as needed. Fill review.json honestly with actual observations, project-relative evidence paths and the reviewer name. Do not mark a guide-only test as a successful painted pilot.
+The agent uses `map-world-planning` to propose landforms, catchments, journeys and territories. It distinguishes countries from overlapping factions and marks uncertain population/resource assumptions. It shows a layout you can discuss, then updates the world model and society ledger itself.
 
-```sh
-python scripts/mapkit.py accept work/my-world pilot-v1
-```
+## 4. Paint a representative region
 
-Unclear checks or stale inputs will block acceptance with an error. Repair defects with a new candidate and then review again. User approval is separate; follow the user's requested checkpoints rather than interpreting this command as consent.
+> Paint the first region around a port, river crossing and woodland edge. Use the chosen style and check that the routes and water still connect.
 
-## 4. Expand or repair
+The agent prepares the structural references, uses its image tool, retains the returned master and reviews native crops. It brings in the woodland and village skills where needed, fixes concrete defects, and shows you a preview with its findings. The pilot proves how the components work together before a larger batch.
 
-Prepare neighbouring rectangles only after selecting the pilot. Include overlapping context and review all joins against the current assembled pixels. The simple helper pastes the new rectangle in full; it does not automatically solve seams. Choose boundaries carefully or use a refinement mask to preserve accepted pixels.
+## 5. Steer the refinement
 
-For a local repair, create an L-mode grayscale mask in an image editor, with the same size as a new repair rectangle. Then:
+> The port feels too monumental. Keep the river and coastline, make the homes more ordinary, and give the working waterfront more life.
 
-```sh
-python scripts/mapkit.py prepare work/my-world ford-repair-v1   --rect 620 430 256 256 --mask work/my-world/assets/masters/ford-mask-v1.png
-```
+The agent proposes or makes a bounded refinement within the established scope. It protects good surrounding artwork, checks the mask perimeter, rechecks journeys through the changed area and saves the new version. Your feedback becomes a recorded decision rather than a reason to restart the world.
 
-Use the prior.png as the edit target and repeat ingestion, inspection and acceptance. Keep black-mask areas untouched and inspect the entire blend boundary.
+## 6. Continue the render arc
 
-## 5. Deliver
+> Continue into the neighbouring region using this style. Keep the accepted port intact and show me the next regional checkpoint within our remaining budget.
 
-After the full canvas has accepted coverage:
+The agent works from the current accepted pixels, includes every affected neighbour, and reconciles required sites and faction space. It inspects rivers and roads across joins, not just individual attractive crops. It reports unresolved issues and reaches the next agreed checkpoint without handing you routine bookkeeping.
 
-```sh
-python scripts/mapkit.py export work/my-world release-v1
-```
+## 7. Return another day
 
-For an intentionally partial pilot, use `--allow-partial` and label the result as a work in progress. Unpainted areas will still contain the schematic guide. The helper refuses to call an untouched guide a release.
+> Resume this world from the last accepted version. Read our decisions and open issues, tell me the next useful step, and continue within the saved scope and budget.
 
-Inspect and adjust labels.svg against the actual painted sites, complete the release notes, and choose public files explicitly. This workflow does not claim a fully painted atlas from the offline commands alone.
+The agent reads the saved brief, decisions, world/style records and accepted state. Recheck GPT-6 Astra / High when starting a new task. The project files preserve continuity across sessions.
+
+## 8. Prepare delivery
+
+> Prepare the map for sharing: a clean artwork master, editable labels, a safe overview, a few detail crops and notes on anything unresolved. Keep private setting material out.
+
+The agent uses `map-release` to review the agreed scope, position labels against the painting, and prepare the files. It distinguishes its visual review from your approval and does not upload merely because a local release was prepared.
+
+The [production arc](workflow.md) explains the records and review gates behind this conversation. The [technical walkthrough](technical-walkthrough.md) is available when the agent or a maintainer needs exact helper commands.

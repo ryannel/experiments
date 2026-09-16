@@ -10,4 +10,4 @@ The four population figures are illustrative planning assumptions, not capacity 
 
 The Bracken River runs from the northern upland to the southeast sea; Alder Brook joins it. Roads connect planned site anchors, but their guide lines do not yet contain painted bridges or doorways. Check the wood-road crossing at the ford carefully in the pilot. The helper does not prove that slopes, coast contact, political reach or population supply are correct.
 
-Run the README quickstart to reproduce the guide. The preview is a deterministic schematic produced by `scripts/mapkit.py`, not an image-generation result or an accepted painting. See the [walkthrough](../../docs/walkthrough.md) to move from this plan into artwork.
+Ask the agent to explore this example, or use the optional [offline helper demo](../../docs/offline-demo.md) to reproduce the guide. The preview is a deterministic schematic produced by `scripts/mapkit.py`, not an image-generation result or an accepted painting. See the [walkthrough](../../docs/walkthrough.md) to move from this plan into artwork.

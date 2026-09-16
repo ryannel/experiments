@@ -5,7 +5,7 @@ description: Produce or refine fantasy map regions through prepared guides, expl
 
 # Drive a rendering cycle
 
-Read [the tool reference](../../../docs/tools.md) and [walkthrough](../../../docs/walkthrough.md). The bundled helper handles small maps, not large production atlases; read [scaling](../../../docs/scaling.md) if the intended canvas exceeds its limit.
+Read [the tool reference](../../../docs/tools.md) and [technical walkthrough](../../../docs/technical-walkthrough.md). Operate the helpers and image tools yourself within the agreed scope; show the user creative results and review findings rather than handing them routine CLI steps. The directing agent uses GPT-6 Astra on High as specified in project AGENTS.md. The bundled helper handles small maps, not large production atlases; read [scaling](../../../docs/scaling.md) if the intended canvas exceeds its limit.
 
 ## Prepare
 

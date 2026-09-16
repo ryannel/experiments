@@ -6,13 +6,13 @@ Map creation: from world idea to painted atlas
 
 ## Short description
 
-An experiment in building fantasy maps with AI: finding an art style, making room for people and factions, and painting a connected world through small, reviewed regions. Includes reusable skills, planning templates and an offline starter kit.
+An experiment in building fantasy maps with AI: finding an art style, making room for people and factions, and painting a connected world through small, reviewed regions. An agent-led workflow for GPT-6 Astra on High, with reusable skills and planning templates.
 
 ## Introduction
 
 A convincing map needs more than beautiful terrain. Rivers must reach the sea, roads must enter towns, and countries need space to exist. This experiment explores a workflow that brings those constraints together with the freedom of generative painting.
 
-The downloadable kit takes the lessons from a larger world-building project and makes them portable. Try the small local example, then use the skills to develop your own geography, settlements, factions and visual style.
+The downloadable kit takes the lessons from a larger world-building project and makes them portable. Open the project in Codex, select GPT-6 Astra with High reasoning, and describe your idea. The agent guides you through art direction, geography, populations, factions and painting while handling the technical work.
 
 ## Suggested page order
 

@@ -4,7 +4,7 @@ Small, self-contained experiments in making things with AI. Each directory conta
 
 | Experiment | What you can try | Start here |
 | --- | --- | --- |
-| **Map creation** | Develop a world, find its visual language, and take a fantasy map through planning, painting and review. | [Open the map-making kit](map_creation/README.md) |
+| **Map creation** | Work with GPT-6 Astra on High to develop a world and guide it from art direction to a reviewed painted map. | [Open the map-making kit](map_creation/README.md) |
 
 ## Get just one experiment
 
@@ -21,11 +21,11 @@ cd map_creation
 
 Root files such as this README also remain visible. Repository metadata is still cloned; this is not a zero-metadata folder download. To add another experiment later, run `git sparse-checkout add OTHER_FOLDER` from the repository root. To update, use `git pull` after committing or setting aside your local changes.
 
-Prefer a normal download? Use your Git host's **Download ZIP**, extract it, then keep the experiment's whole directory, including hidden files such as `.agents/`. A repository ZIP contains all experiments; a separately published experiment ZIP can contain just one. Never copy only a skill's `SKILL.md`: its references and supporting tools matter.
+Prefer a normal download? Use your Git host's **Download ZIP**, extract it, then keep the experiment's whole directory, including hidden files such as `.agents/` and `.codex/`. A repository ZIP contains all experiments; a separately published experiment ZIP can contain just one. Never copy only a skill's `SKILL.md`: its references and supporting tools matter.
 
 ## Run an experiment
 
-Open that experiment's directory as your workspace and follow its README. There is no root-level installation, shared environment or dependency on a sibling project. Check the experiment's reuse terms before redistributing it.
+Open that experiment's directory as your workspace and follow its README. For map creation, select GPT-6 Astra with High reasoning and paste its starting prompt; the agent handles the technical workflow. There is no root-level installation, shared environment or dependency on a sibling project. Check the experiment's reuse terms before redistributing it.
 
 ## Add an experiment
 

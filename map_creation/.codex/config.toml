@@ -1,0 +1,3 @@
+# Required agent settings for this experiment; no global settings are changed.
+model = "gpt-6-astra"
+model_reasoning_effort = "high"

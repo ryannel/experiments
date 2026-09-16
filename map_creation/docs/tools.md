@@ -1,4 +1,6 @@
-# Tool reference
+# Technical helper reference
+
+These are supporting tools for the agent and maintainers. The main user experience is the [conversation walkthrough](walkthrough.md), using GPT-6 Astra on High. The agent runs these commands as needed.
 
 Run `python scripts/mapkit.py --help` from the experiment root. All commands are local; none calls an image API, commits files or publishes. Use one writer at a time: this small helper does not provide multi-process locking.
 
