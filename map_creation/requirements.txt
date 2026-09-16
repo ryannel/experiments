@@ -1,0 +1,2 @@
+# Validated locally with this version; no online service is used by the tools.
+Pillow==12.2.0

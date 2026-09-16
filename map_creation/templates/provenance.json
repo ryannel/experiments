@@ -1,0 +1,12 @@
+{
+  "tool": "REPLACE with actual tool or manual editor",
+  "model_if_reported": null,
+  "prompt": "REPLACE with exact submitted prompt",
+  "reference_files": [],
+  "calls": 1,
+  "native_dimensions": [
+    768,
+    512
+  ],
+  "notes": "Record actual source and any processing; never claim seed reproducibility unless supported."
+}

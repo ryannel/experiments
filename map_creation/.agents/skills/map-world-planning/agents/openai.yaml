@@ -1,0 +1,4 @@
+interface:
+  display_name: "Map world planning"
+  short_description: "Connect geography, population, travel and factions."
+  default_prompt: "Use $map-world-planning to help with this map project."

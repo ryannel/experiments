@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lantern village"
+  short_description: "Build settlements around useful shared spaces and routes."
+  default_prompt: "Use $lantern-village to help with this map project."

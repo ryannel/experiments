@@ -1,0 +1,14 @@
+{
+  "file": "atlas-preview.jpg",
+  "sha256": "0e7d6fa0ba4621ec42f464bc610c8d91eb6e21cd076f51befb5b59f0fe71b37d",
+  "dimensions": [
+    1600,
+    1067
+  ],
+  "source_release": "Lantern Sea / world-atlas-complete-v1",
+  "source_asset_role": "label-free JPEG overview",
+  "processing_for_package": "none; exact source preview bytes",
+  "creation_method": "AI-generated painting with authored guides, regional assembly and local masked repairs",
+  "source_review": "agent-reviewed; user review of completed eastern expansion pending in source record",
+  "full_resolution_source_included": false
+}

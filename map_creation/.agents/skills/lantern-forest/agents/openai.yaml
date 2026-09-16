@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lantern forest"
+  short_description: "Compose readable woodland, habitats and route corridors."
+  default_prompt: "Use $lantern-forest to help with this map project."

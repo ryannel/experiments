@@ -1,0 +1,449 @@
+{
+  "version": 1,
+  "name": "Bracken Reach",
+  "canvas": {
+    "width": 1536,
+    "height": 1024
+  },
+  "scale_note": "Illustrative region; settlement symbols are exaggerated and no travel speed or yield is calibrated.",
+  "land": [
+    {
+      "id": "mainland",
+      "polygon": [
+        [
+          145,
+          170
+        ],
+        [
+          300,
+          95
+        ],
+        [
+          540,
+          140
+        ],
+        [
+          750,
+          90
+        ],
+        [
+          1010,
+          160
+        ],
+        [
+          1250,
+          260
+        ],
+        [
+          1380,
+          500
+        ],
+        [
+          1300,
+          715
+        ],
+        [
+          1080,
+          865
+        ],
+        [
+          780,
+          930
+        ],
+        [
+          520,
+          860
+        ],
+        [
+          360,
+          925
+        ],
+        [
+          210,
+          745
+        ],
+        [
+          100,
+          450
+        ]
+      ]
+    }
+  ],
+  "regions": [
+    {
+      "id": "north-ridge",
+      "kind": "upland",
+      "polygon": [
+        [
+          270,
+          175
+        ],
+        [
+          440,
+          155
+        ],
+        [
+          730,
+          155
+        ],
+        [
+          830,
+          220
+        ],
+        [
+          635,
+          330
+        ],
+        [
+          405,
+          280
+        ]
+      ]
+    },
+    {
+      "id": "west-wood",
+      "kind": "forest",
+      "polygon": [
+        [
+          165,
+          330
+        ],
+        [
+          340,
+          255
+        ],
+        [
+          470,
+          335
+        ],
+        [
+          510,
+          530
+        ],
+        [
+          360,
+          650
+        ],
+        [
+          195,
+          540
+        ]
+      ]
+    },
+    {
+      "id": "east-wood",
+      "kind": "forest",
+      "polygon": [
+        [
+          850,
+          235
+        ],
+        [
+          1080,
+          260
+        ],
+        [
+          1240,
+          420
+        ],
+        [
+          1160,
+          555
+        ],
+        [
+          890,
+          465
+        ],
+        [
+          780,
+          370
+        ]
+      ]
+    },
+    {
+      "id": "low-fields",
+      "kind": "farmland",
+      "polygon": [
+        [
+          480,
+          540
+        ],
+        [
+          640,
+          515
+        ],
+        [
+          835,
+          610
+        ],
+        [
+          980,
+          725
+        ],
+        [
+          910,
+          840
+        ],
+        [
+          620,
+          800
+        ],
+        [
+          430,
+          665
+        ]
+      ]
+    },
+    {
+      "id": "lower-wetland",
+      "kind": "wetland",
+      "polygon": [
+        [
+          840,
+          750
+        ],
+        [
+          1010,
+          740
+        ],
+        [
+          1120,
+          815
+        ],
+        [
+          1070,
+          865
+        ],
+        [
+          915,
+          884
+        ]
+      ]
+    }
+  ],
+  "rivers": [
+    {
+      "id": "bracken",
+      "name": "Bracken River",
+      "points": [
+        [
+          660,
+          220
+        ],
+        [
+          700,
+          320
+        ],
+        [
+          640,
+          430
+        ],
+        [
+          710,
+          520
+        ],
+        [
+          820,
+          610
+        ],
+        [
+          880,
+          725
+        ],
+        [
+          1040,
+          810
+        ],
+        [
+          1140,
+          890
+        ]
+      ],
+      "width": 14,
+      "downstream": "sea"
+    },
+    {
+      "id": "alder",
+      "name": "Alder Brook",
+      "points": [
+        [
+          440,
+          275
+        ],
+        [
+          460,
+          350
+        ],
+        [
+          530,
+          395
+        ],
+        [
+          640,
+          430
+        ]
+      ],
+      "width": 7,
+      "downstream": "bracken"
+    }
+  ],
+  "settlements": [
+    {
+      "id": "ridgewatch",
+      "name": "Ridgewatch",
+      "point": [
+        830,
+        220
+      ],
+      "role": "hill market",
+      "population": 900,
+      "faction": "ridge-council",
+      "status": "planned"
+    },
+    {
+      "id": "brackenford",
+      "name": "Brackenford",
+      "point": [
+        720,
+        530
+      ],
+      "role": "capital",
+      "population": 3200,
+      "faction": "ford-charter",
+      "status": "planned"
+    },
+    {
+      "id": "mossbank",
+      "name": "Mossbank",
+      "point": [
+        375,
+        555
+      ],
+      "role": "woodland village",
+      "population": 240,
+      "faction": "wood-commons",
+      "status": "planned"
+    },
+    {
+      "id": "reed-quay",
+      "name": "Reed Quay",
+      "point": [
+        1080,
+        825
+      ],
+      "role": "estuary landing",
+      "population": 650,
+      "faction": "ford-charter",
+      "status": "planned"
+    }
+  ],
+  "roads": [
+    {
+      "id": "ridge-road",
+      "from": "ridgewatch",
+      "to": "brackenford",
+      "points": [
+        [
+          830,
+          220
+        ],
+        [
+          855,
+          320
+        ],
+        [
+          805,
+          410
+        ],
+        [
+          765,
+          470
+        ],
+        [
+          720,
+          530
+        ]
+      ]
+    },
+    {
+      "id": "wood-road",
+      "from": "mossbank",
+      "to": "brackenford",
+      "points": [
+        [
+          375,
+          555
+        ],
+        [
+          485,
+          590
+        ],
+        [
+          590,
+          555
+        ],
+        [
+          650,
+          500
+        ],
+        [
+          720,
+          530
+        ]
+      ]
+    },
+    {
+      "id": "quay-road",
+      "from": "brackenford",
+      "to": "reed-quay",
+      "points": [
+        [
+          720,
+          530
+        ],
+        [
+          810,
+          555
+        ],
+        [
+          895,
+          610
+        ],
+        [
+          980,
+          680
+        ],
+        [
+          1080,
+          825
+        ]
+      ]
+    }
+  ],
+  "factions": [
+    {
+      "id": "ridge-council",
+      "name": "Ridge Council",
+      "kind": "state",
+      "reach": "Northern pass and upland markets; imports grain from the ford."
+    },
+    {
+      "id": "ford-charter",
+      "name": "Ford Charter",
+      "kind": "state",
+      "reach": "Cultivated lower valley, bridge tolls and estuary trade."
+    },
+    {
+      "id": "wood-commons",
+      "name": "Wood Commons",
+      "kind": "community",
+      "reach": "Western woodland households and managed clearings."
+    },
+    {
+      "id": "river-carriers",
+      "name": "River Carriers",
+      "kind": "network",
+      "reach": "Overlapping trade association across all three communities; no exclusive territory."
+    }
+  ]
+}

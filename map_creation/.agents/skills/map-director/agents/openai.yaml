@@ -1,0 +1,4 @@
+interface:
+  display_name: "Map director"
+  short_description: "Guide a fantasy map from brief through reviewed release."
+  default_prompt: "Use $map-director to help with this map project."

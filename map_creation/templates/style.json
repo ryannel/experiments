@@ -1,0 +1,23 @@
+{
+  "name": "Bracken Reach \u2014 guide palette",
+  "status": "proposal; choose a painted reference before production",
+  "medium": "restrained painterly atlas; schematic guide uses flat colors",
+  "camera": "elevated illustrative terrain; compact pictorial settlement markers",
+  "light": "upper left",
+  "palette": {
+    "water": "#173f51",
+    "land": "#ddcf9e",
+    "forest": "#61715b",
+    "upland": "#9d9583",
+    "road": "#b47942",
+    "ink": "#23352f"
+  },
+  "detail": "quiet terrain, distinct landmarks, no uniform texture noise",
+  "reference_files": [],
+  "avoid": [
+    "lettering in generated terrain",
+    "unexplained river forks",
+    "identical canopy stamps",
+    "oversized castles at every settlement"
+  ]
+}

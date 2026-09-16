@@ -1,0 +1,4 @@
+interface:
+  display_name: "Map art direction"
+  short_description: "Find a coherent visual style with small comparable trials."
+  default_prompt: "Use $map-art-direction to help with this map project."

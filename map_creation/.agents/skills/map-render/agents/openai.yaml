@@ -1,0 +1,4 @@
+interface:
+  display_name: "Map render"
+  short_description: "Run native painting, review and bounded repair cycles."
+  default_prompt: "Use $map-render to help with this map project."

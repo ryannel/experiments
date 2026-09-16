@@ -1,0 +1,18 @@
+{
+  "id": "asset-role-v1",
+  "source_file": "assets/masters/asset-role-v1.png",
+  "sha256": null,
+  "native_dimensions": null,
+  "usable_bounds": null,
+  "ground_anchor": null,
+  "footprint": null,
+  "entrances": [],
+  "intended_placement_dimensions": null,
+  "camera": null,
+  "light": null,
+  "alpha_review": "unreviewed",
+  "visual_roles": [],
+  "review_status": "unreviewed",
+  "prompt_file": null,
+  "rights_and_provenance": null
+}

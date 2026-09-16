@@ -1,0 +1,4 @@
+interface:
+  display_name: "Map release"
+  short_description: "Deliver clean artwork, editable labels and safe previews."
+  default_prompt: "Use $map-release to help with this map project."
