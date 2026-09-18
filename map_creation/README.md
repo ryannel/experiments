@@ -17,9 +17,17 @@ Describe the world you have in mind. Your agent helps you find its art style, pl
 
 ## Your first message
 
-> Use $map-director to guide me through creating my own fantasy map. Read AGENTS.md and docs/start-here.md. This experiment requires GPT-6 Astra with High reasoning; check the available session settings, and tell me if I need to change them. Lead the process from a short creative brief through art-style trials, geography, population, factions, a painted pilot region, expansion and final review. Handle the project files, technical setup, image-tool calls and render helpers yourself. Ask me for the creative choices and budget decisions that matter, and show me previews at useful checkpoints. Save our decisions so we can resume later. My starting idea is: [describe your world, or help me find one].
+Type `$map-director` and describe your world:
 
-If `$map-director` does not appear, ask the agent to read `.agents/skills/map-director/SKILL.md` directly. Instructions cannot switch the task's model by themselves; select **GPT-6 Astra / High** in your client.
+> $map-director I want a cold coastal world with three competing port cities and a large, quiet interior. Help me find the style first.
+
+The director skill reads the rest for itself: it checks the required model settings, leads you from a short brief through art-style trials, geography, populations, factions, a painted pilot region, expansion and final review, handles the project files and image-tool calls, asks you only for the creative choices and budget decisions that matter, and saves your decisions so you can resume later.
+
+If `$map-director` does not appear in your client, paste this instead:
+
+> Read .agents/skills/map-director/SKILL.md and follow it to guide me through creating my own fantasy map. My starting idea is: [describe your world, or help me find one].
+
+Instructions cannot switch the task's model by themselves; select **GPT-6 Astra / High** in your client.
 
 ## What working with the agent looks like
 
