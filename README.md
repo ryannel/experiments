@@ -5,6 +5,7 @@ Small, self-contained experiments in making things with AI. Each directory conta
 | Experiment | What you can try | Start here |
 | --- | --- | --- |
 | **Map creation** | Work with GPT-6 Astra on High to develop a world and guide it from art direction to a reviewed painted map. | [Open the map-making kit](map_creation/README.md) |
+| **Olfactory taxonomy** | Develop a tiled photographic scent wheel from 48 notes, with source data, a Citrus visual proof and reproducible sector angles. | [Open the scent-guide experiment](olfactory_taxonomy/README.md) |
 
 ## Get just one experiment
 

@@ -1,0 +1,437 @@
+{
+  "schema_version": 1,
+  "notes": [
+    {
+      "realm": "FRESH & LIFTED",
+      "family": "CITRUS",
+      "note": "Zesty / Sparkling",
+      "descriptors": "Sharp, fizzy, sherbet, gin-and-tonic",
+      "texture_tactile": "Prickly, effervescent, vibrating",
+      "reference_material": "Lemon Oil, Citral",
+      "value": 1
+    },
+    {
+      "realm": "FRESH & LIFTED",
+      "family": "CITRUS",
+      "note": "Juicy / Sweet",
+      "descriptors": "Sugary, pulpy, candied orange",
+      "texture_tactile": "Round, wet, bursting",
+      "reference_material": "Sweet Orange Oil",
+      "value": 1
+    },
+    {
+      "realm": "FRESH & LIFTED",
+      "family": "CITRUS",
+      "note": "Bitter / Dry",
+      "descriptors": "White pith, rhubarb, tea-leaf",
+      "texture_tactile": "Dry, rasping, matte",
+      "reference_material": "Bergamot, Rhubafuran",
+      "value": 1
+    },
+    {
+      "realm": "FRESH & LIFTED",
+      "family": "GREEN",
+      "note": "Fresh Green",
+      "descriptors": "Cut grass, green apple, crushed leaves",
+      "texture_tactile": "Thin, slicing, snapping",
+      "reference_material": "Cis-3-Hexenol, Triplal",
+      "value": 1
+    },
+    {
+      "realm": "FRESH & LIFTED",
+      "family": "GREEN",
+      "note": "Vegetal / Resin",
+      "descriptors": "Bell pepper, green pea, sticky sap",
+      "texture_tactile": "Crunchy, oily, clinging",
+      "reference_material": "Galbanum, Violet Leaf",
+      "value": 1
+    },
+    {
+      "realm": "FRESH & LIFTED",
+      "family": "WATERY",
+      "note": "Aquatic / Marine",
+      "descriptors": "Cucumber, melon, sea-breeze, oyster",
+      "texture_tactile": "Wet, slippery, blue",
+      "reference_material": "Calone, Algae Abs",
+      "value": 1
+    },
+    {
+      "realm": "FRESH & LIFTED",
+      "family": "ALDEHYDIC",
+      "note": "Aldehydic",
+      "descriptors": "Soapy, laundry steam, hot iron, wax",
+      "texture_tactile": "Cold, metallic, lifting",
+      "reference_material": "Aldehydes (C12/C11)",
+      "value": 1
+    },
+    {
+      "realm": "FRESH & LIFTED",
+      "family": "MUSK",
+      "note": "Clean Musk",
+      "descriptors": "Laundry detergent, soft skin, cotton",
+      "texture_tactile": "Soft, fluffy, white",
+      "reference_material": "Galaxolide",
+      "value": 1
+    },
+    {
+      "realm": "FRESH & LIFTED",
+      "family": "AROMATIC",
+      "note": "Herbal",
+      "descriptors": "Clean, soapy, barbershop, lavender",
+      "texture_tactile": "Rough, botanical, bristly",
+      "reference_material": "Lavender Oil, Dihydromyrcenol",
+      "value": 1
+    },
+    {
+      "realm": "FRESH & LIFTED",
+      "family": "AROMATIC",
+      "note": "Cooling",
+      "descriptors": "Minty, medicinal, sinus-clearing, gum",
+      "texture_tactile": "Cold, piercing, anaesthetic",
+      "reference_material": "Menthol, Eucalyptus",
+      "value": 1
+    },
+    {
+      "realm": "FRESH & LIFTED",
+      "family": "AROMATIC",
+      "note": "Anisic",
+      "descriptors": "Liquorice, fennel, pastis",
+      "texture_tactile": "Sweet, numbing, smooth",
+      "reference_material": "Star Anise, Anethol",
+      "value": 1
+    },
+    {
+      "realm": "FRESH & LIFTED",
+      "family": "AROMATIC",
+      "note": "Tea",
+      "descriptors": "Dried leaves, tannic, astringent",
+      "texture_tactile": "Dry, astringent, paper-like",
+      "reference_material": "Tea Abs, Mate",
+      "value": 1
+    },
+    {
+      "realm": "FRESH & LIFTED",
+      "family": "ETHEREAL",
+      "note": "Ethereal",
+      "descriptors": "Nail varnish, pear-lift, vodka",
+      "texture_tactile": "Volatile, thin, stinging",
+      "reference_material": "Ethyl Acetate",
+      "value": 1
+    },
+    {
+      "realm": "AMBER, SPICE & SWEET",
+      "family": "SPICE",
+      "note": "Fresh Spice",
+      "descriptors": "Ginger, gin, vibrating pepper",
+      "texture_tactile": "Fizzy, vibrating, wet",
+      "reference_material": "Ginger, Cardamom",
+      "value": 1
+    },
+    {
+      "realm": "AMBER, SPICE & SWEET",
+      "family": "SPICE",
+      "note": "Hot Spice",
+      "descriptors": "Cinnamon, burning, festive, clove",
+      "texture_tactile": "Hot, pricking, red",
+      "reference_material": "Cinnamic Aldehyde, Clove",
+      "value": 1
+    },
+    {
+      "realm": "AMBER, SPICE & SWEET",
+      "family": "SPICE",
+      "note": "Savory Spice",
+      "descriptors": "Cumin, curry, soup-like, sweat",
+      "texture_tactile": "Dusty, warm, granular",
+      "reference_material": "Cumin, Saffron",
+      "value": 1
+    },
+    {
+      "realm": "AMBER, SPICE & SWEET",
+      "family": "GOURMAND",
+      "note": "Sweet / Vanillic",
+      "descriptors": "Burnt sugar, custard, cotton candy",
+      "texture_tactile": "Sticky, soft, wrapping",
+      "reference_material": "Vanillin, Ethyl Maltol",
+      "value": 1
+    },
+    {
+      "realm": "AMBER, SPICE & SWEET",
+      "family": "GOURMAND",
+      "note": "Roasted / Nutty",
+      "descriptors": "Coffee, toast, popcorn, hazelnut",
+      "texture_tactile": "Crunchy, dry, burnt",
+      "reference_material": "Acetyl Pyrazine",
+      "value": 1
+    },
+    {
+      "realm": "AMBER, SPICE & SWEET",
+      "family": "GOURMAND",
+      "note": "Boozy",
+      "descriptors": "Rum, whisky, cognac, oak-cask",
+      "texture_tactile": "Warm, swirling, golden",
+      "reference_material": "Rum Ether",
+      "value": 1
+    },
+    {
+      "realm": "AMBER, SPICE & SWEET",
+      "family": "GOURMAND",
+      "note": "Tonka / Almond",
+      "descriptors": "Marzipan, cherry, hay, tobacco-leaf",
+      "texture_tactile": "Powdery, dense, matte",
+      "reference_material": "Coumarin, Benzaldehyde",
+      "value": 1
+    },
+    {
+      "realm": "AMBER, SPICE & SWEET",
+      "family": "RESINOUS",
+      "note": "Incense",
+      "descriptors": "Smoky, church-like, piney",
+      "texture_tactile": "Cold smoke, vertical, jagged",
+      "reference_material": "Olibanum (Frankincense)",
+      "value": 1
+    },
+    {
+      "realm": "AMBER, SPICE & SWEET",
+      "family": "RESINOUS",
+      "note": "Dark Balsamic",
+      "descriptors": "Mushrooms, cola, root beer, sweet earth",
+      "texture_tactile": "Gummy, dark, chewy",
+      "reference_material": "Myrrh",
+      "value": 1
+    },
+    {
+      "realm": "AMBER, SPICE & SWEET",
+      "family": "RESINOUS",
+      "note": "Warm Resin",
+      "descriptors": "Vanilla, old paper, cinnamon-dust",
+      "texture_tactile": "Dusty, plush, warm",
+      "reference_material": "Benzoin",
+      "value": 1
+    },
+    {
+      "realm": "AMBER, SPICE & SWEET",
+      "family": "AMBER",
+      "note": "Amber",
+      "descriptors": "Dark, sticky, leathery, sweet",
+      "texture_tactile": "Thick, resinous, warm",
+      "reference_material": "Labdanum Absolute",
+      "value": 1
+    },
+    {
+      "realm": "AMBER, SPICE & SWEET",
+      "family": "TOBACCO",
+      "note": "Sweet / Cured",
+      "descriptors": "Cherry-pipe, molasses, dried fruit",
+      "texture_tactile": "Sticky, chewy, resinous",
+      "reference_material": "Tobacco Abs, Damascenone",
+      "value": 1
+    },
+    {
+      "realm": "FLORAL & FRUITY",
+      "family": "FLORAL",
+      "note": "Fresh Rose",
+      "descriptors": "Citrus-floral, metallic, petals, wine",
+      "texture_tactile": "Velvet, petals, smooth",
+      "reference_material": "Citronellol, PEA",
+      "value": 1
+    },
+    {
+      "realm": "FLORAL & FRUITY",
+      "family": "FLORAL",
+      "note": "Citrus Floral",
+      "descriptors": "Soapy, bitter-orange, cologne-like",
+      "texture_tactile": "Frothy, zesty, clean",
+      "reference_material": "Neroli, Petitgrain",
+      "value": 1
+    },
+    {
+      "realm": "FLORAL & FRUITY",
+      "family": "FLORAL",
+      "note": "Solar / Airy",
+      "descriptors": "Jasmine-breeze, warm sand, sunscreen",
+      "texture_tactile": "Spacious, expanding, radiant",
+      "reference_material": "Hedione, Salicylates",
+      "value": 1
+    },
+    {
+      "realm": "FLORAL & FRUITY",
+      "family": "FLORAL",
+      "note": "White / Narcotic",
+      "descriptors": "Orange blossom, grape-like, indolic",
+      "texture_tactile": "Creamy, heavy, narcotic",
+      "reference_material": "Methyl Anthranilate, Jasmine",
+      "value": 1
+    },
+    {
+      "realm": "FLORAL & FRUITY",
+      "family": "FLORAL",
+      "note": "Spicy Floral",
+      "descriptors": "Clove-like, banana, hot, lily",
+      "texture_tactile": "Vibrating, hot, textured",
+      "reference_material": "Ylang Ylang",
+      "value": 1
+    },
+    {
+      "realm": "FLORAL & FRUITY",
+      "family": "FLORAL",
+      "note": "Iris / Powdery",
+      "descriptors": "Lipstick, makeup, bread, violet",
+      "texture_tactile": "Fatty, chalky, soft",
+      "reference_material": "Orris, Ionones",
+      "value": 1
+    },
+    {
+      "realm": "FLORAL & FRUITY",
+      "family": "FRUITY",
+      "note": "Orchard Fruit",
+      "descriptors": "Apple, pear, banana, apricot",
+      "texture_tactile": "Juicy, fleshy, skin-like",
+      "reference_material": "C14 (Peach), Verdox",
+      "value": 1
+    },
+    {
+      "realm": "FLORAL & FRUITY",
+      "family": "FRUITY",
+      "note": "Tropical",
+      "descriptors": "Pineapple, mango, passionfruit",
+      "texture_tactile": "Syrupy, neon, acidic",
+      "reference_material": "Allyl Amyl Glycolate",
+      "value": 1
+    },
+    {
+      "realm": "FLORAL & FRUITY",
+      "family": "FRUITY",
+      "note": "Jammy / Berry",
+      "descriptors": "Sticky raisins, prunes, red fruit",
+      "texture_tactile": "Sticky, thick, granular",
+      "reference_material": "Beta-Damascone",
+      "value": 1
+    },
+    {
+      "realm": "FLORAL & FRUITY",
+      "family": "FRUITY",
+      "note": "Sulphurous",
+      "descriptors": "Cat-pee, blackcurrant bud, pungent",
+      "texture_tactile": "Sharp, biting, ammonia",
+      "reference_material": "Buchu Leaf, Oxane",
+      "value": 1
+    },
+    {
+      "realm": "FLORAL & FRUITY",
+      "family": "FRUITY",
+      "note": "Lactonic",
+      "descriptors": "Coconut, peach skin, fig milk",
+      "texture_tactile": "Creamy, milky, oily",
+      "reference_material": "Aldehyde C18",
+      "value": 1
+    },
+    {
+      "realm": "EARTHY, WOODY & DEEP",
+      "family": "WOOD",
+      "note": "Dry Wood",
+      "descriptors": "Pencil shavings, hamster cage, needle",
+      "texture_tactile": "Dry, scratching, brittle",
+      "reference_material": "Cedarwood, Ambrocenide",
+      "value": 1
+    },
+    {
+      "realm": "EARTHY, WOODY & DEEP",
+      "family": "WOOD",
+      "note": "Creamy Wood",
+      "descriptors": "Soft, buttery, smooth, milky",
+      "texture_tactile": "Smooth, rounded, dense",
+      "reference_material": "Sandalwood Album",
+      "value": 1
+    },
+    {
+      "realm": "EARTHY, WOODY & DEEP",
+      "family": "WOOD",
+      "note": "Sheer Wood",
+      "descriptors": "Skin-scent, metallic, velvet, fuzzy",
+      "texture_tactile": "Glossy, slippery, sheer",
+      "reference_material": "Iso E Super, Javanol",
+      "value": 1
+    },
+    {
+      "realm": "EARTHY, WOODY & DEEP",
+      "family": "WOOD",
+      "note": "Smoky",
+      "descriptors": "Campfire, BBQ, bacon, ash",
+      "texture_tactile": "Choking, thick, acrid",
+      "reference_material": "Birch Tar, Guaiacwood",
+      "value": 1
+    },
+    {
+      "realm": "EARTHY, WOODY & DEEP",
+      "family": "EARTHY",
+      "note": "Mossy / Forest",
+      "descriptors": "Inky, wet forest floor, bitter",
+      "texture_tactile": "Inky, damp, fuzzy",
+      "reference_material": "Oakmoss Absolute",
+      "value": 1
+    },
+    {
+      "realm": "EARTHY, WOODY & DEEP",
+      "family": "EARTHY",
+      "note": "Petrichor",
+      "descriptors": "Wet pavement, rain on dirt, beetroot",
+      "texture_tactile": "Mineral, cold, metallic",
+      "reference_material": "Geosmin",
+      "value": 1
+    },
+    {
+      "realm": "EARTHY, WOODY & DEEP",
+      "family": "EARTHY",
+      "note": "Earthy / Herbal",
+      "descriptors": "Dark chocolate, damp soil, rooty",
+      "texture_tactile": "Powdery, dark, cocoa",
+      "reference_material": "Patchouli, Vetiver",
+      "value": 1
+    },
+    {
+      "realm": "EARTHY, WOODY & DEEP",
+      "family": "MARINE",
+      "note": "Mineral / Salt",
+      "descriptors": "Cold stone, skin-salt, velvet, gloss",
+      "texture_tactile": "Smooth, gloss, saline",
+      "reference_material": "Ambroxan, Cetalox",
+      "value": 1
+    },
+    {
+      "realm": "EARTHY, WOODY & DEEP",
+      "family": "LEATHER",
+      "note": "Hard Leather",
+      "descriptors": "Road tar, smoke, harsh chemicals",
+      "texture_tactile": "Harsh, chemical, burning",
+      "reference_material": "Castoreum, IBQ",
+      "value": 1
+    },
+    {
+      "realm": "EARTHY, WOODY & DEEP",
+      "family": "LEATHER",
+      "note": "Suede",
+      "descriptors": "Soft leather handbag, velvet",
+      "texture_tactile": "Soft, fuzzy, napped",
+      "reference_material": "Safraleine",
+      "value": 1
+    },
+    {
+      "realm": "EARTHY, WOODY & DEEP",
+      "family": "TOBACCO",
+      "note": "Dry Leaf / Hay",
+      "descriptors": "Cigar wrapper, dried hay, earthy",
+      "texture_tactile": "Dry, brittle, papery",
+      "reference_material": "Tobacco Abs (Dry)",
+      "value": 1
+    },
+    {
+      "realm": "EARTHY, WOODY & DEEP",
+      "family": "ANIMALIC",
+      "note": "Animalic",
+      "descriptors": "Dirty hair, fur, fecal, barnyard",
+      "texture_tactile": "Oily, warm, living",
+      "reference_material": "Muscone, Indole, Oud",
+      "value": 1
+    }
+  ]
+}

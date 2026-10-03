@@ -1,0 +1,17 @@
+Mode: built-in image_gen
+Purpose: visual proof only; geometry and typography require production layout.
+
+Use case: infographic-diagram
+Asset type: preview-only visual proof for an illustrated olfactory sunburst atlas.
+Input images: Image 1 is a style and concept reference only, not an edit target.
+Primary request: Create a beautiful enlarged detail of the CITRUS section of the referenced photographic scent wheel. Show ONLY the three Citrus branches in a curved annular sector, not an entire wheel. Preserve the photographic collage aesthetic, fine white ring boundaries, and rich natural material detail of the reference. This is a visual prototype, not a production geometry template.
+Composition: square canvas, off-white background, a large cropped annular fan occupying most of the canvas; circle center below canvas. Six concentric curved bands reading from bottom/inside to top/outside: realm, family, note, descriptors, texture/tactile, reference material. Bottom two bands span the entire fan, upper four bands are divided into exactly three aligned radial columns. The three columns must remain in same order throughout: Zesty / Sparkling, Juicy / Sweet, Bitter / Dry. Make all lettering large and legible with restrained cream text backing where necessary, elegant serif major labels and clean highly readable minor labels. Flat front view, no perspective mockup, no shadows around paper.
+Photographic imagery: left column lemon zest, fresh lemon flesh, tiny sparkling tonic bubbles and pale sherbet; middle orange flesh, orange peel, juicy droplets and candied orange; right bergamot, white citrus pith, rhubarb stalks and dry tea leaves. Bright natural light, tactile macro photography, coherent citrus yellow, orange, muted green palette. Imagery should fill every cell but leave calm areas under text.
+Exact text, organized from inside outward:
+Realm shared band: "FRESH & LIFTED"
+Family shared band: "CITRUS"
+Note band three cells: "Zesty / Sparkling" | "Juicy / Sweet" | "Bitter / Dry"
+Descriptors band three cells: "Sharp, fizzy, sherbet, gin-and-tonic" | "Sugary, pulpy, candied orange" | "White pith, rhubarb, tea-leaf"
+Texture band three cells: "Prickly, effervescent, vibrating" | "Round, wet, bursting" | "Dry, rasping, matte"
+Outermost reference band three cells: "Lemon Oil, Citral" | "Sweet Orange Oil" | "Bergamot, Rhubafuran"
+Use line breaks for readable text. Render each exact label once only. No other text, no headings or invented claims, no watermarks, no bottle labels. All 14 cells visible. The main purpose is showing a richly illustrated yet readable slice of the user's scent classification guide.
