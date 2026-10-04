@@ -1,0 +1,18 @@
+{
+  "status": "Accepted for current experiments by the user, 2026-10-04; physical print unverified",
+  "heading_font": "Baskerville.ttc",
+  "body_font": "Avenir.ttc",
+  "ink": "#fff7e5",
+  "edge_color": "#080b08",
+  "edge_width": 0.8,
+  "fade_color": "#101912",
+  "close_dilation": 1.9,
+  "close_blur": 1.2,
+  "close_opacity": 0.93,
+  "outer_dilation": 2.4,
+  "outer_blur": 4,
+  "outer_opacity": 0.38,
+  "boundary_color": "#ece5d5",
+  "boundary_opacity": 0.48,
+  "boundary_width": 1.1
+}

@@ -1,6 +1,0 @@
-[project]
-name = "olfactory-taxonomy"
-version = "0.1.0"
-description = "Data and artwork for a tiled olfactory sunburst guide"
-requires-python = ">=3.10"
-dependencies = []

@@ -1,0 +1,30 @@
+{
+  "status": "Approved screen exhibit packaged for public sharing",
+  "date": "2026-10-04",
+  "counts": {
+    "labels": 318,
+    "families": 20,
+    "possibilities": 82,
+    "original_assets": 130,
+    "tiles": 906
+  },
+  "avif": {
+    "dimensions": [
+      9216,
+      9216
+    ],
+    "bytes": 5492723,
+    "quality": 65,
+    "chroma": "4:4:4"
+  },
+  "source_archive_bytes": 283965007,
+  "verification": [
+    "130 original PNG SHA-256 checksums and dimensions verified",
+    "Source ZIP CRC and original PNG hashes verified",
+    "Fresh-copy validation without original images, build history, Node dependencies or custom fonts",
+    "Browser checked landing page, family focus, native zoom, actual mouse drag and image-only toggle; no browser warnings/errors",
+    "Compared AVIF to approved PNG at heading and smaller-text crops",
+    "Prepared original-PNG embedded render successfully"
+  ],
+  "public_files_bytes": 49493635
+}

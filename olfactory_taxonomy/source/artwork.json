@@ -1,0 +1,3554 @@
+{
+  "title": "Olfactory Atlas",
+  "canvas": [
+    9216,
+    9216
+  ],
+  "coordinate_viewbox": [
+    0,
+    0,
+    6144,
+    6144
+  ],
+  "assets": [
+    {
+      "id": "aromatic-aromatic",
+      "cell_ids": [
+        "family-6a3db857f95d24d2"
+      ],
+      "path": "images/aromatic-aromatic.png",
+      "prompt": "prompts/aromatic-aromatic.txt",
+      "sha256": "445c4b8089a4df8ecb07cb402df8830eb969058263412acd5f00efa0efca6671",
+      "original_path": "assets/aromatic-calm-v1/aromatic.png",
+      "source_generation": "exec-dadffe8f-ba5d-4879-b774-2751fa375eea.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1536,
+        1024
+      ],
+      "description": "Lavender, herbs, mint, eucalyptus, anise sweets and tea interwoven into one aromatic composition.",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "AROMATIC"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "aromatic-herbal",
+      "cell_ids": [
+        "note-9df0d6081b6497fa"
+      ],
+      "path": "images/aromatic-herbal.png",
+      "prompt": "prompts/aromatic-herbal.txt",
+      "sha256": "1c80069708d58933464e0e09c243998fa4a90fbd4403e2cf0fa10f100a17648f",
+      "original_path": "assets/aromatic-calm-v1/herbal.png",
+      "source_generation": "exec-eac2f2ac-6084-40d6-9bd1-a19a9f40c4c6.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1536,
+        1024
+      ],
+      "description": "Herbal",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "AROMATIC",
+        "Herbal",
+        "Herbal"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "aromatic-cooling",
+      "cell_ids": [
+        "note-3f7373f21c70ee55"
+      ],
+      "path": "images/aromatic-cooling.png",
+      "prompt": "prompts/aromatic-cooling.txt",
+      "sha256": "f79bc6ebc3a5bfa161cdd2522c805196ec0af56eeeb5e19d9f4209abafe2d148",
+      "original_path": "assets/aromatic-calm-v1/cooling.png",
+      "source_generation": "exec-f169a5fa-50fa-4ea7-aa8c-69b7828fd139.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1536,
+        1024
+      ],
+      "description": "Cooling",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "AROMATIC",
+        "Cooling",
+        "Cooling"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "aromatic-anisic",
+      "cell_ids": [
+        "note-356a92d8a11756e8",
+        "descriptors-88d6147b86178d9a",
+        "texture_tactile-7ebd3b976cd0afdf",
+        "reference_material-19d03834750c2b51"
+      ],
+      "path": "images/aromatic-anisic.png",
+      "prompt": "prompts/aromatic-anisic.txt",
+      "sha256": "99f0db88757f03d87bbf9b441ba2d8eb268221e334045788b6d33847b0e45175",
+      "original_path": "assets/aromatic-calm-v1/anisic.png",
+      "source_generation": "exec-af1e7ee0-d36e-44cc-8e6d-51a6fb45c1d8.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Anisic \u2192 Aniseed sweets, fennel seed \u2192 smooth \u2192 Anethole",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "AROMATIC",
+        "Anisic",
+        "Anisic",
+        "Aniseed sweets, fennel seed",
+        "smooth",
+        "Anethole"
+      ],
+      "reference_inputs_historical": [
+        "assets/aromatic-calm-v1/anisic-initial.png"
+      ]
+    },
+    {
+      "id": "aromatic-tea",
+      "cell_ids": [
+        "note-75732171fb7d5e0b"
+      ],
+      "path": "images/aromatic-tea.png",
+      "prompt": "prompts/aromatic-tea.txt",
+      "sha256": "d5391493bf81897d0bf31af21f898f2b3b07346b5a794e793690d1b70169b1f9",
+      "original_path": "assets/aromatic-calm-v1/tea.png",
+      "source_generation": "exec-e8336371-e994-4310-935d-683e59a9194b.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1536,
+        1024
+      ],
+      "description": "Tea",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "AROMATIC",
+        "Tea",
+        "Tea"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "aromatic-lavender",
+      "cell_ids": [
+        "descriptors-7d6430594ea71c50",
+        "texture_tactile-5935f62b186702af",
+        "reference_material-49a1754c6753463d"
+      ],
+      "path": "images/aromatic-lavender.png",
+      "prompt": "prompts/aromatic-lavender.txt",
+      "sha256": "99052ca58a5dbb2cf556231e352f3a1ce59497627aab3ea178ed1617cd30b1c5",
+      "original_path": "assets/aromatic-calm-v1/lavender.png",
+      "source_generation": "exec-94cfe809-1e14-4774-a5b9-2494149e23f4.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Lavender sprigs \u2192 soft, dry \u2192 Lavender oil",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "AROMATIC",
+        "Herbal",
+        "Lavender sprigs",
+        "soft, dry",
+        "Lavender oil"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "aromatic-rosemary",
+      "cell_ids": [
+        "descriptors-37f0edaa196b41e9",
+        "texture_tactile-08b193f8d6416d49",
+        "reference_material-2c379bd333ae18ea"
+      ],
+      "path": "images/aromatic-rosemary.png",
+      "prompt": "prompts/aromatic-rosemary.txt",
+      "sha256": "b542ea2c2a1ac15bf5cb89b339616761323b1282b5c7553199479dfce6fe063b",
+      "original_path": "assets/aromatic-calm-v1/rosemary.png",
+      "source_generation": "exec-0ab3d149-197f-4cd6-95f4-dec5695d9f8e.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Crushed rosemary, thyme \u2192 dry \u2192 Rosemary oil (herbal facet)",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "AROMATIC",
+        "Herbal",
+        "Crushed rosemary, thyme",
+        "dry",
+        "Rosemary oil (herbal facet)"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "aromatic-mint-scent",
+      "cell_ids": [
+        "descriptors-a5288a8824364d70",
+        "texture_tactile-c78c5325acdabcbd",
+        "reference_material-dfc16fbe0d8f43de"
+      ],
+      "path": "images/aromatic-mint-scent.png",
+      "prompt": "prompts/aromatic-mint-scent.txt",
+      "sha256": "70a0bb373ad564bd3ac0fb5f524a98afed922fad71031472775d3c42f871cfee",
+      "original_path": "assets/route-recognition-v1/mint-balanced-position.png",
+      "source_generation": "exec-a5b3061a-f8f2-4d65-a68a-8f9cd6f0ab7c.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": null,
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "AROMATIC",
+        "Cooling",
+        "Peppermint, chewing gum"
+      ],
+      "reference_inputs_historical": [
+        "assets/route-recognition-v1/mint-balanced.png"
+      ]
+    },
+    {
+      "id": "aromatic-eucalyptus-scent",
+      "cell_ids": [
+        "descriptors-38a121600e5c9dec",
+        "texture_tactile-d20684e0df3b88a3",
+        "reference_material-498fa16732bb3605"
+      ],
+      "path": "images/aromatic-eucalyptus-scent.png",
+      "prompt": "prompts/aromatic-eucalyptus-scent.txt",
+      "sha256": "0ca5eb48038e5a64c9f197e24324b25de05fc9eb07d965d93c9dddc3080eadff",
+      "original_path": "assets/aromatic-calm-v1/eucalyptus-scent.png",
+      "source_generation": "exec-e083f01b-8625-4787-9e1e-d970659d422c.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Silver-blue eucalyptus, translucent balm and aromatic vapour.",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "AROMATIC",
+        "Cooling",
+        "Camphoraceous: eucalyptus, vapour rub"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "aromatic-green-tea",
+      "cell_ids": [
+        "descriptors-bd1bcab763de4e9d",
+        "texture_tactile-50d915ba1a1d2468",
+        "reference_material-3bcc8894af92873a"
+      ],
+      "path": "images/aromatic-green-tea.png",
+      "prompt": "prompts/aromatic-green-tea.txt",
+      "sha256": "a0a241d6b45da5be6e3a4cce29c67acd8cbe5edb297841b7e8b5c76f8dd571c3",
+      "original_path": "assets/aromatic-calm-v1/green-tea.png",
+      "source_generation": "exec-a6e4d9cf-4e75-4605-87f5-b13094baa4c7.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Green tea, jasmine petals \u2192 light, soft \u2192 Tea Jasmine SFE",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "AROMATIC",
+        "Tea",
+        "Green tea, jasmine petals",
+        "light, soft",
+        "Tea Jasmine SFE"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "aromatic-smoked-tea",
+      "cell_ids": [
+        "descriptors-e86e6876eb28ea14",
+        "texture_tactile-ef31202304795dd1",
+        "reference_material-949076a83a2436f6"
+      ],
+      "path": "images/aromatic-smoked-tea.png",
+      "prompt": "prompts/aromatic-smoked-tea.txt",
+      "sha256": "96234c389191cbfb0fecbb2437684243d99726725aaf0512c136afa43c1103a7",
+      "original_path": "assets/aromatic-calm-v1/smoked-tea.png",
+      "source_generation": "exec-3f00f7da-bbf5-492a-ae80-8e08c57578a4.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Lapsang tea, wood smoke \u2192 dry \u2192 Smoked black tea extract",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "AROMATIC",
+        "Tea",
+        "Lapsang tea, wood smoke",
+        "dry",
+        "Smoked black tea extract"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "wood-charred",
+      "cell_ids": [
+        "descriptors-0c129a668dbc2589",
+        "texture_tactile-bf07647cccca0120",
+        "reference_material-12e8ce16c9672b11"
+      ],
+      "path": "images/wood-charred.png",
+      "prompt": "prompts/wood-charred.txt",
+      "sha256": "1328844f182ab08ee357454f6369efd386bf2125c63eca084371bbaaf03d1c46",
+      "original_path": "assets/wheel-calm-v1/wood-charred.png",
+      "source_generation": "exec-c1442009-c4f3-4337-8385-ba39bc3c2158.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Charred timber, tar \u2192 rough \u2192 Guaiacol (smoke facet)",
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "WOOD",
+        "Smoky",
+        "Charred timber, tar",
+        "rough",
+        "Guaiacol (smoke facet)"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "wood-smoked-timber",
+      "cell_ids": [
+        "descriptors-e14ba7470e0dc300",
+        "texture_tactile-9692a2958eb1e4f6",
+        "reference_material-2ad0c0a3d41ec1dc"
+      ],
+      "path": "images/wood-smoked-timber.png",
+      "prompt": "prompts/wood-smoked-timber.txt",
+      "sha256": "fd0b411c58951b1a3a698d9f869879dd2dfface6d17de7e6b43b821ba4ff91e6",
+      "original_path": "assets/wheel-calm-v1/wood-smoked-timber.png",
+      "source_generation": "exec-8bf54ae1-4bee-4ddb-a099-2877f5cec21e.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Smoked tea, warm timber \u2192 soft, dry \u2192 Guaiacwood oil",
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "WOOD",
+        "Smoky",
+        "Smoked tea, warm timber",
+        "soft, dry",
+        "Guaiacwood oil"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "wood-cedar",
+      "cell_ids": [
+        "descriptors-aa3e55d574848591",
+        "texture_tactile-3beb2c0d58ade675",
+        "reference_material-924ced195ddc9df6"
+      ],
+      "path": "images/wood-cedar.png",
+      "prompt": "prompts/wood-cedar.txt",
+      "sha256": "e642040c489e7f038ea98d7af4826baa61974d088838ffaa22c0d270ebad4dc1",
+      "original_path": "assets/route-recognition-v1/cedar-refined.png",
+      "source_generation": "exec-b476e19d-ac92-4ab6-9779-4d8788275f27.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        727,
+        2164
+      ],
+      "description": null,
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "WOOD",
+        "Dry Wood",
+        "Cedary: pencil shavings",
+        "rough",
+        "Virginia cedarwood oil"
+      ],
+      "reference_inputs_historical": [
+        "assets/route-recognition-v1/cedar.png"
+      ]
+    },
+    {
+      "id": "wood-vetiver",
+      "cell_ids": [
+        "descriptors-c03cd56aeb11b89e",
+        "texture_tactile-3be32618cf9c3aca",
+        "reference_material-45a331c114f38eff"
+      ],
+      "path": "images/wood-vetiver.png",
+      "prompt": "prompts/wood-vetiver.txt",
+      "sha256": "b7acbfc84f62ce0830f9be74e2a7041fa7205d668b35c6dda8a3a4ef2ea5a055",
+      "original_path": "assets/wheel-calm-v1/wood-vetiver.png",
+      "source_generation": "exec-2c8f9837-5794-4dde-8443-fcccce74c0a0.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Dry roots, a nutty hint \u2192 fibrous \u2192 Vetiver Heart",
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "WOOD",
+        "Dry Wood",
+        "Dry roots, a nutty hint",
+        "fibrous",
+        "Vetiver Heart"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "wood-warm-cedar",
+      "cell_ids": [
+        "descriptors-338fa8d09ca59b73",
+        "texture_tactile-b24100aa11c4e7b2",
+        "reference_material-a458e2c8f4771cec"
+      ],
+      "path": "images/wood-warm-cedar.png",
+      "prompt": "prompts/wood-warm-cedar.txt",
+      "sha256": "141ab507f03922613349e957ad3250d6c75f705ab133ccc6e7abf1bd08529a78",
+      "original_path": "assets/wheel-calm-v1/wood-warm-cedar.png",
+      "source_generation": "exec-e262cf6f-bba3-4ea5-ade5-fa50c8310ea6.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Cedar-like wood, dry warmth \u2192 smooth \u2192 Bornafix",
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "WOOD",
+        "Dry Wood",
+        "Cedar-like wood, dry warmth",
+        "smooth",
+        "Bornafix"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "wood-sandalwood",
+      "cell_ids": [
+        "note-a583edb308043910",
+        "descriptors-253f9d258a43d434",
+        "texture_tactile-de6001a42e8de346",
+        "reference_material-22aa325d3f6f605b"
+      ],
+      "path": "images/wood-sandalwood.png",
+      "prompt": "prompts/wood-sandalwood.txt",
+      "sha256": "fe44202b31f2167daf47d1c6c3bd8b5b673d1c874f220d4fb070c705ff7219af",
+      "original_path": "assets/wheel-calm-v1/wood-sandalwood.png",
+      "source_generation": "exec-b8cfe6d6-1d68-4ccb-86b1-25d91d5d9eda.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Creamy Wood \u2192 Creamy sandalwood, a rosy hint \u2192 smooth, rounded \u2192 Javanol",
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "WOOD",
+        "Creamy Wood",
+        "Creamy sandalwood, a rosy hint",
+        "smooth, rounded",
+        "Javanol"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "wood-sheer",
+      "cell_ids": [
+        "note-3a58b6c193eb759d",
+        "descriptors-5003de027803036d",
+        "texture_tactile-68024d0d6a0201ac",
+        "reference_material-12c0078d41cb4cb1"
+      ],
+      "path": "images/wood-sheer.png",
+      "prompt": "prompts/wood-sheer.txt",
+      "sha256": "f6e42b359f5f56088cf74559a3f8efd081362234febf57232c2d379a84ccda22",
+      "original_path": "assets/wheel-calm-v1/wood-sheer.png",
+      "source_generation": "exec-3aa5e5a6-9158-4310-baef-824e915e85d5.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        727,
+        2164
+      ],
+      "description": "Sheer Wood \u2192 Smooth woody amber \u2192 velvety \u2192 Iso E Super",
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "WOOD",
+        "Sheer Wood",
+        "Smooth woody amber",
+        "velvety",
+        "Iso E Super"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "wood-smoky",
+      "cell_ids": [
+        "note-a86e8037d554a1e3"
+      ],
+      "path": "images/wood-smoky.png",
+      "prompt": "prompts/wood-smoky.txt",
+      "sha256": "92c0e46f854e0cc6a1ea33a48231b3c9ecb5db3e0f106ae7d062134c5de9fa83",
+      "original_path": "assets/wheel-calm-v1/wood-smoky.png",
+      "source_generation": "exec-5831167f-8a49-473f-aa09-e1f1b55d3ba9.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "description": "Smoky",
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "WOOD",
+        "Smoky"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "wood-dry-wood",
+      "cell_ids": [
+        "note-96b36e9c2cb6a7a1"
+      ],
+      "path": "images/wood-dry-wood.png",
+      "prompt": "prompts/wood-dry-wood.txt",
+      "sha256": "cb55f06fe29b7e86215c05e6ada6ddb58e2e04ef0c958f0b93276904ccc5ff8d",
+      "original_path": "assets/wheel-calm-v1/wood-dry-wood.png",
+      "source_generation": "exec-45b300d3-95e5-44b7-bcba-76cbaf275d69.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "description": "Dry Wood",
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "WOOD",
+        "Dry Wood"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "wood-wood",
+      "cell_ids": [
+        "family-3b2695bb80716a15"
+      ],
+      "path": "images/wood-wood.png",
+      "prompt": "prompts/wood-wood.txt",
+      "sha256": "296536e29473ef07e572c970c6ec4f1f867a3ba0c57b537a83046b50ae828e28",
+      "original_path": "assets/wheel-calm-v1/wood-wood.png",
+      "source_generation": "exec-5049e6ef-5f98-4fad-b7a3-1cf3121e808a.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1536,
+        1024
+      ],
+      "description": "WOOD",
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "WOOD"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "0-realm-realm-c6df643822877e93",
+      "cell_ids": [
+        "realm-c6df643822877e93"
+      ],
+      "path": "images/0-realm-realm-c6df643822877e93.png",
+      "prompt": "prompts/0-realm-realm-c6df643822877e93.txt",
+      "sha256": "faf105de868ba10268e50547a00981013fd6263526c9f175250885ed81a2081b",
+      "original_path": "assets/editorial-inner-v1/fresh.png",
+      "source_generation": "exec-fc1b8682-2905-4fba-b56f-38e70d229c6b.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1536,
+        1024
+      ],
+      "description": "Fresh & Lifted",
+      "full_scent_path": null,
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "1-realm-realm-bd6ae435880b095a",
+      "cell_ids": [
+        "realm-bd6ae435880b095a"
+      ],
+      "path": "images/1-realm-realm-bd6ae435880b095a.png",
+      "prompt": "prompts/1-realm-realm-bd6ae435880b095a.txt",
+      "sha256": "aff564791a154b96c7b950bc81e30dee1b3937d8eec805cc9557794d72ea0d5e",
+      "original_path": "assets/editorial-inner-v1/floral.png",
+      "source_generation": "exec-eb8031c8-72c8-45be-93be-c52b626d44a4.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1536,
+        1024
+      ],
+      "description": "Floral & Fruity",
+      "full_scent_path": null,
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "2-realm-realm-1956c981bb8c9c05",
+      "cell_ids": [
+        "realm-1956c981bb8c9c05"
+      ],
+      "path": "images/2-realm-realm-1956c981bb8c9c05.png",
+      "prompt": "prompts/2-realm-realm-1956c981bb8c9c05.txt",
+      "sha256": "6359770937cf832518067f8b9cddab5b3bff86d171c64f3a41b5106dde9d7ad2",
+      "original_path": "assets/editorial-inner-v1/amber.png",
+      "source_generation": "exec-836bd2d2-0963-4f8c-9ec6-81e6bd566830.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1536,
+        1024
+      ],
+      "description": "Amber, Spice & Sweet",
+      "full_scent_path": null,
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "3-realm-realm-bcd522fe5fc4adf7",
+      "cell_ids": [
+        "realm-bcd522fe5fc4adf7"
+      ],
+      "path": "images/3-realm-realm-bcd522fe5fc4adf7.png",
+      "prompt": "prompts/3-realm-realm-bcd522fe5fc4adf7.txt",
+      "sha256": "619118e851ed599c35fde95f6f5f4f2eb1c3e9d4ce983edac464218260542149",
+      "original_path": "assets/editorial-inner-v1/earthy.png",
+      "source_generation": "exec-64dab038-8061-4e3e-a0c1-59dffb1712d6.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1536,
+        1024
+      ],
+      "description": "Earthy, Woody & Deep",
+      "full_scent_path": null,
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "0-watery-family-d3babf160afa0af1",
+      "cell_ids": [
+        "family-d3babf160afa0af1",
+        "note-9a94734089ffde76"
+      ],
+      "path": "images/0-watery-family-d3babf160afa0af1.png",
+      "prompt": "prompts/0-watery-family-d3babf160afa0af1.txt",
+      "sha256": "5a30ad60cd6633b0f6c8100dfa2e9c90f1aab6f432419f1db14d32fc99c9658c",
+      "original_path": "assets/wheel-calm-v1/0-watery-family-d3babf160afa0af1.png",
+      "source_generation": "exec-e6cf3d79-0bea-46b6-a7fe-335359f8a4ae.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "WATERY \u2192 Aquatic / Marine",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "WATERY",
+        "Aquatic / Marine"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "0-musk-family-6d1b0a3db8ba57d1",
+      "cell_ids": [
+        "family-6d1b0a3db8ba57d1",
+        "note-b21e0ee7aad9cc85",
+        "descriptors-d835be2fc1b3b9e1",
+        "texture_tactile-228eff34381408bb",
+        "reference_material-e283299387b1d1ad"
+      ],
+      "path": "images/0-musk-family-6d1b0a3db8ba57d1.png",
+      "prompt": "prompts/0-musk-family-6d1b0a3db8ba57d1.txt",
+      "sha256": "2460612ae0dd8fd90039c4c5f8a9d30e221ddcd9a3fa5ba3b3e6446f61c9e39b",
+      "original_path": "assets/wheel-calm-v1/0-musk-family-6d1b0a3db8ba57d1.png",
+      "source_generation": "exec-73b626de-49d9-4a85-b047-a7f6022c57f9.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "MUSK \u2192 Clean Musk \u2192 Freshly washed fabric \u2192 soft, fluffy \u2192 Galaxolide",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "MUSK",
+        "Clean Musk",
+        "Freshly washed fabric",
+        "soft, fluffy",
+        "Galaxolide"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "0-aldehydic-family-291049534b778a46",
+      "cell_ids": [
+        "family-291049534b778a46",
+        "note-9de35774474cb3c8"
+      ],
+      "path": "images/0-aldehydic-family-291049534b778a46.png",
+      "prompt": "prompts/0-aldehydic-family-291049534b778a46.txt",
+      "sha256": "e3fdf9e2556bfe2dc2f28da4b829521205183eef04fd78f8e8e418238e891e80",
+      "original_path": "assets/wheel-calm-v1/0-aldehydic-family-291049534b778a46.png",
+      "source_generation": "exec-0ace74db-1bf8-47b2-b9c0-131c438bc5f4.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "ALDEHYDIC \u2192 Aldehydic",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "ALDEHYDIC",
+        "Aldehydic"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "0-ethereal-family-c7b0f733951947a7",
+      "cell_ids": [
+        "family-c7b0f733951947a7",
+        "note-72b2e33a5a2f9e27",
+        "descriptors-f9624e0baa58331e",
+        "texture_tactile-15705df120b1646a",
+        "reference_material-fdb677c2757004af"
+      ],
+      "path": "images/0-ethereal-family-c7b0f733951947a7.png",
+      "prompt": "prompts/0-ethereal-family-c7b0f733951947a7.txt",
+      "sha256": "6f3e083b7b9b21fb9290aab68da74ec41973a1642fa5813d62b9220889a0bfe6",
+      "original_path": "assets/wheel-calm-v1/0-ethereal-family-c7b0f733951947a7.png",
+      "source_generation": "exec-5a05566a-19d9-4fb9-8740-ada019046731.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "ETHEREAL \u2192 Ethereal \u2192 Solvent-like: nail-varnish remover, pear drops \u2192 sharp \u2192 Ethyl acetate",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "ETHEREAL",
+        "Ethereal",
+        "Solvent-like: nail-varnish remover, pear drops",
+        "sharp",
+        "Ethyl acetate"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "0-green-family-e8abbc2782dd304c",
+      "cell_ids": [
+        "family-e8abbc2782dd304c"
+      ],
+      "path": "images/0-green-family-e8abbc2782dd304c.png",
+      "prompt": "prompts/0-green-family-e8abbc2782dd304c.txt",
+      "sha256": "303421a4d0930982cd6a9cf2da50904332fab91b1d1cd4e7d378f1e7dfe97739",
+      "original_path": "assets/wheel-calm-v1/0-green-family-e8abbc2782dd304c.png",
+      "source_generation": "exec-cfcba4de-5949-483b-a325-2cae81deab01.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "description": "GREEN",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "GREEN"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "0-citrus-family-45f61a1d7fa52844",
+      "cell_ids": [
+        "family-45f61a1d7fa52844"
+      ],
+      "path": "images/0-citrus-family-45f61a1d7fa52844.png",
+      "prompt": "prompts/0-citrus-family-45f61a1d7fa52844.txt",
+      "sha256": "423ff062c9813ad13eaad2f2cb24c28267c9700423626d48d62bbe6238662e04",
+      "original_path": "assets/wheel-calm-v1/0-citrus-family-45f61a1d7fa52844.png",
+      "source_generation": "exec-9ea77266-ab5a-4dc3-8c07-4a8b9171eb90.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "description": "CITRUS",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "CITRUS"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "1-floral-family-48ab9763f6a87240",
+      "cell_ids": [
+        "family-48ab9763f6a87240"
+      ],
+      "path": "images/1-floral-family-48ab9763f6a87240.png",
+      "prompt": "prompts/1-floral-family-48ab9763f6a87240.txt",
+      "sha256": "632c334894b6572861d2a604e1af3dbc3f1bb35d21a4b3a348c639002cbab94b",
+      "original_path": "assets/wheel-calm-v1/1-floral-family-48ab9763f6a87240.png",
+      "source_generation": "exec-3a1fcca7-85da-4ec7-adc8-1891e817b31c.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1536,
+        1024
+      ],
+      "description": "FLORAL",
+      "full_scent_path": [
+        "FLORAL & FRUITY",
+        "FLORAL"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "1-fruity-family-7164591a32cb2b0d",
+      "cell_ids": [
+        "family-7164591a32cb2b0d"
+      ],
+      "path": "images/1-fruity-family-7164591a32cb2b0d.png",
+      "prompt": "prompts/1-fruity-family-7164591a32cb2b0d.txt",
+      "sha256": "bccc79367cd60f0a570bc6f60f0854a96305812f0fd41bf67f2f361298e41396",
+      "original_path": "assets/wheel-calm-v1/1-fruity-family-7164591a32cb2b0d.png",
+      "source_generation": "exec-637c1a14-2543-4995-bbc1-e8c5ed56deb0.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1536,
+        1024
+      ],
+      "description": "FRUITY",
+      "full_scent_path": [
+        "FLORAL & FRUITY",
+        "FRUITY"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "2-gourmand-family-b32beb5faca91f71",
+      "cell_ids": [
+        "family-b32beb5faca91f71"
+      ],
+      "path": "images/2-gourmand-family-b32beb5faca91f71.png",
+      "prompt": "prompts/2-gourmand-family-b32beb5faca91f71.txt",
+      "sha256": "29640a6fb0d01dbb3b5be952563ad62e79f467c678d21562103e6385e34ea877",
+      "original_path": "assets/wheel-calm-v1/2-gourmand-family-b32beb5faca91f71.png",
+      "source_generation": "exec-34f2103c-4efb-47ce-9ee9-efd17010448f.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1536,
+        1024
+      ],
+      "description": "GOURMAND",
+      "full_scent_path": [
+        "AMBER, SPICE & SWEET",
+        "GOURMAND"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "2-tobacco-family-2bf646c2784790cd",
+      "cell_ids": [
+        "family-2bf646c2784790cd",
+        "note-fb78447582bacbe4",
+        "descriptors-d0ce98827fa65696",
+        "texture_tactile-0f307f50e1925458",
+        "reference_material-040bf0cbfc0761dd"
+      ],
+      "path": "images/2-tobacco-family-2bf646c2784790cd.png",
+      "prompt": "prompts/2-tobacco-family-2bf646c2784790cd.txt",
+      "sha256": "747037724c4ea5446ba3b65a6eae0b6396d62da24a4c7e461a07ccf62394a587",
+      "original_path": "assets/wheel-calm-v1/2-tobacco-family-2bf646c2784790cd.png",
+      "source_generation": "exec-9321ae66-91ac-4d39-a132-9d27cc645aad.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        725,
+        2170
+      ],
+      "description": "TOBACCO \u2192 Sweet / Cured \u2192 Pipe tobacco, molasses, dried fruit \u2192 rich \u2192 Tobacco absolute",
+      "full_scent_path": [
+        "AMBER, SPICE & SWEET",
+        "TOBACCO",
+        "Sweet / Cured",
+        "Pipe tobacco, molasses, dried fruit",
+        "rich",
+        "Tobacco absolute"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "2-spice-family-10f2344440fedca8",
+      "cell_ids": [
+        "family-10f2344440fedca8"
+      ],
+      "path": "images/2-spice-family-10f2344440fedca8.png",
+      "prompt": "prompts/2-spice-family-10f2344440fedca8.txt",
+      "sha256": "9477a7f803924a87ac07046d260dfcb40485f84fc55509eb36dad1ff7ee5a80c",
+      "original_path": "assets/wheel-calm-v1/2-spice-family-10f2344440fedca8.png",
+      "source_generation": "exec-eb579d3f-bb95-4438-9f81-0cfb09d0f931.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "description": "SPICE",
+      "full_scent_path": [
+        "AMBER, SPICE & SWEET",
+        "SPICE"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "2-amber-family-8844c95b7bfc39eb",
+      "cell_ids": [
+        "family-8844c95b7bfc39eb",
+        "note-ffab5746bb1a3c5c"
+      ],
+      "path": "images/2-amber-family-8844c95b7bfc39eb.png",
+      "prompt": "prompts/2-amber-family-8844c95b7bfc39eb.txt",
+      "sha256": "68d1bef4af5083d6bb5da2b13dc3d7ec862ba7bd4096808232856cd2997515a9",
+      "original_path": "assets/wheel-calm-v1/2-amber-family-8844c95b7bfc39eb.png",
+      "source_generation": "exec-ea13e7a7-05ca-4c8e-ab5c-b30daf4682eb.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "AMBER \u2192 Amber",
+      "full_scent_path": [
+        "AMBER, SPICE & SWEET",
+        "AMBER",
+        "Amber"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "2-resinous-family-1d40d1ef268e96df",
+      "cell_ids": [
+        "family-1d40d1ef268e96df"
+      ],
+      "path": "images/2-resinous-family-1d40d1ef268e96df.png",
+      "prompt": "prompts/2-resinous-family-1d40d1ef268e96df.txt",
+      "sha256": "b7ff4cb835a8308a09625c67a9c7f598b8f43a357c6c894114de776991ad0147",
+      "original_path": "assets/wheel-calm-v1/2-resinous-family-1d40d1ef268e96df.png",
+      "source_generation": "exec-00b6df37-a414-485f-b657-3ce73373a96b.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "description": "RESINOUS",
+      "full_scent_path": [
+        "AMBER, SPICE & SWEET",
+        "RESINOUS"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "3-leather-family-0153c61ef96008e8",
+      "cell_ids": [
+        "family-0153c61ef96008e8"
+      ],
+      "path": "images/3-leather-family-0153c61ef96008e8.png",
+      "prompt": "prompts/3-leather-family-0153c61ef96008e8.txt",
+      "sha256": "3668163d0e419711ec30ba6d74119c191fb79992413b7c7588b1223989404ff8",
+      "original_path": "assets/wheel-calm-v1/3-leather-family-0153c61ef96008e8.png",
+      "source_generation": "exec-d9ca34c6-2058-4f76-920f-e8bc3f6b14f3.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "description": "LEATHER",
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "LEATHER"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "3-animalic-family-f2cdfbcf8bd551f4",
+      "cell_ids": [
+        "family-f2cdfbcf8bd551f4",
+        "note-5baedcaa1992ff72"
+      ],
+      "path": "images/3-animalic-family-f2cdfbcf8bd551f4.png",
+      "prompt": "prompts/3-animalic-family-f2cdfbcf8bd551f4.txt",
+      "sha256": "bb13a15f56ef72c758bb1e443ee918d90c3878c8eb572450b9b49fb5bed2eda2",
+      "original_path": "assets/wheel-calm-v1/3-animalic-family-f2cdfbcf8bd551f4.png",
+      "source_generation": "exec-9ce305b4-d2ca-4f3c-802b-85d51c438ad3.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "ANIMALIC \u2192 Animalic",
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "ANIMALIC",
+        "Animalic"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "3-tobacco-family-d498d9a2bafcd5c2",
+      "cell_ids": [
+        "family-d498d9a2bafcd5c2",
+        "note-57ea675942018918"
+      ],
+      "path": "images/3-tobacco-family-d498d9a2bafcd5c2.png",
+      "prompt": "prompts/3-tobacco-family-d498d9a2bafcd5c2.txt",
+      "sha256": "c8c7fc689ac8307d7b9947d0de9aec6b02e65c5108f92a75d723dbdaf6f61761",
+      "original_path": "assets/wheel-calm-v1/3-tobacco-family-d498d9a2bafcd5c2.png",
+      "source_generation": "exec-d508a618-bdd0-45c8-aa82-1c593e363512.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "TOBACCO \u2192 Dry Leaf / Hay",
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "TOBACCO",
+        "Dry Leaf / Hay"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "3-earthy-family-a46a320a21c020dc",
+      "cell_ids": [
+        "family-a46a320a21c020dc"
+      ],
+      "path": "images/3-earthy-family-a46a320a21c020dc.png",
+      "prompt": "prompts/3-earthy-family-a46a320a21c020dc.txt",
+      "sha256": "3f4d3631c45c50dea5c8fb1a4f9d35d7b9bb691e5e1f85ea7ecc080c4fc20366",
+      "original_path": "assets/wheel-calm-v1/3-earthy-family-a46a320a21c020dc.png",
+      "source_generation": "exec-d730fe5c-e0ab-4528-8664-61bcdc7bb5b3.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "description": "EARTHY",
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "EARTHY"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "3-marine-family-bfe41cf9ae125d28",
+      "cell_ids": [
+        "family-bfe41cf9ae125d28",
+        "note-72a4f4a765102f3e"
+      ],
+      "path": "images/3-marine-family-bfe41cf9ae125d28.png",
+      "prompt": "prompts/3-marine-family-bfe41cf9ae125d28.txt",
+      "sha256": "a939ca68261443d75554b90153a2501005117cbe5c1262d595e4d9c5bfa01fe4",
+      "original_path": "assets/wheel-calm-v1/3-marine-family-bfe41cf9ae125d28.png",
+      "source_generation": "exec-081dcdf7-16a8-4385-8287-b6a9ffc9ceae.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "MARINE \u2192 Mineral / Saline",
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "MARINE",
+        "Mineral / Saline"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "0-green-note-409457a635f2bc9b",
+      "cell_ids": [
+        "note-409457a635f2bc9b",
+        "descriptors-4ea3f4d5a71c18f2",
+        "texture_tactile-d96120c2f522c5a8",
+        "reference_material-e5101cf12abd41a2"
+      ],
+      "path": "images/0-green-note-409457a635f2bc9b.png",
+      "prompt": "prompts/0-green-note-409457a635f2bc9b.txt",
+      "sha256": "dc75d4ca7bd36d2f3373e471f238e17ec4316ed91f6a63ca81fbfd95c33edf67",
+      "original_path": "assets/wheel-calm-v1/0-green-note-409457a635f2bc9b.png",
+      "source_generation": "exec-c78b4af8-dc30-4684-8f8d-9d2751fdb4eb.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Fresh Green \u2192 Cut grass, crushed leaves \u2192 crisp \u2192 cis-3-Hexenol",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "GREEN",
+        "Fresh Green",
+        "Cut grass, crushed leaves",
+        "crisp",
+        "cis-3-Hexenol"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "0-green-note-f734c5a8d6cefedf",
+      "cell_ids": [
+        "note-f734c5a8d6cefedf"
+      ],
+      "path": "images/0-green-note-f734c5a8d6cefedf.png",
+      "prompt": "prompts/0-green-note-f734c5a8d6cefedf.txt",
+      "sha256": "ad831433a16c202dd6ba0a325f16ac0c93805b7141384ad9282725e139c7820c",
+      "original_path": "assets/wheel-calm-v1/0-green-note-f734c5a8d6cefedf.png",
+      "source_generation": "exec-af120ade-ba4f-4974-ad33-6832f50c3ab1.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "description": "Vegetal / Sap",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "GREEN",
+        "Vegetal / Sap"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "0-citrus-note-e9bc557392d69f07",
+      "cell_ids": [
+        "note-e9bc557392d69f07"
+      ],
+      "path": "images/0-citrus-note-e9bc557392d69f07.png",
+      "prompt": "prompts/0-citrus-note-e9bc557392d69f07.txt",
+      "sha256": "eb4fecb2d5b5093157397c00f1dd36da6d55823141030c28242c23e2da2b26c4",
+      "original_path": "assets/wheel-calm-v1/0-citrus-note-e9bc557392d69f07.png",
+      "source_generation": "exec-99118c7d-edf5-40bf-b418-15260f716940.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "description": "Bitter / Dry",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "CITRUS",
+        "Bitter / Dry"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "0-citrus-note-ea87b5736462e4e5",
+      "cell_ids": [
+        "note-ea87b5736462e4e5"
+      ],
+      "path": "images/0-citrus-note-ea87b5736462e4e5.png",
+      "prompt": "prompts/0-citrus-note-ea87b5736462e4e5.txt",
+      "sha256": "a907517da051a869a3be87febf7e90a78547cf4859d7f43049b79484fd91888f",
+      "original_path": "assets/wheel-calm-v1/0-citrus-note-ea87b5736462e4e5.png",
+      "source_generation": "exec-ee170400-a378-404e-868a-5bd8b89da2ae.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "description": "Juicy / Sweet",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "CITRUS",
+        "Juicy / Sweet"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "0-citrus-note-e84fe1cae1d9d73d",
+      "cell_ids": [
+        "note-e84fe1cae1d9d73d"
+      ],
+      "path": "images/0-citrus-note-e84fe1cae1d9d73d.png",
+      "prompt": "prompts/0-citrus-note-e84fe1cae1d9d73d.txt",
+      "sha256": "7c7f3ff5a9d042f9df40245a763d8ee5db009fa2636569cda67d826e63fa3c5f",
+      "original_path": "assets/wheel-calm-v1/0-citrus-note-e84fe1cae1d9d73d.png",
+      "source_generation": "exec-270c2098-94c4-4d9c-a113-8f6cecea4b33.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "description": "Zesty / Sparkling",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "CITRUS",
+        "Zesty / Sparkling"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "1-floral-note-79888da30a05066c",
+      "cell_ids": [
+        "note-79888da30a05066c"
+      ],
+      "path": "images/1-floral-note-79888da30a05066c.png",
+      "prompt": "prompts/1-floral-note-79888da30a05066c.txt",
+      "sha256": "681b05b83748b0810461ba3cc00b868653f8500a464e318cdde71892f5bc4d5d",
+      "original_path": "assets/wheel-calm-v1/1-floral-note-79888da30a05066c.png",
+      "source_generation": "exec-76476f5d-e54f-4d84-a4ae-473a9dd1feb7.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "description": "Citrus Floral",
+      "full_scent_path": [
+        "FLORAL & FRUITY",
+        "FLORAL",
+        "Citrus Floral"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "1-floral-note-21d11eac3e38b708",
+      "cell_ids": [
+        "note-21d11eac3e38b708",
+        "descriptors-9463a8d3c68a9ff3",
+        "texture_tactile-c26e7d8a45b158bf",
+        "reference_material-0c33a0b0e84e74c8"
+      ],
+      "path": "images/1-floral-note-21d11eac3e38b708.png",
+      "prompt": "prompts/1-floral-note-21d11eac3e38b708.txt",
+      "sha256": "17d768f2c3c2915348b6e9609519728c4419571a82558c1f424a262debdc9c50",
+      "original_path": "assets/wheel-calm-v1/1-floral-note-21d11eac3e38b708.png",
+      "source_generation": "exec-7ead0dae-45c8-40b2-a867-6e7b05e53333.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Airy Floral \u2192 Delicate jasmine petals \u2192 sheer \u2192 Hedione",
+      "full_scent_path": [
+        "FLORAL & FRUITY",
+        "FLORAL",
+        "Airy Floral",
+        "Delicate jasmine petals",
+        "sheer",
+        "Hedione"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "1-floral-note-f89f7c49c10093cd",
+      "cell_ids": [
+        "note-f89f7c49c10093cd"
+      ],
+      "path": "images/1-floral-note-f89f7c49c10093cd.png",
+      "prompt": "prompts/1-floral-note-f89f7c49c10093cd.txt",
+      "sha256": "0ac91355de2dab71b8c02fd88e1644e8eff9c970e5fdc165b92194cf889fb8cf",
+      "original_path": "assets/wheel-calm-v1/1-floral-note-f89f7c49c10093cd.png",
+      "source_generation": "exec-f2f374f6-1809-4097-96eb-fb1a77bea446.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "description": "White / Heady",
+      "full_scent_path": [
+        "FLORAL & FRUITY",
+        "FLORAL",
+        "White / Heady"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "1-floral-note-5132de7dcd6315a7",
+      "cell_ids": [
+        "note-5132de7dcd6315a7"
+      ],
+      "path": "images/1-floral-note-5132de7dcd6315a7.png",
+      "prompt": "prompts/1-floral-note-5132de7dcd6315a7.txt",
+      "sha256": "992cd5d1e5861f2780d3993a05300d11948c6e31e75ec8de16d416f57ea484b3",
+      "original_path": "assets/wheel-calm-v1/1-floral-note-5132de7dcd6315a7.png",
+      "source_generation": "exec-c0a9fc3c-2b24-4b8b-b83a-f517986afa1c.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "description": "Spicy Floral",
+      "full_scent_path": [
+        "FLORAL & FRUITY",
+        "FLORAL",
+        "Spicy Floral"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "1-floral-note-e61fd335ef363117",
+      "cell_ids": [
+        "note-e61fd335ef363117"
+      ],
+      "path": "images/1-floral-note-e61fd335ef363117.png",
+      "prompt": "prompts/1-floral-note-e61fd335ef363117.txt",
+      "sha256": "5188fc7f1aa0c924ce8a1694a12e96bfb65aa91163956b2973a2b3a9e13ce57b",
+      "original_path": "assets/wheel-calm-v1/1-floral-note-e61fd335ef363117.png",
+      "source_generation": "exec-879f54a9-8875-409a-808e-d5fd29a18ded.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "description": "Iris / Powdery",
+      "full_scent_path": [
+        "FLORAL & FRUITY",
+        "FLORAL",
+        "Iris / Powdery"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "1-floral-note-77eb00c9a6ba9786",
+      "cell_ids": [
+        "note-77eb00c9a6ba9786",
+        "descriptors-6469e16102dfdea5",
+        "texture_tactile-0a6d74144f22b3e6",
+        "reference_material-c02dea8f52f9ce18"
+      ],
+      "path": "images/1-floral-note-77eb00c9a6ba9786.png",
+      "prompt": "prompts/1-floral-note-77eb00c9a6ba9786.txt",
+      "sha256": "6502b347bc1e0f46ede4ce5e330d9eb6ce3fb683f98db227714703a646192a98",
+      "original_path": "assets/route-recognition-v1/rose-refined.png",
+      "source_generation": "exec-aff00f3b-08f9-4c48-b3d8-113fbdb23cf4.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": null,
+      "full_scent_path": [
+        "FLORAL & FRUITY",
+        "FLORAL",
+        "Fresh Rose",
+        "Rosewater, fresh rose petals",
+        "velvety",
+        "Phenylethyl alcohol"
+      ],
+      "reference_inputs_historical": [
+        "assets/route-recognition-v1/rose.png"
+      ]
+    },
+    {
+      "id": "1-fruity-note-716eeb82588b1bd1",
+      "cell_ids": [
+        "note-716eeb82588b1bd1"
+      ],
+      "path": "images/1-fruity-note-716eeb82588b1bd1.png",
+      "prompt": "prompts/1-fruity-note-716eeb82588b1bd1.txt",
+      "sha256": "70dd3b30d57557ad376026bb20cd3b0070abd4bd58ceb30b7c124f75749df1a1",
+      "original_path": "assets/wheel-calm-v1/1-fruity-note-716eeb82588b1bd1.png",
+      "source_generation": "exec-0c7f830b-d244-4cbd-81c6-43cae8f1308f.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "description": "Jammy / Berry",
+      "full_scent_path": [
+        "FLORAL & FRUITY",
+        "FRUITY",
+        "Jammy / Berry"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "1-fruity-note-884c39b6332a2d85",
+      "cell_ids": [
+        "note-884c39b6332a2d85",
+        "descriptors-bb2a87d4de9db508",
+        "texture_tactile-cd0a01ab34432782",
+        "reference_material-a229725fed57c804"
+      ],
+      "path": "images/1-fruity-note-884c39b6332a2d85.png",
+      "prompt": "prompts/1-fruity-note-884c39b6332a2d85.txt",
+      "sha256": "d3360eb5afc5408abfc77225ae4506532502b432e6ec1e9335ae116472d60b9f",
+      "original_path": "assets/wheel-calm-v1/1-fruity-note-884c39b6332a2d85.png",
+      "source_generation": "exec-ff839631-08e3-4d7e-bd52-135cbfc91a3c.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Sulphurous \u2192 Blackcurrant bud, cat-urine hint \u2192 sharp, biting \u2192 Blackcurrant bud absolute",
+      "full_scent_path": [
+        "FLORAL & FRUITY",
+        "FRUITY",
+        "Sulphurous",
+        "Blackcurrant bud, cat-urine hint",
+        "sharp, biting",
+        "Blackcurrant bud absolute"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "1-fruity-note-a4ab2e7850f474e1",
+      "cell_ids": [
+        "note-a4ab2e7850f474e1"
+      ],
+      "path": "images/1-fruity-note-a4ab2e7850f474e1.png",
+      "prompt": "prompts/1-fruity-note-a4ab2e7850f474e1.txt",
+      "sha256": "cc361641d4827b5e34975be119155e12a3d25b8a0e69dd0a74104ac8f2c966aa",
+      "original_path": "assets/wheel-calm-v1/1-fruity-note-a4ab2e7850f474e1.png",
+      "source_generation": "exec-a2338fc9-0120-450e-bef6-2be213337b6e.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "description": "Tropical",
+      "full_scent_path": [
+        "FLORAL & FRUITY",
+        "FRUITY",
+        "Tropical"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "1-fruity-note-4bbf3992d0328c04",
+      "cell_ids": [
+        "note-4bbf3992d0328c04"
+      ],
+      "path": "images/1-fruity-note-4bbf3992d0328c04.png",
+      "prompt": "prompts/1-fruity-note-4bbf3992d0328c04.txt",
+      "sha256": "c81fbb366df2e12b5ffac29d369c42892fd3d85e5df7015b55c97356981fba12",
+      "original_path": "assets/wheel-calm-v1/1-fruity-note-4bbf3992d0328c04.png",
+      "source_generation": "exec-efdc2587-d08f-4146-be04-44ef92f80ef4.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "description": "Orchard Fruit",
+      "full_scent_path": [
+        "FLORAL & FRUITY",
+        "FRUITY",
+        "Orchard Fruit"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "1-fruity-note-9bfee25485e82263",
+      "cell_ids": [
+        "note-9bfee25485e82263"
+      ],
+      "path": "images/1-fruity-note-9bfee25485e82263.png",
+      "prompt": "prompts/1-fruity-note-9bfee25485e82263.txt",
+      "sha256": "030ade40abd5c1b1508e0a26b428be670b447cd8fbdfb31c292a40fb59859146",
+      "original_path": "assets/wheel-calm-v1/1-fruity-note-9bfee25485e82263.png",
+      "source_generation": "exec-eb40134c-a41b-4630-aceb-806e7e250113.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "description": "Lactonic",
+      "full_scent_path": [
+        "FLORAL & FRUITY",
+        "FRUITY",
+        "Lactonic"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "2-gourmand-note-43a3e2c54bf029e6",
+      "cell_ids": [
+        "note-43a3e2c54bf029e6"
+      ],
+      "path": "images/2-gourmand-note-43a3e2c54bf029e6.png",
+      "prompt": "prompts/2-gourmand-note-43a3e2c54bf029e6.txt",
+      "sha256": "2194da7a06ba0fb444770659d79e9a0eb071ac3a80d93926d40854e479ec5e7c",
+      "original_path": "assets/wheel-calm-v1/2-gourmand-note-43a3e2c54bf029e6.png",
+      "source_generation": "exec-7f07fb71-d31f-4ca2-b89e-ab18b24dc6ea.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "description": "Sweet / Vanillic",
+      "full_scent_path": [
+        "AMBER, SPICE & SWEET",
+        "GOURMAND",
+        "Sweet / Vanillic"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "2-gourmand-note-c9e42464c39fad50",
+      "cell_ids": [
+        "note-c9e42464c39fad50"
+      ],
+      "path": "images/2-gourmand-note-c9e42464c39fad50.png",
+      "prompt": "prompts/2-gourmand-note-c9e42464c39fad50.txt",
+      "sha256": "521b47ca32e2f6dfd6165439191498bad759bcf2382561a578bd063e4018c7e2",
+      "original_path": "assets/wheel-calm-v1/2-gourmand-note-c9e42464c39fad50.png",
+      "source_generation": "exec-c92715da-3b4a-4091-9bd3-aec36a0899d5.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "description": "Roasted / Nutty",
+      "full_scent_path": [
+        "AMBER, SPICE & SWEET",
+        "GOURMAND",
+        "Roasted / Nutty"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "2-gourmand-note-e441f3dd035a1260",
+      "cell_ids": [
+        "note-e441f3dd035a1260"
+      ],
+      "path": "images/2-gourmand-note-e441f3dd035a1260.png",
+      "prompt": "prompts/2-gourmand-note-e441f3dd035a1260.txt",
+      "sha256": "061211bc160a2f1c19948cdf6c6f181d2f8f62fa6168382206c8ca0ab4d1677f",
+      "original_path": "assets/wheel-calm-v1/2-gourmand-note-e441f3dd035a1260.png",
+      "source_generation": "exec-0f065916-5fec-4243-9f1b-f31566ba01f1.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "description": "Boozy",
+      "full_scent_path": [
+        "AMBER, SPICE & SWEET",
+        "GOURMAND",
+        "Boozy"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "2-gourmand-note-c487b9d361850d92",
+      "cell_ids": [
+        "note-c487b9d361850d92"
+      ],
+      "path": "images/2-gourmand-note-c487b9d361850d92.png",
+      "prompt": "prompts/2-gourmand-note-c487b9d361850d92.txt",
+      "sha256": "63ea4d2903f452a0832a0428f69e3b34ff57a710d0e2e2f65e46e60cce3d3cbb",
+      "original_path": "assets/wheel-calm-v1/2-gourmand-note-c487b9d361850d92.png",
+      "source_generation": "exec-56a57252-4d7f-44e6-ab57-7982e2df9f72.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "description": "Tonka / Almond",
+      "full_scent_path": [
+        "AMBER, SPICE & SWEET",
+        "GOURMAND",
+        "Tonka / Almond"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "2-spice-note-0ddaa50359caed4e",
+      "cell_ids": [
+        "note-0ddaa50359caed4e",
+        "descriptors-f5ce1c837254492e",
+        "texture_tactile-cac8018fa22b56d9",
+        "reference_material-2bc79b207575d708"
+      ],
+      "path": "images/2-spice-note-0ddaa50359caed4e.png",
+      "prompt": "prompts/2-spice-note-0ddaa50359caed4e.txt",
+      "sha256": "7a206fed2291dbf55bdab9c0932ccfee72c105e5881d596b39fb1b11a0f6b974",
+      "original_path": "assets/wheel-calm-v1/2-spice-note-0ddaa50359caed4e.png",
+      "source_generation": "exec-09bea59e-8d97-45fe-b373-b0873613fd1f.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Savoury Spice \u2192 Cumin seeds \u2192 warm, dry \u2192 Cumin seed oil",
+      "full_scent_path": [
+        "AMBER, SPICE & SWEET",
+        "SPICE",
+        "Savoury Spice",
+        "Cumin seeds",
+        "warm, dry",
+        "Cumin seed oil"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "2-spice-note-cd5391b64d1472c2",
+      "cell_ids": [
+        "note-cd5391b64d1472c2"
+      ],
+      "path": "images/2-spice-note-cd5391b64d1472c2.png",
+      "prompt": "prompts/2-spice-note-cd5391b64d1472c2.txt",
+      "sha256": "6ef73855c22707bf60447d539e92e992fb90dd6ddf6d8c62dc50c505efbdb29d",
+      "original_path": "assets/wheel-calm-v1/2-spice-note-cd5391b64d1472c2.png",
+      "source_generation": "exec-0df9d5ac-253d-4107-adb5-89f2b119a01b.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "description": "Fresh Spice",
+      "full_scent_path": [
+        "AMBER, SPICE & SWEET",
+        "SPICE",
+        "Fresh Spice"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "2-spice-note-dd1a224b9ec81415",
+      "cell_ids": [
+        "note-dd1a224b9ec81415"
+      ],
+      "path": "images/2-spice-note-dd1a224b9ec81415.png",
+      "prompt": "prompts/2-spice-note-dd1a224b9ec81415.txt",
+      "sha256": "302aa59e23516e65892e756ac0ae2de3e6ba9257746ab88f8560af584580f6c6",
+      "original_path": "assets/wheel-calm-v1/2-spice-note-dd1a224b9ec81415.png",
+      "source_generation": "exec-d0afd79c-89cc-43ed-afd0-579d7d95f49b.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "description": "Hot Spice",
+      "full_scent_path": [
+        "AMBER, SPICE & SWEET",
+        "SPICE",
+        "Hot Spice"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "2-resinous-note-5098323410722d72",
+      "cell_ids": [
+        "note-5098323410722d72",
+        "descriptors-7b966a48878265bd",
+        "texture_tactile-a5389c6cd8609573",
+        "reference_material-fd962b4de9c8deae"
+      ],
+      "path": "images/2-resinous-note-5098323410722d72.png",
+      "prompt": "prompts/2-resinous-note-5098323410722d72.txt",
+      "sha256": "b3207bfa0330fe690025632cdb19b67e87403612e73929203df0df1a39560a39",
+      "original_path": "assets/wheel-calm-v1/2-resinous-note-5098323410722d72.png",
+      "source_generation": "exec-bd157fe4-d5b8-45b3-8b22-7694ecf2e0c1.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Warm Resin \u2192 Benzoin: vanilla, sweet balsam \u2192 soft, powdery \u2192 Benzoin Siam resinoid",
+      "full_scent_path": [
+        "AMBER, SPICE & SWEET",
+        "RESINOUS",
+        "Warm Resin",
+        "Benzoin: vanilla, sweet balsam",
+        "soft, powdery",
+        "Benzoin Siam resinoid"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "2-resinous-note-e82d9d9d23440d84",
+      "cell_ids": [
+        "note-e82d9d9d23440d84",
+        "descriptors-5d15646c7be7818b",
+        "texture_tactile-b7dd743476862c13",
+        "reference_material-8fc939cd08b101a4"
+      ],
+      "path": "images/2-resinous-note-e82d9d9d23440d84.png",
+      "prompt": "prompts/2-resinous-note-e82d9d9d23440d84.txt",
+      "sha256": "c1f9cbe04249f3ab2b1dce08f4e3156a2a581917e8c4e21680633b422165b73d",
+      "original_path": "assets/wheel-calm-v1/2-resinous-note-e82d9d9d23440d84.png",
+      "source_generation": "exec-f892e972-6fd4-47cf-bcb2-493558b7d359.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Dark Balsamic \u2192 Myrrh: liquorice, dark resin \u2192 dense \u2192 Myrrh resinoid MD",
+      "full_scent_path": [
+        "AMBER, SPICE & SWEET",
+        "RESINOUS",
+        "Dark Balsamic",
+        "Myrrh: liquorice, dark resin",
+        "dense",
+        "Myrrh resinoid MD"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "2-resinous-note-10797a688bda8446",
+      "cell_ids": [
+        "note-10797a688bda8446"
+      ],
+      "path": "images/2-resinous-note-10797a688bda8446.png",
+      "prompt": "prompts/2-resinous-note-10797a688bda8446.txt",
+      "sha256": "e2667233cbecb6fa884da23176e7d8b6d416a82bc2319d52f20f622953f788bd",
+      "original_path": "assets/wheel-calm-v1/2-resinous-note-10797a688bda8446.png",
+      "source_generation": "exec-f71aaf87-e982-44c3-b630-31a6085bce5d.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "description": "Incense",
+      "full_scent_path": [
+        "AMBER, SPICE & SWEET",
+        "RESINOUS",
+        "Incense"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "3-leather-note-6239676e26822a9e",
+      "cell_ids": [
+        "note-6239676e26822a9e",
+        "descriptors-dd5ed1c932a8fb89",
+        "texture_tactile-728a103c15253a95",
+        "reference_material-486e3d25ecd73649"
+      ],
+      "path": "images/3-leather-note-6239676e26822a9e.png",
+      "prompt": "prompts/3-leather-note-6239676e26822a9e.txt",
+      "sha256": "4b81c56faad17ad36433c3b9fb421aed889985cf45bc7e61991e672b8dd52431",
+      "original_path": "assets/wheel-calm-v1/3-leather-note-6239676e26822a9e.png",
+      "source_generation": "exec-204af2a0-98ff-4d40-b912-69a1e5720841.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Suede \u2192 Soft suede \u2192 fuzzy \u2192 Suede Petals (Givaudan formula)",
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "LEATHER",
+        "Suede",
+        "Soft suede",
+        "fuzzy",
+        "Suede Petals (Givaudan formula)"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "3-leather-note-57232abfa5a7bd1c",
+      "cell_ids": [
+        "note-57232abfa5a7bd1c"
+      ],
+      "path": "images/3-leather-note-57232abfa5a7bd1c.png",
+      "prompt": "prompts/3-leather-note-57232abfa5a7bd1c.txt",
+      "sha256": "766fdd23730f9dea9fb45e849909ad5dcb5a36c75455248c90a05c1c16686f90",
+      "original_path": "assets/wheel-calm-v1/3-leather-note-57232abfa5a7bd1c.png",
+      "source_generation": "exec-3d179328-653f-4579-ba4a-122c7e663ef3.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "description": "Hard Leather",
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "LEATHER",
+        "Hard Leather"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "3-earthy-note-67619fd916773462",
+      "cell_ids": [
+        "note-67619fd916773462"
+      ],
+      "path": "images/3-earthy-note-67619fd916773462.png",
+      "prompt": "prompts/3-earthy-note-67619fd916773462.txt",
+      "sha256": "a4f2e244147484b6d786031116888938fabf5fb2a97f2522c18cc7c2ebf6f94a",
+      "original_path": "assets/wheel-calm-v1/3-earthy-note-67619fd916773462.png",
+      "source_generation": "exec-e54b01dd-3523-4237-bc5e-2cca41ef74df.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "description": "Earthy / Rooty",
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "EARTHY",
+        "Earthy / Rooty"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "3-earthy-note-d8b3244b65df44b0",
+      "cell_ids": [
+        "note-d8b3244b65df44b0"
+      ],
+      "path": "images/3-earthy-note-d8b3244b65df44b0.png",
+      "prompt": "prompts/3-earthy-note-d8b3244b65df44b0.txt",
+      "sha256": "8eeb86b884a3fecbf38386d0f3a2d8efe36b099e0d3adfb051122ca78c299345",
+      "original_path": "assets/wheel-calm-v1/3-earthy-note-d8b3244b65df44b0.png",
+      "source_generation": "exec-4662f69b-39db-40c3-9df2-cf1dbfebf9a2.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "description": "Mossy / Forest",
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "EARTHY",
+        "Mossy / Forest"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "3-earthy-note-3254fe09acdf47c3",
+      "cell_ids": [
+        "note-3254fe09acdf47c3",
+        "descriptors-d9b28c1ce69362d0",
+        "texture_tactile-9951b057afe6c59d",
+        "reference_material-3aa72a5849fd82bc"
+      ],
+      "path": "images/3-earthy-note-3254fe09acdf47c3.png",
+      "prompt": "prompts/3-earthy-note-3254fe09acdf47c3.txt",
+      "sha256": "f7ff547507d8e002be6e084da734a0b82dd6bddea0cafa959ce5f77cf8333f4e",
+      "original_path": "assets/wheel-calm-v1/3-earthy-note-3254fe09acdf47c3.png",
+      "source_generation": "exec-dc443aa4-7e02-4a06-96ce-c7262bab02f4.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        725,
+        2170
+      ],
+      "description": "Petrichor \u2192 Rain on soil, beetroot skin \u2192 cool \u2192 Geosmin",
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "EARTHY",
+        "Petrichor",
+        "Rain on soil, beetroot skin",
+        "cool",
+        "Geosmin"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "0-watery-descriptors-9a08cd63605eee33",
+      "cell_ids": [
+        "descriptors-9a08cd63605eee33",
+        "texture_tactile-9dc8c30d35e181ea",
+        "reference_material-016d58604de93d25"
+      ],
+      "path": "images/0-watery-descriptors-9a08cd63605eee33.png",
+      "prompt": "prompts/0-watery-descriptors-9a08cd63605eee33.txt",
+      "sha256": "1dc53ca0456739201aed3e65bd60f1bcb172d7b400ed2a23cb3a985a8a6155fd",
+      "original_path": "assets/wheel-calm-v1/0-watery-descriptors-9a08cd63605eee33.png",
+      "source_generation": "exec-ea1916f5-5603-4a41-b424-5c3648e1c318.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Cucumber, melon flesh \u2192 smooth, watery \u2192 cis-6-Nonenol (melon facet)",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "WATERY",
+        "Aquatic / Marine",
+        "Cucumber, melon flesh",
+        "smooth, watery",
+        "cis-6-Nonenol (melon facet)"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "0-watery-descriptors-2f5a38dbba996fa8",
+      "cell_ids": [
+        "descriptors-2f5a38dbba996fa8",
+        "texture_tactile-4590d3ae865296df",
+        "reference_material-0e983b508992138f"
+      ],
+      "path": "images/0-watery-descriptors-2f5a38dbba996fa8.png",
+      "prompt": "prompts/0-watery-descriptors-2f5a38dbba996fa8.txt",
+      "sha256": "bce481def907274fd289a215d82f8505715db0698943da6c705c16c8dd3189da",
+      "original_path": "assets/wheel-calm-v1/0-watery-descriptors-2f5a38dbba996fa8.png",
+      "source_generation": "exec-6f836aa6-adee-4668-8632-c74a1eaa913e.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        725,
+        2170
+      ],
+      "description": "Fresh sea air \u2192 cool, airy \u2192 Calone (marine facet)",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "WATERY",
+        "Aquatic / Marine",
+        "Fresh sea air",
+        "cool, airy",
+        "Calone (marine facet)"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "0-aldehydic-descriptors-2db2d153ec13da66",
+      "cell_ids": [
+        "descriptors-2db2d153ec13da66",
+        "texture_tactile-ab48b0bfaa595405",
+        "reference_material-7fba5738ef3947bd"
+      ],
+      "path": "images/0-aldehydic-descriptors-2db2d153ec13da66.png",
+      "prompt": "prompts/0-aldehydic-descriptors-2db2d153ec13da66.txt",
+      "sha256": "691f54c0600568190ff11913a3899477a38be6799830242b8c1611e0db919d3a",
+      "original_path": "assets/wheel-calm-v1/0-aldehydic-descriptors-2db2d153ec13da66.png",
+      "source_generation": "exec-18f9f889-36e2-414e-98e1-8c2763983add.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        725,
+        2170
+      ],
+      "description": "Freshly unwrapped soap \u2192 smooth, bright \u2192 Aldehyde C12 lauric (soap facet)",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "ALDEHYDIC",
+        "Aldehydic",
+        "Freshly unwrapped soap",
+        "smooth, bright",
+        "Aldehyde C12 lauric (soap facet)"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "0-aldehydic-descriptors-88085d5e2dd9b6b0",
+      "cell_ids": [
+        "descriptors-88085d5e2dd9b6b0",
+        "texture_tactile-63d7317aaee7e6c8",
+        "reference_material-736d431210453a53"
+      ],
+      "path": "images/0-aldehydic-descriptors-88085d5e2dd9b6b0.png",
+      "prompt": "prompts/0-aldehydic-descriptors-88085d5e2dd9b6b0.txt",
+      "sha256": "3e2151e85b76a17cb220d7bd67f24b6fb5dd89967f3c7a06eae53f0b2173133f",
+      "original_path": "assets/wheel-calm-v1/0-aldehydic-descriptors-88085d5e2dd9b6b0.png",
+      "source_generation": "exec-8ff7a3ac-b7bd-4273-b3af-bfd1922789cd.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Candle wax, citrus peel \u2192 oily \u2192 Aldehyde C12 lauric",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "ALDEHYDIC",
+        "Aldehydic",
+        "Candle wax, citrus peel",
+        "oily",
+        "Aldehyde C12 lauric"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "0-green-descriptors-87690c6d814b5b00",
+      "cell_ids": [
+        "descriptors-87690c6d814b5b00",
+        "texture_tactile-7ae52322a4deed28",
+        "reference_material-7bc74e58400e446d"
+      ],
+      "path": "images/0-green-descriptors-87690c6d814b5b00.png",
+      "prompt": "prompts/0-green-descriptors-87690c6d814b5b00.txt",
+      "sha256": "8b2da92caeb0d00b58e73a2cd3f04c3b097ad3e21a836cbcd2a61bbb62aa7264",
+      "original_path": "assets/wheel-calm-v1/0-green-descriptors-87690c6d814b5b00.png",
+      "source_generation": "exec-0fa8d21e-1b53-4732-b799-15211e8eb6a1.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Raw pea pods, green pepper \u2192 crisp, juicy \u2192 cis-3-Hexenal (green facet)",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "GREEN",
+        "Vegetal / Resin",
+        "Raw pea pods, green pepper",
+        "crisp, juicy",
+        "cis-3-Hexenal (green facet)"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "0-green-descriptors-06ca0b60dd2436e8",
+      "cell_ids": [
+        "descriptors-06ca0b60dd2436e8",
+        "texture_tactile-8a6c1f9cc556dcc6",
+        "reference_material-75a1905418923587"
+      ],
+      "path": "images/0-green-descriptors-06ca0b60dd2436e8.png",
+      "prompt": "prompts/0-green-descriptors-06ca0b60dd2436e8.txt",
+      "sha256": "07debb5fd8c6a6c7d120db7576f3ab8065087f5eafd386cc633a2d4f7eae48c9",
+      "original_path": "assets/wheel-calm-v1/0-green-descriptors-06ca0b60dd2436e8.png",
+      "source_generation": "exec-6259bf1a-179d-4a53-95fe-74954fd60a5e.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Snapped stems, bitter sap \u2192 dense \u2192 Galbanum absolute",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "GREEN",
+        "Vegetal / Resin",
+        "Snapped stems, bitter sap",
+        "dense",
+        "Galbanum absolute"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "0-citrus-descriptors-8253f980d36a868d",
+      "cell_ids": [
+        "descriptors-8253f980d36a868d",
+        "texture_tactile-35709df9f9826524",
+        "reference_material-ff87c32439920fa8"
+      ],
+      "path": "images/0-citrus-descriptors-8253f980d36a868d.png",
+      "prompt": "prompts/0-citrus-descriptors-8253f980d36a868d.txt",
+      "sha256": "a7a976dd9670c24750b390e8e0b1cc13eb43a6751408372179caae4ec6741733",
+      "original_path": "assets/wheel-calm-v1/0-citrus-descriptors-8253f980d36a868d.png",
+      "source_generation": "exec-80037274-497f-445c-8158-d37138144c10.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Bitter grapefruit rind \u2192 sharp \u2192 Grapefruit oil",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "CITRUS",
+        "Bitter / Dry",
+        "Bitter grapefruit rind",
+        "sharp",
+        "Grapefruit oil"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "0-citrus-descriptors-a2c3ed15d72ae9ae",
+      "cell_ids": [
+        "descriptors-a2c3ed15d72ae9ae",
+        "texture_tactile-660d8422ad2e8844",
+        "reference_material-81a7b2e5efb690e2"
+      ],
+      "path": "images/0-citrus-descriptors-a2c3ed15d72ae9ae.png",
+      "prompt": "prompts/0-citrus-descriptors-a2c3ed15d72ae9ae.txt",
+      "sha256": "ca7fc8e61d37ef1db11e9d04293aa4f9c391dc135c164f3c9abdb14c78657a84",
+      "original_path": "assets/wheel-calm-v1/0-citrus-descriptors-a2c3ed15d72ae9ae.png",
+      "source_generation": "exec-5fea0c4c-0411-4e8c-a719-ba87f028c8d9.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Bergamot: Earl Grey citrus \u2192 light \u2192 Bergamot oil",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "CITRUS",
+        "Bitter / Dry",
+        "Bergamot: Earl Grey citrus",
+        "light",
+        "Bergamot oil"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "0-citrus-descriptors-665665d666a0fcf6",
+      "cell_ids": [
+        "descriptors-665665d666a0fcf6",
+        "texture_tactile-1271b316df5f84df",
+        "reference_material-9b70e6a70c49e4eb"
+      ],
+      "path": "images/0-citrus-descriptors-665665d666a0fcf6.png",
+      "prompt": "prompts/0-citrus-descriptors-665665d666a0fcf6.txt",
+      "sha256": "ec9d15d8a1a6a2050b3ad07f6f7fded0b935123a9b03a302aad1d8c2b976f950",
+      "original_path": "assets/wheel-calm-v1/0-citrus-descriptors-665665d666a0fcf6.png",
+      "source_generation": "exec-ef76b76c-7e78-4a31-ab5f-36ce93bf2771.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Orange flesh and peel \u2192 rounded \u2192 Sweet orange oil",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "CITRUS",
+        "Juicy / Sweet",
+        "Orange flesh and peel",
+        "rounded",
+        "Sweet orange oil"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "0-citrus-descriptors-d1091edce3bfca20",
+      "cell_ids": [
+        "descriptors-d1091edce3bfca20",
+        "texture_tactile-21571c3a384513eb",
+        "reference_material-5d1dcb2ef9953485"
+      ],
+      "path": "images/0-citrus-descriptors-d1091edce3bfca20.png",
+      "prompt": "prompts/0-citrus-descriptors-d1091edce3bfca20.txt",
+      "sha256": "51db36d77e13375a32492c7dc3d100448031f49e7016138312f8042d389dafd5",
+      "original_path": "assets/wheel-calm-v1/0-citrus-descriptors-d1091edce3bfca20.png",
+      "source_generation": "exec-0199b559-14af-4720-a889-ecb8e95ce831.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        727,
+        2164
+      ],
+      "description": "Candied orange peel \u2192 rich, sticky \u2192 Sweet orange oil (peel facet)",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "CITRUS",
+        "Juicy / Sweet",
+        "Candied orange peel",
+        "rich, sticky",
+        "Sweet orange oil (peel facet)"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "0-citrus-descriptors-bc82129377f9a9e5",
+      "cell_ids": [
+        "descriptors-bc82129377f9a9e5",
+        "texture_tactile-539bd89ad405b4cd",
+        "reference_material-d63844a1a152dcfd"
+      ],
+      "path": "images/0-citrus-descriptors-bc82129377f9a9e5.png",
+      "prompt": "prompts/0-citrus-descriptors-bc82129377f9a9e5.txt",
+      "sha256": "4c3f4b0d790c9894bc53def0c1d63bfec7c864bc05ff807b386f06259241c939",
+      "original_path": "assets/wheel-calm-v1/0-citrus-descriptors-bc82129377f9a9e5.png",
+      "source_generation": "exec-eccd2ab3-0adf-4821-af46-7e140624c8b8.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Freshly grated lemon peel \u2192 sharp, bright \u2192 Lemon oil",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "CITRUS",
+        "Zesty / Sparkling",
+        "Freshly grated lemon peel",
+        "sharp, bright",
+        "Lemon oil"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "0-citrus-descriptors-957c6847530bcf07",
+      "cell_ids": [
+        "descriptors-957c6847530bcf07",
+        "texture_tactile-9832133fb2db0879",
+        "reference_material-127f37effec7e505"
+      ],
+      "path": "images/0-citrus-descriptors-957c6847530bcf07.png",
+      "prompt": "prompts/0-citrus-descriptors-957c6847530bcf07.txt",
+      "sha256": "6a0ec3eabe02346605807fcb93bfa1a69dea0229b7b7e1d144f771295b7ad5a1",
+      "original_path": "assets/wheel-calm-v1/0-citrus-descriptors-957c6847530bcf07.png",
+      "source_generation": "exec-0251f68f-3e7f-452a-9af2-5feb1ef42e98.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Crushed lime peel \u2192 crisp \u2192 Distilled lime oil",
+      "full_scent_path": [
+        "FRESH & LIFTED",
+        "CITRUS",
+        "Zesty / Sparkling",
+        "Crushed lime peel",
+        "crisp",
+        "Distilled lime oil"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "1-floral-descriptors-4bdb36b3dbd24ea0",
+      "cell_ids": [
+        "descriptors-4bdb36b3dbd24ea0",
+        "texture_tactile-20db925560ee3c52",
+        "reference_material-55f0fa47a93ad448"
+      ],
+      "path": "images/1-floral-descriptors-4bdb36b3dbd24ea0.png",
+      "prompt": "prompts/1-floral-descriptors-4bdb36b3dbd24ea0.txt",
+      "sha256": "a7468b45cd3d48cd32bb1548393a178dd20da751a4cd30203588034ed395824b",
+      "original_path": "assets/wheel-calm-v1/1-floral-descriptors-4bdb36b3dbd24ea0.png",
+      "source_generation": "exec-b36deecd-e5c6-47d4-a0a5-746cdf5ba2b4.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Fresh orange blossom \u2192 light, soft \u2192 Neroli oil",
+      "full_scent_path": [
+        "FLORAL & FRUITY",
+        "FLORAL",
+        "Citrus Floral",
+        "Fresh orange blossom",
+        "light, soft",
+        "Neroli oil"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "1-floral-descriptors-14e3facd1df7db99",
+      "cell_ids": [
+        "descriptors-14e3facd1df7db99",
+        "texture_tactile-c1f78340ce405e18",
+        "reference_material-2e29e575500e0607"
+      ],
+      "path": "images/1-floral-descriptors-14e3facd1df7db99.png",
+      "prompt": "prompts/1-floral-descriptors-14e3facd1df7db99.txt",
+      "sha256": "872f106aa4cf6c90d9b606bb0e8d819a3b339df5c06c2b1422dd4cf8038f66d7",
+      "original_path": "assets/wheel-calm-v1/1-floral-descriptors-14e3facd1df7db99.png",
+      "source_generation": "exec-5e5c8eb3-49f2-4f60-ba38-6614ac7b074a.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Bitter-orange leaves, green twigs \u2192 crisp, dry \u2192 Petitgrain bigarade oil",
+      "full_scent_path": [
+        "FLORAL & FRUITY",
+        "FLORAL",
+        "Citrus Floral",
+        "Bitter-orange leaves, green twigs",
+        "crisp, dry",
+        "Petitgrain bigarade oil"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "1-floral-descriptors-bb7b254cb996bd31",
+      "cell_ids": [
+        "descriptors-bb7b254cb996bd31",
+        "texture_tactile-7edf71a7edc5a283",
+        "reference_material-80e16c98b48ad7b1"
+      ],
+      "path": "images/1-floral-descriptors-bb7b254cb996bd31.png",
+      "prompt": "prompts/1-floral-descriptors-bb7b254cb996bd31.txt",
+      "sha256": "f3cc42ac0ae9d4829eb4793db9be8c91608875b904841b72a7f780a93f0ec558",
+      "original_path": "assets/wheel-calm-v1/1-floral-descriptors-bb7b254cb996bd31.png",
+      "source_generation": "exec-34f7ef79-bde9-4853-b9cb-1cebfe73dfc4.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        727,
+        2164
+      ],
+      "description": "Rich jasmine, a fruity hint \u2192 enveloping \u2192 Jasmine absolute",
+      "full_scent_path": [
+        "FLORAL & FRUITY",
+        "FLORAL",
+        "White / Narcotic",
+        "Rich jasmine, a fruity hint",
+        "enveloping",
+        "Jasmine absolute"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "1-floral-descriptors-7013748649268140",
+      "cell_ids": [
+        "descriptors-7013748649268140",
+        "texture_tactile-e5e59d6b6b2be3a4",
+        "reference_material-7314d7cdaad819e6"
+      ],
+      "path": "images/1-floral-descriptors-7013748649268140.png",
+      "prompt": "prompts/1-floral-descriptors-7013748649268140.txt",
+      "sha256": "f2a3d1983142c296101bd2c8b239ab572b82e5fa6e2d4bca00dc8a0f55273ae3",
+      "original_path": "assets/wheel-calm-v1/1-floral-descriptors-7013748649268140.png",
+      "source_generation": "exec-0beb34e1-3089-47aa-a0f1-4b575227abb9.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Honeyed orange blossom \u2192 rounded \u2192 Orange-flower absolute",
+      "full_scent_path": [
+        "FLORAL & FRUITY",
+        "FLORAL",
+        "White / Narcotic",
+        "Honeyed orange blossom",
+        "rounded",
+        "Orange-flower absolute"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "1-floral-descriptors-ec7d788661126aa4",
+      "cell_ids": [
+        "descriptors-ec7d788661126aa4",
+        "texture_tactile-f21d9b9158db0763",
+        "reference_material-845dc12ff1bb5adc"
+      ],
+      "path": "images/1-floral-descriptors-ec7d788661126aa4.png",
+      "prompt": "prompts/1-floral-descriptors-ec7d788661126aa4.txt",
+      "sha256": "933151086d41e1f249b0c08a71949b560a5407177f97851487bed87c89b9c0a1",
+      "original_path": "assets/wheel-calm-v1/1-floral-descriptors-ec7d788661126aa4.png",
+      "source_generation": "exec-8752a7da-0068-4938-84d2-5d4925e11938.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Carnation: petals with a clove hint \u2192 warm, prickly \u2192 Carnation absolute",
+      "full_scent_path": [
+        "FLORAL & FRUITY",
+        "FLORAL",
+        "Spicy Floral",
+        "Carnation: petals with a clove hint",
+        "warm, prickly",
+        "Carnation absolute"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "1-floral-descriptors-b1f81de916cfb15a",
+      "cell_ids": [
+        "descriptors-b1f81de916cfb15a",
+        "texture_tactile-ae37afcfe96b118a",
+        "reference_material-6dd16537ae9faf82"
+      ],
+      "path": "images/1-floral-descriptors-b1f81de916cfb15a.png",
+      "prompt": "prompts/1-floral-descriptors-b1f81de916cfb15a.txt",
+      "sha256": "15ca0c3100c885a782e2e73ee476e9a599db1b0b13923eb7985bc310e3a030f6",
+      "original_path": "assets/wheel-calm-v1/1-floral-descriptors-b1f81de916cfb15a.png",
+      "source_generation": "exec-77e9c2a1-8a67-441b-b6f4-96d07b356ef1.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Ylang-ylang: fruit, spicy petals \u2192 creamy, warm \u2192 Ylang-ylang oil",
+      "full_scent_path": [
+        "FLORAL & FRUITY",
+        "FLORAL",
+        "Spicy Floral",
+        "Ylang-ylang: fruit, spicy petals",
+        "creamy, warm",
+        "Ylang-ylang oil"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "1-floral-descriptors-e564a98ea71b774a",
+      "cell_ids": [
+        "descriptors-e564a98ea71b774a",
+        "texture_tactile-ef74d62fbf96d241",
+        "reference_material-2874796961c12a42"
+      ],
+      "path": "images/1-floral-descriptors-e564a98ea71b774a.png",
+      "prompt": "prompts/1-floral-descriptors-e564a98ea71b774a.txt",
+      "sha256": "a82b4fa2026631b88c45d6a2d98fab2f49a46d903672cbb15ee435070e530b1f",
+      "original_path": "assets/wheel-calm-v1/1-floral-descriptors-e564a98ea71b774a.png",
+      "source_generation": "exec-ba0dc652-b154-4d58-a75f-aee5d570cc53.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        726,
+        2167
+      ],
+      "description": "Orris (iris root): face powder \u2192 soft \u2192 Orris absolute",
+      "full_scent_path": [
+        "FLORAL & FRUITY",
+        "FLORAL",
+        "Iris / Powdery",
+        "Orris (iris root): face powder",
+        "soft",
+        "Orris absolute"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "1-floral-descriptors-9bfd04dec90d3bc3",
+      "cell_ids": [
+        "descriptors-9bfd04dec90d3bc3",
+        "texture_tactile-39fce373c49bff8b",
+        "reference_material-3bb5e85528b3267c"
+      ],
+      "path": "images/1-floral-descriptors-9bfd04dec90d3bc3.png",
+      "prompt": "prompts/1-floral-descriptors-9bfd04dec90d3bc3.txt",
+      "sha256": "e569d91175e9b47eb41ae423b560892114c95e14d642fae052ff4601ed1d2676",
+      "original_path": "assets/wheel-calm-v1/1-floral-descriptors-9bfd04dec90d3bc3.png",
+      "source_generation": "exec-df8b82b4-fc6c-4d9d-9a90-770632c60cbe.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        725,
+        2170
+      ],
+      "description": "Violet sweets, face powder \u2192 smooth \u2192 Methylionone 70",
+      "full_scent_path": [
+        "FLORAL & FRUITY",
+        "FLORAL",
+        "Iris / Powdery",
+        "Violet sweets, face powder",
+        "smooth",
+        "Methylionone 70"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "1-fruity-descriptors-043fa50708a9aadb",
+      "cell_ids": [
+        "descriptors-043fa50708a9aadb",
+        "texture_tactile-ee27a241db6f855d",
+        "reference_material-c8a9f245ef6f2b81"
+      ],
+      "path": "images/1-fruity-descriptors-043fa50708a9aadb.png",
+      "prompt": "prompts/1-fruity-descriptors-043fa50708a9aadb.txt",
+      "sha256": "96a37312b3ffece9a630d7baab2daf9ea3629ca553a1f717dee4dcfcea4dcf9a",
+      "original_path": "assets/wheel-calm-v1/1-fruity-descriptors-043fa50708a9aadb.png",
+      "source_generation": "exec-1b2e4145-0ff2-442a-ab79-33cab0ea36b9.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Raspberry jam \u2192 thick \u2192 Furaneol (jammy facet)",
+      "full_scent_path": [
+        "FLORAL & FRUITY",
+        "FRUITY",
+        "Jammy / Berry",
+        "Raspberry jam",
+        "thick",
+        "Furaneol (jammy facet)"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "1-fruity-descriptors-2419e8c6e0a5faae",
+      "cell_ids": [
+        "descriptors-2419e8c6e0a5faae",
+        "texture_tactile-e9d28a7cc761883f",
+        "reference_material-3aadb37345c176a7"
+      ],
+      "path": "images/1-fruity-descriptors-2419e8c6e0a5faae.png",
+      "prompt": "prompts/1-fruity-descriptors-2419e8c6e0a5faae.txt",
+      "sha256": "615473c7b1c10587b9685309a1b1e05f01a0e45224f97c5022991d5e60e570ee",
+      "original_path": "assets/wheel-calm-v1/1-fruity-descriptors-2419e8c6e0a5faae.png",
+      "source_generation": "exec-0cd47f06-1bdd-42a3-b4b3-7918465ba4f2.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Plum, prune, raisins \u2192 dense \u2192 Davana oil",
+      "full_scent_path": [
+        "FLORAL & FRUITY",
+        "FRUITY",
+        "Jammy / Berry",
+        "Plum, prune, raisins",
+        "dense",
+        "Davana oil"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "1-fruity-descriptors-1e29276e38837c3f",
+      "cell_ids": [
+        "descriptors-1e29276e38837c3f",
+        "texture_tactile-0cf041f49ada7b2b",
+        "reference_material-de9ce421a3d7fab9"
+      ],
+      "path": "images/1-fruity-descriptors-1e29276e38837c3f.png",
+      "prompt": "prompts/1-fruity-descriptors-1e29276e38837c3f.txt",
+      "sha256": "fd58ecd3df33759d23a574f862d1020287a76d292fdfb84595f890f494cfd306",
+      "original_path": "assets/wheel-calm-v1/1-fruity-descriptors-1e29276e38837c3f.png",
+      "source_generation": "exec-07081647-e1bc-4bfd-98e4-286a89635be1.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        726,
+        2167
+      ],
+      "description": "Fresh pineapple \u2192 juicy, sharp \u2192 Allyl caproate",
+      "full_scent_path": [
+        "FLORAL & FRUITY",
+        "FRUITY",
+        "Tropical",
+        "Fresh pineapple",
+        "juicy, sharp",
+        "Allyl caproate"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "1-fruity-descriptors-6a9e985100752127",
+      "cell_ids": [
+        "descriptors-6a9e985100752127",
+        "texture_tactile-550a1f1f5e2a6619",
+        "reference_material-c40f47bc914247f1"
+      ],
+      "path": "images/1-fruity-descriptors-6a9e985100752127.png",
+      "prompt": "prompts/1-fruity-descriptors-6a9e985100752127.txt",
+      "sha256": "e36df04e30d7e7af319c9769c2550a19cabc0ea66e80fc512bb5eac45b0d89ef",
+      "original_path": "assets/wheel-calm-v1/1-fruity-descriptors-6a9e985100752127.png",
+      "source_generation": "exec-a57e4293-8b9d-411b-a3b1-50a1d569305b.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        725,
+        2170
+      ],
+      "description": "Ripe mango pulp \u2192 fleshy \u2192 Tropicalia (fruit facet)",
+      "full_scent_path": [
+        "FLORAL & FRUITY",
+        "FRUITY",
+        "Tropical",
+        "Ripe mango pulp",
+        "fleshy",
+        "Tropicalia (fruit facet)"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "1-fruity-descriptors-19c245c3d3aad8dd",
+      "cell_ids": [
+        "descriptors-19c245c3d3aad8dd",
+        "texture_tactile-f184761808ef8b19",
+        "reference_material-b0145870152b3306"
+      ],
+      "path": "images/1-fruity-descriptors-19c245c3d3aad8dd.png",
+      "prompt": "prompts/1-fruity-descriptors-19c245c3d3aad8dd.txt",
+      "sha256": "a513705b8f537918a10a8aa5ec691eb3452fb643e399bd45343f87c26c6cfc33",
+      "original_path": "assets/wheel-calm-v1/1-fruity-descriptors-19c245c3d3aad8dd.png",
+      "source_generation": "exec-995ec896-3e02-4648-90cd-5838e0e876f3.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Fresh apple, pear juice \u2192 crisp, juicy \u2192 Fructone (apple facet)",
+      "full_scent_path": [
+        "FLORAL & FRUITY",
+        "FRUITY",
+        "Orchard Fruit",
+        "Fresh apple, pear juice",
+        "crisp, juicy",
+        "Fructone (apple facet)"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "1-fruity-descriptors-660b9be3910243e8",
+      "cell_ids": [
+        "descriptors-660b9be3910243e8",
+        "texture_tactile-d213dd5150566117",
+        "reference_material-c1fb8dc6c3468646"
+      ],
+      "path": "images/1-fruity-descriptors-660b9be3910243e8.png",
+      "prompt": "prompts/1-fruity-descriptors-660b9be3910243e8.txt",
+      "sha256": "a128fb373cae5ef66c1f318525bc556f9e9436960aa608498480de2d8dcd6e42",
+      "original_path": "assets/wheel-calm-v1/1-fruity-descriptors-660b9be3910243e8.png",
+      "source_generation": "exec-b8bece6a-8bee-41bb-8641-9ad9c585f3ec.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Ripe peach, apricot \u2192 fleshy, soft \u2192 Nectaryl",
+      "full_scent_path": [
+        "FLORAL & FRUITY",
+        "FRUITY",
+        "Orchard Fruit",
+        "Ripe peach, apricot",
+        "fleshy, soft",
+        "Nectaryl"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "1-fruity-descriptors-4b0bf6cd9b47c099",
+      "cell_ids": [
+        "descriptors-4b0bf6cd9b47c099",
+        "texture_tactile-4a7b51117a64659f",
+        "reference_material-d7c7b69d92d24303"
+      ],
+      "path": "images/1-fruity-descriptors-4b0bf6cd9b47c099.png",
+      "prompt": "prompts/1-fruity-descriptors-4b0bf6cd9b47c099.txt",
+      "sha256": "0081545fc1b58f15c168f0fcb2588119947e4c4322ef7d0661200815a13c3587",
+      "original_path": "assets/wheel-calm-v1/1-fruity-descriptors-4b0bf6cd9b47c099.png",
+      "source_generation": "exec-82667b83-cf55-4262-8113-267cdf813c9b.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Coconut milk \u2192 oily \u2192 Methyl Laitone",
+      "full_scent_path": [
+        "FLORAL & FRUITY",
+        "FRUITY",
+        "Lactonic",
+        "Coconut milk",
+        "oily",
+        "Methyl Laitone"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "1-fruity-descriptors-15e1f589caab376d",
+      "cell_ids": [
+        "descriptors-15e1f589caab376d",
+        "texture_tactile-e27ab804b7e4959a",
+        "reference_material-3838b6fdb7b848af"
+      ],
+      "path": "images/1-fruity-descriptors-15e1f589caab376d.png",
+      "prompt": "prompts/1-fruity-descriptors-15e1f589caab376d.txt",
+      "sha256": "37376378ad9ff387c8d211a05d3dbcc92a7a88bc34274a34e889e0b21a5ff895",
+      "original_path": "assets/wheel-calm-v1/1-fruity-descriptors-15e1f589caab376d.png",
+      "source_generation": "exec-fb59c114-0d33-4976-91ec-19da77205c21.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Peaches and cream \u2192 soft \u2192 Nectaryl + Methyl Laitone",
+      "full_scent_path": [
+        "FLORAL & FRUITY",
+        "FRUITY",
+        "Lactonic",
+        "Peaches and cream",
+        "soft",
+        "Nectaryl + Methyl Laitone"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "2-gourmand-descriptors-44b12d10909d5a89",
+      "cell_ids": [
+        "descriptors-44b12d10909d5a89",
+        "texture_tactile-f321800826274283",
+        "reference_material-fd644295238a5959"
+      ],
+      "path": "images/2-gourmand-descriptors-44b12d10909d5a89.png",
+      "prompt": "prompts/2-gourmand-descriptors-44b12d10909d5a89.txt",
+      "sha256": "ac6588dedfdf54ce73dde3c1bf20c41f79b5d2fb423f3a103b63f4f3ec8adf12",
+      "original_path": "assets/wheel-calm-v1/2-gourmand-descriptors-44b12d10909d5a89.png",
+      "source_generation": "exec-bdfc9774-e562-4a8e-a27c-3c4111f2c847.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Vanilla pod, custard \u2192 soft, creamy \u2192 Vanillin",
+      "full_scent_path": [
+        "AMBER, SPICE & SWEET",
+        "GOURMAND",
+        "Sweet / Vanillic",
+        "Vanilla pod, custard",
+        "soft, creamy",
+        "Vanillin"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "2-gourmand-descriptors-93e4128e54d97f0e",
+      "cell_ids": [
+        "descriptors-93e4128e54d97f0e",
+        "texture_tactile-24cb3850933e242a",
+        "reference_material-c4ca7643daf6df23"
+      ],
+      "path": "images/2-gourmand-descriptors-93e4128e54d97f0e.png",
+      "prompt": "prompts/2-gourmand-descriptors-93e4128e54d97f0e.txt",
+      "sha256": "0f77b760a45b0676bddd3776445effed7f8589a9a6d71ba5c7164ff541011c64",
+      "original_path": "assets/wheel-calm-v1/2-gourmand-descriptors-93e4128e54d97f0e.png",
+      "source_generation": "exec-d8e10a42-185e-4ed4-8dea-2564dd92d5dc.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Caramel, spun sugar \u2192 rich \u2192 Furaneol",
+      "full_scent_path": [
+        "AMBER, SPICE & SWEET",
+        "GOURMAND",
+        "Sweet / Vanillic",
+        "Caramel, spun sugar",
+        "rich",
+        "Furaneol"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "2-gourmand-descriptors-426029d132634c66",
+      "cell_ids": [
+        "descriptors-426029d132634c66",
+        "texture_tactile-d50d13a11c63ccee",
+        "reference_material-1e4804a10430cb4d"
+      ],
+      "path": "images/2-gourmand-descriptors-426029d132634c66.png",
+      "prompt": "prompts/2-gourmand-descriptors-426029d132634c66.txt",
+      "sha256": "b4a2fa5356c47c49e9875a831567e24a328c5bf483e73a6269111c25599a5d48",
+      "original_path": "assets/wheel-calm-v1/2-gourmand-descriptors-426029d132634c66.png",
+      "source_generation": "exec-c7254535-5d54-4f44-958b-49606a0e3da5.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2171
+      ],
+      "description": "Roasted nuts, popcorn \u2192 dry \u2192 Filbertone (nut facet)",
+      "full_scent_path": [
+        "AMBER, SPICE & SWEET",
+        "GOURMAND",
+        "Roasted / Nutty",
+        "Roasted nuts, popcorn",
+        "dry",
+        "Filbertone (nut facet)"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "2-gourmand-descriptors-19e46286441c8eda",
+      "cell_ids": [
+        "descriptors-19e46286441c8eda",
+        "texture_tactile-80e92eebad001c59",
+        "reference_material-5740b6ec8aa51291"
+      ],
+      "path": "images/2-gourmand-descriptors-19e46286441c8eda.png",
+      "prompt": "prompts/2-gourmand-descriptors-19e46286441c8eda.txt",
+      "sha256": "64e8a08b2748db600f93ce6778a590a65ea5c7968786a7a1a84696c80092aef3",
+      "original_path": "assets/wheel-calm-v1/2-gourmand-descriptors-19e46286441c8eda.png",
+      "source_generation": "exec-1ceba86a-4a77-4a7b-8d98-dacc32d3d28d.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Dark roasted coffee \u2192 dense \u2192 Coffee Espresso SFE",
+      "full_scent_path": [
+        "AMBER, SPICE & SWEET",
+        "GOURMAND",
+        "Roasted / Nutty",
+        "Dark roasted coffee",
+        "dense",
+        "Coffee Espresso SFE"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "2-gourmand-descriptors-acd69de3969a994e",
+      "cell_ids": [
+        "descriptors-acd69de3969a994e",
+        "texture_tactile-b9252e2f3552b149",
+        "reference_material-1ba904de4debfb9e"
+      ],
+      "path": "images/2-gourmand-descriptors-acd69de3969a994e.png",
+      "prompt": "prompts/2-gourmand-descriptors-acd69de3969a994e.txt",
+      "sha256": "90dbfdf7640a6e70d447f8ddd9eaecd2a92f024dd3cd2b00705c802278b277fe",
+      "original_path": "assets/wheel-calm-v1/2-gourmand-descriptors-acd69de3969a994e.png",
+      "source_generation": "exec-86ae4909-d1bd-4c5b-8d2b-9854c3e36799.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Rum, molasses \u2192 warm, rounded \u2192 Rum SFE",
+      "full_scent_path": [
+        "AMBER, SPICE & SWEET",
+        "GOURMAND",
+        "Boozy",
+        "Rum, molasses",
+        "warm, rounded",
+        "Rum SFE"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "2-gourmand-descriptors-a5ca1ba555e528d1",
+      "cell_ids": [
+        "descriptors-a5ca1ba555e528d1",
+        "texture_tactile-d2ebe3b117ce606f",
+        "reference_material-1672bfa1ca6f7d85"
+      ],
+      "path": "images/2-gourmand-descriptors-a5ca1ba555e528d1.png",
+      "prompt": "prompts/2-gourmand-descriptors-a5ca1ba555e528d1.txt",
+      "sha256": "7986022f39866dd05a89b93ca5db9649f6fe68d627a5c69409b3587063c59d1d",
+      "original_path": "assets/whole-polish-v1/whisky.png",
+      "source_generation": "exec-1f3f7fb3-8c8c-4b5b-b4ca-9914459cd241.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": null,
+      "full_scent_path": [
+        "AMBER, SPICE & SWEET",
+        "GOURMAND",
+        "Boozy",
+        "Whisky barrel",
+        "dry, warm",
+        "Oakwood CO\u2082"
+      ],
+      "reference_inputs_historical": [
+        "assets/wheel-calm-v1/2-gourmand-descriptors-a5ca1ba555e528d1.png"
+      ]
+    },
+    {
+      "id": "2-gourmand-descriptors-c03e145fe17afa0e",
+      "cell_ids": [
+        "descriptors-c03e145fe17afa0e",
+        "texture_tactile-a970a8e040a18dd5",
+        "reference_material-e4adc389ef870e16"
+      ],
+      "path": "images/2-gourmand-descriptors-c03e145fe17afa0e.png",
+      "prompt": "prompts/2-gourmand-descriptors-c03e145fe17afa0e.txt",
+      "sha256": "972dfcdff0a80491f7e3f15353ddb3f1550eeeb44cb23e345718380f54529918",
+      "original_path": "assets/wheel-calm-v1/2-gourmand-descriptors-c03e145fe17afa0e.png",
+      "source_generation": "exec-d701a65c-534a-4c60-b086-6bec206640e2.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Tonka: sweet hay \u2192 powdery, soft \u2192 Tonka bean absolute",
+      "full_scent_path": [
+        "AMBER, SPICE & SWEET",
+        "GOURMAND",
+        "Tonka / Almond",
+        "Tonka: sweet hay",
+        "powdery, soft",
+        "Tonka bean absolute"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "2-gourmand-descriptors-d74aa573cdc79a0c",
+      "cell_ids": [
+        "descriptors-d74aa573cdc79a0c",
+        "texture_tactile-6c8f9e06930e687a",
+        "reference_material-939eaf986a073b53"
+      ],
+      "path": "images/2-gourmand-descriptors-d74aa573cdc79a0c.png",
+      "prompt": "prompts/2-gourmand-descriptors-d74aa573cdc79a0c.txt",
+      "sha256": "79c25d923e872e5a3ba98e6449af79d284e94494f38a970e51f57109f5057a65",
+      "original_path": "assets/wheel-calm-v1/2-gourmand-descriptors-d74aa573cdc79a0c.png",
+      "source_generation": "exec-6a239c20-df85-467d-8747-c971fe650933.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Marzipan, cherry kernel \u2192 smooth \u2192 Benzaldehyde",
+      "full_scent_path": [
+        "AMBER, SPICE & SWEET",
+        "GOURMAND",
+        "Tonka / Almond",
+        "Marzipan, cherry kernel",
+        "smooth",
+        "Benzaldehyde"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "2-spice-descriptors-3561ffd01515e986",
+      "cell_ids": [
+        "descriptors-3561ffd01515e986",
+        "texture_tactile-e019a2e1af22b048",
+        "reference_material-c3b27be8634593fc"
+      ],
+      "path": "images/2-spice-descriptors-3561ffd01515e986.png",
+      "prompt": "prompts/2-spice-descriptors-3561ffd01515e986.txt",
+      "sha256": "556c3840c8cb67f92a4bc911ce37f91c6dcb41d062d78ba62cfdf91dbea94e0d",
+      "original_path": "assets/wheel-calm-v1/2-spice-descriptors-3561ffd01515e986.png",
+      "source_generation": "exec-48b62bd7-66f7-486d-bfa9-9b4e6fff0fd8.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Fresh ginger, citrus zest \u2192 tingling, bright \u2192 Ginger oil",
+      "full_scent_path": [
+        "AMBER, SPICE & SWEET",
+        "SPICE",
+        "Fresh Spice",
+        "Fresh ginger, citrus zest",
+        "tingling, bright",
+        "Ginger oil"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "2-spice-descriptors-550932198b5af1d7",
+      "cell_ids": [
+        "descriptors-550932198b5af1d7",
+        "texture_tactile-bcbd974a0bed967d",
+        "reference_material-f76690f716b1c903"
+      ],
+      "path": "images/2-spice-descriptors-550932198b5af1d7.png",
+      "prompt": "prompts/2-spice-descriptors-550932198b5af1d7.txt",
+      "sha256": "8d741678a9194de0b78bcda3fe9cc02aad3606358107369820bf1489066f9b61",
+      "original_path": "assets/wheel-calm-v1/2-spice-descriptors-550932198b5af1d7.png",
+      "source_generation": "exec-de5016a0-7bb9-489d-866a-58e1b928439e.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        728,
+        2159
+      ],
+      "description": "Crushed green cardamom \u2192 cool, crisp \u2192 Cardamom oil",
+      "full_scent_path": [
+        "AMBER, SPICE & SWEET",
+        "SPICE",
+        "Fresh Spice",
+        "Crushed green cardamom",
+        "cool, crisp",
+        "Cardamom oil"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "2-spice-descriptors-2f5cccd6244ca9b7",
+      "cell_ids": [
+        "descriptors-2f5cccd6244ca9b7",
+        "texture_tactile-db8ba51adc627440",
+        "reference_material-873307e06693786a"
+      ],
+      "path": "images/2-spice-descriptors-2f5cccd6244ca9b7.png",
+      "prompt": "prompts/2-spice-descriptors-2f5cccd6244ca9b7.txt",
+      "sha256": "25fbb3ab146c487e64ba4aaf9cfd1493e58503b4cbf85ba966ab0353e9a8343e",
+      "original_path": "assets/wheel-calm-v1/2-spice-descriptors-2f5cccd6244ca9b7.png",
+      "source_generation": "exec-013b98a1-8ec2-46fa-8ee6-3171632b98b4.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Cinnamon stick, spiced pastry \u2192 warm, smooth \u2192 Cinnamon bark oil",
+      "full_scent_path": [
+        "AMBER, SPICE & SWEET",
+        "SPICE",
+        "Hot Spice",
+        "Cinnamon stick, spiced pastry",
+        "warm, smooth",
+        "Cinnamon bark oil"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "2-spice-descriptors-4f87f509beed0e6d",
+      "cell_ids": [
+        "descriptors-4f87f509beed0e6d",
+        "texture_tactile-c11833393b1e7613",
+        "reference_material-928764b85d041baa"
+      ],
+      "path": "images/2-spice-descriptors-4f87f509beed0e6d.png",
+      "prompt": "prompts/2-spice-descriptors-4f87f509beed0e6d.txt",
+      "sha256": "b285b177a1d375b303637c9c1d9e0912af471c621f780b8ce5441be8787e9f7b",
+      "original_path": "assets/wheel-calm-v1/2-spice-descriptors-4f87f509beed0e6d.png",
+      "source_generation": "exec-011d9cc3-cb74-413c-ba32-95e2eae8fed2.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Clove buds \u2192 warm, prickly \u2192 Clove bud oil",
+      "full_scent_path": [
+        "AMBER, SPICE & SWEET",
+        "SPICE",
+        "Hot Spice",
+        "Clove buds",
+        "warm, prickly",
+        "Clove bud oil"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "2-amber-descriptors-3bd1f10fc0852605",
+      "cell_ids": [
+        "descriptors-3bd1f10fc0852605",
+        "texture_tactile-6da0a77973dc75fc",
+        "reference_material-261c7eb8b83a242f"
+      ],
+      "path": "images/2-amber-descriptors-3bd1f10fc0852605.png",
+      "prompt": "prompts/2-amber-descriptors-3bd1f10fc0852605.txt",
+      "sha256": "0291ea3eb445d3e03d20c9f1fd775745e5f49d6129428cd33b228df1025e74f3",
+      "original_path": "assets/wheel-calm-v1/2-amber-descriptors-3bd1f10fc0852605.png",
+      "source_generation": "exec-d4fbd5b1-9054-450a-b3e3-a23234a81acf.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        726,
+        2166
+      ],
+      "description": "Vanilla, sweet balsamic resin \u2192 soft, enveloping \u2192 Benzoin Siam resinoid",
+      "full_scent_path": [
+        "AMBER, SPICE & SWEET",
+        "AMBER",
+        "Amber",
+        "Vanilla, sweet balsamic resin",
+        "soft, enveloping",
+        "Benzoin Siam resinoid"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "2-amber-descriptors-6e47046cc862509f",
+      "cell_ids": [
+        "descriptors-6e47046cc862509f",
+        "texture_tactile-4b4abe7186d75b6e",
+        "reference_material-1da8e20b9f5e5c2d"
+      ],
+      "path": "images/2-amber-descriptors-6e47046cc862509f.png",
+      "prompt": "prompts/2-amber-descriptors-6e47046cc862509f.txt",
+      "sha256": "99357cec1e5c677edf88057e5d7e010e0a0844a0001fd30f5ae053d616f66867",
+      "original_path": "assets/wheel-calm-v1/2-amber-descriptors-6e47046cc862509f.png",
+      "source_generation": "exec-a2d69abb-d141-4bdb-add1-5e1c5ed7fd0c.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        725,
+        2170
+      ],
+      "description": "Labdanum: dark resin, leather \u2192 dense, warm \u2192 Labdanum resinoid",
+      "full_scent_path": [
+        "AMBER, SPICE & SWEET",
+        "AMBER",
+        "Amber",
+        "Labdanum: dark resin, leather",
+        "dense, warm",
+        "Labdanum resinoid"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "2-resinous-descriptors-05c9709f9f73a62d",
+      "cell_ids": [
+        "descriptors-05c9709f9f73a62d",
+        "texture_tactile-f406fc9d649fdac9",
+        "reference_material-7922abbe7d29bc9b"
+      ],
+      "path": "images/2-resinous-descriptors-05c9709f9f73a62d.png",
+      "prompt": "prompts/2-resinous-descriptors-05c9709f9f73a62d.txt",
+      "sha256": "e45ce2198f9612187d074d13d914653784d32720a0bfa9082294e8c554cde207",
+      "original_path": "assets/wheel-calm-v1/2-resinous-descriptors-05c9709f9f73a62d.png",
+      "source_generation": "exec-9bf6cdc4-10bc-4f1c-9e9d-26815164615f.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Frankincense: pine resin, lemon peel \u2192 crisp \u2192 Olibanum oil",
+      "full_scent_path": [
+        "AMBER, SPICE & SWEET",
+        "RESINOUS",
+        "Incense",
+        "Frankincense: pine resin, lemon peel",
+        "crisp",
+        "Olibanum oil"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "2-resinous-descriptors-81fe74972904be81",
+      "cell_ids": [
+        "descriptors-81fe74972904be81",
+        "texture_tactile-e0e0f9b96989859f",
+        "reference_material-3720ecf0c9d3c86c"
+      ],
+      "path": "images/2-resinous-descriptors-81fe74972904be81.png",
+      "prompt": "prompts/2-resinous-descriptors-81fe74972904be81.txt",
+      "sha256": "6d454f62448fe7992e4c072339ee2a98bdebce922ae8a64ebb9d71e8cd6e977d",
+      "original_path": "assets/wheel-calm-v1/2-resinous-descriptors-81fe74972904be81.png",
+      "source_generation": "exec-6021a427-183f-4114-9af9-daa9577f38ff.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Smouldering resin, ash \u2192 dry, wispy \u2192 Guaiacol (smoke facet)",
+      "full_scent_path": [
+        "AMBER, SPICE & SWEET",
+        "RESINOUS",
+        "Incense",
+        "Smouldering resin, ash",
+        "dry, wispy",
+        "Guaiacol (smoke facet)"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "3-leather-descriptors-e1e364bf1442a5da",
+      "cell_ids": [
+        "descriptors-e1e364bf1442a5da",
+        "texture_tactile-640c2ee33ccad89b",
+        "reference_material-490ff185596a0f31"
+      ],
+      "path": "images/3-leather-descriptors-e1e364bf1442a5da.png",
+      "prompt": "prompts/3-leather-descriptors-e1e364bf1442a5da.txt",
+      "sha256": "54ad3673c293cec3905fcc890571bb723fd93ea9344aa5b56509c236bd0a4054",
+      "original_path": "assets/wheel-calm-v1/3-leather-descriptors-e1e364bf1442a5da.png",
+      "source_generation": "exec-9dae5de6-17ec-4037-ab77-d10a44b22e42.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Saddlery, leather belt \u2192 firm \u2192 Safraleine (leather facet)",
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "LEATHER",
+        "Hard Leather",
+        "Saddlery, leather belt",
+        "firm",
+        "Safraleine (leather facet)"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "3-leather-descriptors-c0146d76fd803280",
+      "cell_ids": [
+        "descriptors-c0146d76fd803280",
+        "texture_tactile-6a7884fc65ecc4c8",
+        "reference_material-fcb8fb734aa7be05"
+      ],
+      "path": "images/3-leather-descriptors-c0146d76fd803280.png",
+      "prompt": "prompts/3-leather-descriptors-c0146d76fd803280.txt",
+      "sha256": "74b0f28bacdba0b72196130998152e6786f12ceff1d3914f1a1999d74fbd5eed",
+      "original_path": "assets/wheel-calm-v1/3-leather-descriptors-c0146d76fd803280.png",
+      "source_generation": "exec-26417648-ace5-4a4b-94b5-8a5ae255ca60.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Smoked hide, tar \u2192 rough \u2192 Leather MD",
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "LEATHER",
+        "Hard Leather",
+        "Smoked hide, tar",
+        "rough",
+        "Leather MD"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "3-animalic-descriptors-3d493641df7f2212",
+      "cell_ids": [
+        "descriptors-3d493641df7f2212",
+        "texture_tactile-4b71a4f77b81aa1c",
+        "reference_material-f9abb9dc0c889d6b"
+      ],
+      "path": "images/3-animalic-descriptors-3d493641df7f2212.png",
+      "prompt": "prompts/3-animalic-descriptors-3d493641df7f2212.txt",
+      "sha256": "da46f11eea3359c96f84fb1f4864f0b58b8b78c67bad3baa31c1216c7ae84860",
+      "original_path": "assets/wheel-calm-v1/3-animalic-descriptors-3d493641df7f2212.png",
+      "source_generation": "exec-b4addcf2-2509-4a16-8eb6-14be4550f925.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Warm skin, soft fur \u2192 rounded \u2192 Muscone",
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "ANIMALIC",
+        "Animalic",
+        "Warm skin, soft fur",
+        "rounded",
+        "Muscone"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "3-animalic-descriptors-b31ad2d958f16329",
+      "cell_ids": [
+        "descriptors-b31ad2d958f16329",
+        "texture_tactile-fc2ed2e702d72f8d",
+        "reference_material-03a8526ace33d9db"
+      ],
+      "path": "images/3-animalic-descriptors-b31ad2d958f16329.png",
+      "prompt": "prompts/3-animalic-descriptors-b31ad2d958f16329.txt",
+      "sha256": "e43310cdb8be2cc38be78eea69000520368fe1c3c5a8c194231c2db7b0ee5445",
+      "original_path": "assets/wheel-calm-v1/3-animalic-descriptors-b31ad2d958f16329.png",
+      "source_generation": "exec-3b43a968-a023-4b2c-8f8c-e0cfbe57a50c.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Stable, manure \u2192 dense \u2192 Indole (animalic facet)",
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "ANIMALIC",
+        "Animalic",
+        "Stable, manure",
+        "dense",
+        "Indole (animalic facet)"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "3-tobacco-descriptors-01e6cc1ddbd17215",
+      "cell_ids": [
+        "descriptors-01e6cc1ddbd17215",
+        "texture_tactile-14bd7242606c5ba2",
+        "reference_material-65c178835480fc47"
+      ],
+      "path": "images/3-tobacco-descriptors-01e6cc1ddbd17215.png",
+      "prompt": "prompts/3-tobacco-descriptors-01e6cc1ddbd17215.txt",
+      "sha256": "12f35c42d263269f0135fde073433048b6357fc9751a6b3a15fc91b87e1c2189",
+      "original_path": "assets/wheel-calm-v1/3-tobacco-descriptors-01e6cc1ddbd17215.png",
+      "source_generation": "exec-3028cd40-a8cc-4f6b-bc56-53b541f0bfb2.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Cigar wrapper, dried leaves \u2192 papery \u2192 Tabanon (tobacco facet)",
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "TOBACCO",
+        "Dry Leaf / Hay",
+        "Cigar wrapper, dried leaves",
+        "papery",
+        "Tabanon (tobacco facet)"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "3-tobacco-descriptors-c7d4a9f66eb31925",
+      "cell_ids": [
+        "descriptors-c7d4a9f66eb31925",
+        "texture_tactile-012462a72a45d777",
+        "reference_material-1917a61923881bac"
+      ],
+      "path": "images/3-tobacco-descriptors-c7d4a9f66eb31925.png",
+      "prompt": "prompts/3-tobacco-descriptors-c7d4a9f66eb31925.txt",
+      "sha256": "fe95cbbf974b0339cb2ce4010cc5b44689f65c2deea7e8d35e5ef078c8f98d92",
+      "original_path": "assets/whole-polish-v1/hay.png",
+      "source_generation": "exec-e7031a0d-c043-4947-aece-6d60455c610b.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": null,
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "TOBACCO",
+        "Dry Leaf / Hay",
+        "Dried grass, sweet hay",
+        "soft",
+        "Hay absolute"
+      ],
+      "reference_inputs_historical": [
+        "assets/wheel-calm-v1/3-tobacco-descriptors-c7d4a9f66eb31925.png"
+      ]
+    },
+    {
+      "id": "3-earthy-descriptors-5c8c80555cf4d46d",
+      "cell_ids": [
+        "descriptors-5c8c80555cf4d46d",
+        "texture_tactile-cb6c8d6ad645f833",
+        "reference_material-c149687dd78c1100"
+      ],
+      "path": "images/3-earthy-descriptors-5c8c80555cf4d46d.png",
+      "prompt": "prompts/3-earthy-descriptors-5c8c80555cf4d46d.txt",
+      "sha256": "cf8ccb2068ed4c5c048806944d05ec3adbc659fd814b3b044b34fe53d61b8269",
+      "original_path": "assets/wheel-calm-v1/3-earthy-descriptors-5c8c80555cf4d46d.png",
+      "source_generation": "exec-859e4907-4d83-4edc-b675-fbd01411757a.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Patchouli: damp earth, dried herbs \u2192 dense \u2192 Patchouli oil",
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "EARTHY",
+        "Earthy / Herbal",
+        "Patchouli: damp earth, dried herbs",
+        "dense",
+        "Patchouli oil"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "3-earthy-descriptors-50a592952aaaaa52",
+      "cell_ids": [
+        "descriptors-50a592952aaaaa52",
+        "texture_tactile-3445eae2bffad395",
+        "reference_material-5b222b62844b95bc"
+      ],
+      "path": "images/3-earthy-descriptors-50a592952aaaaa52.png",
+      "prompt": "prompts/3-earthy-descriptors-50a592952aaaaa52.txt",
+      "sha256": "2cb34305d1594052b8f792c05d4608b7ae4e415a5c929320a29cb8000a0c8e4a",
+      "original_path": "assets/wheel-calm-v1/3-earthy-descriptors-50a592952aaaaa52.png",
+      "source_generation": "exec-4353df9d-a9a5-4437-a365-3a792dce10c8.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Vetiver: dry roots, nutty wood \u2192 fibrous \u2192 Vetiver Heart",
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "EARTHY",
+        "Earthy / Herbal",
+        "Vetiver: dry roots, nutty wood",
+        "fibrous",
+        "Vetiver Heart"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "3-earthy-descriptors-6b5c1231d8652c40",
+      "cell_ids": [
+        "descriptors-6b5c1231d8652c40",
+        "texture_tactile-8712148f346fcba1",
+        "reference_material-109106a333a23d9c"
+      ],
+      "path": "images/3-earthy-descriptors-6b5c1231d8652c40.png",
+      "prompt": "prompts/3-earthy-descriptors-6b5c1231d8652c40.txt",
+      "sha256": "9827b2563f65552c1478760470a321999cc3d4812a38388f2876c10b808bf2ba",
+      "original_path": "assets/wheel-calm-v1/3-earthy-descriptors-6b5c1231d8652c40.png",
+      "source_generation": "exec-05719bbd-c377-4ed4-9231-c93df92b25c6.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Damp moss, shaded bark \u2192 soft \u2192 Oakmoss absolute",
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "EARTHY",
+        "Mossy / Forest",
+        "Damp moss, shaded bark",
+        "soft",
+        "Oakmoss absolute"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "3-earthy-descriptors-848fa02a1d96e192",
+      "cell_ids": [
+        "descriptors-848fa02a1d96e192",
+        "texture_tactile-a0523c0c7f5752bd",
+        "reference_material-8f18a33acad757f5"
+      ],
+      "path": "images/3-earthy-descriptors-848fa02a1d96e192.png",
+      "prompt": "prompts/3-earthy-descriptors-848fa02a1d96e192.txt",
+      "sha256": "f51c057cd6e687408a5dbdb384e57cce065abb107cbe8659ff2b91bd32f96e95",
+      "original_path": "assets/wheel-calm-v1/3-earthy-descriptors-848fa02a1d96e192.png",
+      "source_generation": "exec-82f16c70-db7a-4ed7-b26e-b1d30e0f059e.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Leaf litter, forest soil \u2192 dense \u2192 Patchouli oil",
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "EARTHY",
+        "Mossy / Forest",
+        "Leaf litter, forest soil",
+        "dense",
+        "Patchouli oil"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "3-marine-descriptors-3d5d687a18609eb1",
+      "cell_ids": [
+        "descriptors-3d5d687a18609eb1",
+        "texture_tactile-11096f2af8f79c27",
+        "reference_material-adb7f4b56e4d4382"
+      ],
+      "path": "images/3-marine-descriptors-3d5d687a18609eb1.png",
+      "prompt": "prompts/3-marine-descriptors-3d5d687a18609eb1.txt",
+      "sha256": "a001f7268d35661087ae4cbd5ca6f0dfcf4b5d88a22b906f86bddb55b4883359",
+      "original_path": "assets/wheel-calm-v1/3-marine-descriptors-3d5d687a18609eb1.png",
+      "source_generation": "exec-bafc59d9-6758-47da-b1c5-cf934b3be723.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Rain on stone \u2192 cool, smooth \u2192 Vetiver Haiti SIGNature (mineral facet)",
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "MARINE",
+        "Mineral / Salt",
+        "Rain on stone",
+        "cool, smooth",
+        "Vetiver Haiti SIGNature (mineral facet)"
+      ],
+      "reference_inputs_historical": []
+    },
+    {
+      "id": "3-marine-descriptors-1306e9cde4799039",
+      "cell_ids": [
+        "descriptors-1306e9cde4799039",
+        "texture_tactile-019860e9506bfca8",
+        "reference_material-148578c21ada43b0"
+      ],
+      "path": "images/3-marine-descriptors-1306e9cde4799039.png",
+      "prompt": "prompts/3-marine-descriptors-1306e9cde4799039.txt",
+      "sha256": "3f58c51a07084241822d4c835f874412997c59dbb9b6e11db211007eb0425143",
+      "original_path": "assets/wheel-calm-v1/3-marine-descriptors-1306e9cde4799039.png",
+      "source_generation": "exec-24a561c0-a3d5-4fac-ac99-9c61776ba858.png",
+      "tool": "built-in image_gen",
+      "date": "2026-10-04",
+      "dimensions_px": [
+        724,
+        2172
+      ],
+      "description": "Sea air, skin after a sea swim \u2192 airy, dry \u2192 Patchouli Min\u00e9ral DL (saline facet)",
+      "full_scent_path": [
+        "EARTHY, WOODY & DEEP",
+        "MARINE",
+        "Mineral / Salt",
+        "Sea air, skin after a sea swim",
+        "airy, dry",
+        "Patchouli Min\u00e9ral DL (saline facet)"
+      ],
+      "reference_inputs_historical": []
+    }
+  ]
+}

@@ -1,0 +1,472 @@
+[
+  {
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Dry Wood"
+    ],
+    "action": "expand",
+    "label": "Dry Wood",
+    "reason": "Dry wood is broader than cedar; offer timber, root and ambery directions.",
+    "choices": [
+      {
+        "label": "Cedary",
+        "anchor": "Pencil shavings, cedar chest",
+        "feel": [
+          "rough"
+        ],
+        "reference": "Virginia cedarwood oil",
+        "reference_note": "Givaudan Cedarwood Virginia Oil USA illustrates wood that develops from mild and balsamic to drier wood. Pencil shavings are a recognition prompt.",
+        "reference_sources": [
+          "https://www.givaudan.com/fragrance-beauty/fragrance-ingredients-business/natural-ingredients/cedarwood-virginia-oil-usa"
+        ],
+        "print_text": "Cedary: pencil shavings"
+      },
+      {
+        "label": "Rooty wood",
+        "anchor": "Dry roots, nutty wood",
+        "feel": [
+          "fibrous"
+        ],
+        "reference": "Vetiver Heart",
+        "reference_note": "IFF Vetiver Heart is a dry woody vetiver fraction with nutty and grapefruit nuances; it also supports the separate rooty-earth route.",
+        "reference_sources": [
+          "https://www.iff.com/scent/lmr-compendium/vetiver-heart/"
+        ],
+        "print_text": "Dry roots, a nutty hint"
+      },
+      {
+        "label": "Dry ambery wood",
+        "anchor": "Warm wood, dry amber",
+        "feel": [
+          "smooth"
+        ],
+        "reference": "Bornafix",
+        "reference_note": "IFF describes warm wood, dry amber and cedar facets. This is a woody-amber reference, not a sweet vanilla-resin amber accord.",
+        "reference_sources": [
+          "https://www.iff.com/scent/ingredients-compendium/bornafix/"
+        ],
+        "print_text": "Cedar-like wood, dry warmth"
+      }
+    ],
+    "sources": [
+      "https://www.givaudan.com/fragrance-beauty/fragrance-ingredients-business/natural-ingredients/cedarwood-virginia-oil-usa",
+      "https://www.iff.com/scent/lmr-compendium/vetiver-heart/",
+      "https://www.iff.com/scent/ingredients-compendium/bornafix/"
+    ]
+  },
+  {
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Creamy Wood"
+    ],
+    "action": "retain",
+    "label": "Creamy Wood",
+    "reason": "A sandalwood-like lane is already useful; milky and buttery variants would add near-synonyms at this print scale.",
+    "choices": [
+      {
+        "label": "Sandalwood-like",
+        "anchor": "Milky wood, buttery wood",
+        "feel": [
+          "smooth",
+          "rounded"
+        ],
+        "reference": "Javanol",
+        "reference_note": "Givaudan describes creamy sandalwood with rosy nuances. It illustrates the creamy woody character; milky and buttery are comparisons.",
+        "reference_sources": [
+          "https://www.givaudan.com/fragrance-beauty/fragrance-ingredients-business/fragrance-molecules/javanol"
+        ],
+        "print_text": "Creamy sandalwood, a rosy hint"
+      }
+    ],
+    "sources": [
+      "https://www.givaudan.com/fragrance-beauty/fragrance-ingredients-business/fragrance-molecules/javanol"
+    ]
+  },
+  {
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Sheer Wood"
+    ],
+    "action": "retain",
+    "label": "Sheer Wood",
+    "reason": "Keep one transparent woody-amber lane rather than inventing divisions based on strength or longevity.",
+    "choices": [
+      {
+        "label": "Soft woody amber",
+        "anchor": "Light wood, soft amber",
+        "feel": [
+          "velvety"
+        ],
+        "reference": "Iso E Super",
+        "reference_note": "IFF describes smooth wood and amber with a velvety effect. This supports the soft woody-amber comparison, not a claim of low intensity.",
+        "reference_sources": [
+          "https://www.iff.com/scent/ingredients-compendium/iso-e-super/"
+        ],
+        "print_text": "Smooth woody amber"
+      }
+    ],
+    "sources": [
+      "https://www.iff.com/scent/ingredients-compendium/iso-e-super/"
+    ]
+  },
+  {
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Smoky"
+    ],
+    "action": "expand",
+    "label": "Smoky",
+    "reason": "A charred/tarry direction and a softer woody smoke direction help distinguish smoke qualities.",
+    "choices": [
+      {
+        "label": "Charred / tarry",
+        "anchor": "Campfire, charred timber",
+        "feel": [
+          "rough"
+        ],
+        "reference": "Guaiacol (smoke facet)",
+        "reference_note": "Guaiacol is an identifiable fragrance chemical with a smoky phenolic character supported by sensory research. It illustrates smoke, not the whole tarry campfire impression.",
+        "reference_sources": [
+          "https://www.syensqo.com/en/product/guaiacol",
+          "https://www.sciencedirect.com/science/article/pii/S0308814617306404"
+        ],
+        "print_text": "Charred timber, tar"
+      },
+      {
+        "label": "Smoked wood",
+        "anchor": "Smoked tea, warm wood",
+        "feel": [
+          "soft",
+          "dry"
+        ],
+        "reference": "Guaiacwood oil",
+        "reference_note": "Kanha Nature Oils describes smoky and rose-like facets and use in woody fragrances. It illustrates one woody-smoky direction; smoked tea is a separate recognition comparison.",
+        "reference_sources": [
+          "https://aromatherapyoil.in/our-products/guaiac-wood-oil/"
+        ],
+        "print_text": "Smoked tea, warm timber"
+      }
+    ],
+    "sources": [
+      "https://www.syensqo.com/en/product/guaiacol",
+      "https://www.sciencedirect.com/science/article/pii/S0308814617306404",
+      "https://aromatherapyoil.in/our-products/guaiac-wood-oil/"
+    ]
+  },
+  {
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "EARTHY",
+      "Mossy / Forest"
+    ],
+    "action": "expand",
+    "label": "Mossy / Forest",
+    "reason": "Forest combines moss and leafy humus; those give two useful recognitions without adding an unrelated pine branch.",
+    "choices": [
+      {
+        "label": "Mossy",
+        "anchor": "Damp moss, shaded bark",
+        "feel": [
+          "soft"
+        ],
+        "reference": "Oakmoss absolute",
+        "reference_note": "IFF Moss-Oak Absolute IFRA 43 is a named mossy reference with earthy, leathery and other facets. It is extracted from lichen, not a literal sample of damp forest moss.",
+        "reference_sources": [
+          "https://www.iff.com/scent/lmr-compendium/moss-oak-absolute-ifra-43/"
+        ],
+        "print_text": "Damp moss, shaded bark"
+      },
+      {
+        "label": "Leafy earth",
+        "anchor": "Fallen leaves, forest soil",
+        "feel": [
+          "dense"
+        ],
+        "reference": "Patchouli oil",
+        "reference_note": "IFF Patchouli Oil Indonesia For Life has woody-earthy, camphoraceous and mossy facets. It illustrates the earthy side of the leaf-litter comparison.",
+        "reference_sources": [
+          "https://www.iff.com/scent/lmr-compendium/patchouli-oil-indonesia-for-life/"
+        ],
+        "print_text": "Leaf litter, forest soil"
+      }
+    ],
+    "sources": [
+      "https://www.iff.com/scent/lmr-compendium/moss-oak-absolute-ifra-43/",
+      "https://www.iff.com/scent/lmr-compendium/patchouli-oil-indonesia-for-life/"
+    ]
+  },
+  {
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "EARTHY",
+      "Petrichor"
+    ],
+    "action": "retain",
+    "label": "Petrichor",
+    "reason": "Keep the focused rain-on-earth impression; beetroot is a comparison for its earthy facet, not a separate type of weather.",
+    "choices": [
+      {
+        "label": "Rain on earth",
+        "anchor": "Wet soil, beetroot skin",
+        "feel": [
+          "cool"
+        ],
+        "reference": "Geosmin",
+        "reference_note": "Geosmin supplies an earthy/musty facet associated with soil and beetroot, not the whole smell of rainfall. The linked analytical products document identity and odour; they are not recommended smelling samples.",
+        "reference_sources": [
+          "https://www.sigmaaldrich.com/HT/en/product/sigma/uc18",
+          "https://www.sigmaaldrich.com/US/en/product/aldrich/g5908"
+        ],
+        "print_text": "Rain on soil, beetroot skin"
+      }
+    ],
+    "sources": [
+      "https://www.sigmaaldrich.com/HT/en/product/sigma/uc18",
+      "https://www.sigmaaldrich.com/US/en/product/aldrich/g5908"
+    ]
+  },
+  {
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "EARTHY",
+      "Earthy / Herbal"
+    ],
+    "action": "expand",
+    "label": "Earthy / Rooty",
+    "reason": "Separate humid patchouli-like earth from drier woody roots; both are accessible descriptive directions.",
+    "choices": [
+      {
+        "label": "Patchouli-like",
+        "anchor": "Damp earth, dried herbs",
+        "feel": [
+          "dense"
+        ],
+        "reference": "Patchouli oil",
+        "reference_note": "IFF Patchouli Oil Indonesia For Life supports the woody-earthy direction, with camphoraceous and mossy facets; damp earth is a resemblance.",
+        "reference_sources": [
+          "https://www.iff.com/scent/lmr-compendium/patchouli-oil-indonesia-for-life/"
+        ],
+        "print_text": "Patchouli: damp earth, dried herbs"
+      },
+      {
+        "label": "Vetiver-like",
+        "anchor": "Dry roots, nutty wood",
+        "feel": [
+          "fibrous"
+        ],
+        "reference": "Vetiver Heart",
+        "reference_note": "IFF Vetiver Heart illustrates dry woody vetiver with nutty and grapefruit nuances. Roots are the extracted plant part; the same material supports a Wood route.",
+        "reference_sources": [
+          "https://www.iff.com/scent/lmr-compendium/vetiver-heart/"
+        ],
+        "print_text": "Vetiver: dry roots, nutty wood"
+      }
+    ],
+    "sources": [
+      "https://www.iff.com/scent/lmr-compendium/patchouli-oil-indonesia-for-life/",
+      "https://www.iff.com/scent/lmr-compendium/vetiver-heart/"
+    ]
+  },
+  {
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "MARINE",
+      "Mineral / Salt"
+    ],
+    "action": "expand",
+    "label": "Mineral / Saline",
+    "reason": "Wet-stone and sea-air associations offer different recognition prompts. Their references illustrate mineral and saline facets within broader woody profiles.",
+    "choices": [
+      {
+        "label": "Stony",
+        "anchor": "Wet pebbles, rain on stone",
+        "feel": [
+          "cool",
+          "smooth"
+        ],
+        "reference": "Vetiver Haiti SIGNature (mineral facet)",
+        "reference_note": "Givaudan Vetiver Oil Haiti SIGNature has documented mineral facets within a woody-earthy profile. This illustrates a mineral association, not an exact smell of wet pebbles or a stone extract.",
+        "reference_sources": [
+          "https://www.givaudan.com/fragrance-beauty/fragrance-ingredients-business/natural-ingredients/vetiver-oil-haiti-signature"
+        ],
+        "print_text": "Rain on stone"
+      },
+      {
+        "label": "Saline",
+        "anchor": "Sea air, salt-warmed skin",
+        "feel": [
+          "airy",
+          "dry"
+        ],
+        "reference": "Patchouli Minéral DL (saline facet)",
+        "reference_note": "Symrise identifies this de Laire base and its salty, mineral, woody-ambergris character. It is a specified manufacturer base, not salt itself or a reconstruction of skin and sea air.",
+        "reference_sources": [
+          "https://www.symrise.com/newsroom/article/symrise-inaugurates-jardin-arabia-its-new-fine-fragrance-creation-hub-in-the-heart-of-dubai/"
+        ],
+        "print_text": "Sea air, skin after a sea swim"
+      }
+    ],
+    "sources": [
+      "https://www.givaudan.com/fragrance-beauty/fragrance-ingredients-business/natural-ingredients/vetiver-oil-haiti-signature",
+      "https://www.symrise.com/newsroom/article/symrise-inaugurates-jardin-arabia-its-new-fine-fragrance-creation-hub-in-the-heart-of-dubai/"
+    ]
+  },
+  {
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "LEATHER",
+      "Hard Leather"
+    ],
+    "action": "expand",
+    "label": "Hard Leather",
+    "reason": "Split familiar leather surface from smoked hide; avoids asserting every leather smell is tar.",
+    "choices": [
+      {
+        "label": "Dry leather",
+        "anchor": "Leather belt, saddlery",
+        "feel": [
+          "firm"
+        ],
+        "reference": "Safraleine (leather facet)",
+        "reference_note": "Givaudan Safraleine illustrates a warm leathery facet alongside saffron-like spice and tobacco. It does not reproduce a complete leather belt or saddlery smell.",
+        "reference_sources": [
+          "https://www.givaudan.com/fragrance-beauty/fragrance-ingredients-business/fragrance-molecules/safraleinetm"
+        ],
+        "print_text": "Saddlery, leather belt"
+      },
+      {
+        "label": "Smoky hide",
+        "anchor": "Smoked leather, tar",
+        "feel": [
+          "rough"
+        ],
+        "reference": "Leather MD",
+        "reference_note": "Firmenich Leather MD 936358 is a named material with smoky, leathery and burnt notes. It illustrates smoky leather without implying animal hide is present.",
+        "reference_sources": [
+          "https://studio.dsm-firmenich.com/product/leather-md-pe-936358"
+        ],
+        "print_text": "Smoked hide, tar"
+      }
+    ],
+    "sources": [
+      "https://www.givaudan.com/fragrance-beauty/fragrance-ingredients-business/fragrance-molecules/safraleinetm",
+      "https://studio.dsm-firmenich.com/product/leather-md-pe-936358"
+    ]
+  },
+  {
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "LEATHER",
+      "Suede"
+    ],
+    "action": "retain",
+    "label": "Suede",
+    "reason": "Soft brushed leather is a useful single lane; subdividing soft and powdery leather is low-value in this selective print.",
+    "choices": [
+      {
+        "label": "Soft leather",
+        "anchor": "Suede glove, brushed leather",
+        "feel": [
+          "fuzzy"
+        ],
+        "reference": "Suede Petals (Givaudan formula)",
+        "reference_note": "The published Suede Petals demonstration formula on PDF page 2, the version with Safraleine, is a specific floral-leather composition for comparison. It is not a universal suede standard; the complete source formula identifies the blend.",
+        "reference_sources": [
+          "https://www.givaudan.com/files/0015893_formula.pdf"
+        ],
+        "print_text": "Soft suede"
+      }
+    ],
+    "sources": [
+      "https://www.givaudan.com/files/0015893_formula.pdf"
+    ]
+  },
+  {
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "TOBACCO",
+      "Dry Leaf / Hay"
+    ],
+    "action": "expand",
+    "label": "Dry Leaf / Hay",
+    "reason": "Unlit tobacco leaf and hay are useful distinct directions; retain the original realm-scoped tobacco membership.",
+    "choices": [
+      {
+        "label": "Dry tobacco leaf",
+        "anchor": "Cigar wrapper, dried leaf",
+        "feel": [
+          "papery"
+        ],
+        "reference": "Tabanon (tobacco facet)",
+        "reference_note": "Symrise Tabanon supplies a blond-tobacco facet with aromatic, spicy and balsamic aspects. It is a synthetic reference, not a cigar wrapper extract or a cigarette-smoke accord.",
+        "reference_sources": [
+          "https://www.symrise.com/fileadmin/symrise/Marketing/Scent_and_care/Aroma_molecules/Ingredient_finder/SYM_PC_Datenblaetter/SYM_PC-Tabanon.pdf"
+        ],
+        "print_text": "Cigar wrapper, dried leaves"
+      },
+      {
+        "label": "Hay-like",
+        "anchor": "Dried meadow grass, sweet hay",
+        "feel": [
+          "soft"
+        ],
+        "reference": "Hay absolute",
+        "reference_note": "Firmenich Hay Pays Abs is a named hay absolute with a soft herbal, woody and sweet balsamic character. It illustrates dried hay, with tobacco and moss nuances.",
+        "reference_sources": [
+          "https://www.dsm-firmenich.com/en/businesses/perfumery-beauty/ingredients/geographic-indication-absolue-pays-de-grasse.html"
+        ],
+        "print_text": "Dried grass, sweet hay"
+      }
+    ],
+    "sources": [
+      "https://www.symrise.com/fileadmin/symrise/Marketing/Scent_and_care/Aroma_molecules/Ingredient_finder/SYM_PC_Datenblaetter/SYM_PC-Tabanon.pdf",
+      "https://www.dsm-firmenich.com/en/businesses/perfumery-beauty/ingredients/geographic-indication-absolue-pays-de-grasse.html"
+    ]
+  },
+  {
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "ANIMALIC",
+      "Animalic"
+    ],
+    "action": "expand",
+    "label": "Animalic",
+    "reason": "Soft warm musk and stronger animal-like character are meaningfully different recognitions.",
+    "choices": [
+      {
+        "label": "Warm skin / fur",
+        "anchor": "Warm skin, soft fur",
+        "feel": [
+          "rounded"
+        ],
+        "reference": "Muscone",
+        "reference_note": "Firmenich Muscone 962195 illustrates a soft sweet musk with warm animalic character. Skin and fur are comparisons, not the material source.",
+        "reference_sources": [
+          "https://www.firmenich.com/sites/default/files/uploads/files/ingredients/marketing-sheet/perfumery/MUSCONE_962195.pdf"
+        ],
+        "print_text": "Warm skin, soft fur"
+      },
+      {
+        "label": "Barnyard-like",
+        "anchor": "Stable, animal warmth",
+        "feel": [
+          "dense"
+        ],
+        "reference": "Indole (animalic facet)",
+        "reference_note": "Indole is an identifiable pungent animalic-floral material. It illustrates the stronger animalic facet only; stable hay, earth and the complete barnyard smell require other components.",
+        "reference_sources": [
+          "https://www.sigmaaldrich.com/GB/en/product/aldrich/w259378"
+        ],
+        "print_text": "Stable, manure"
+      }
+    ],
+    "sources": [
+      "https://www.firmenich.com/sites/default/files/uploads/files/ingredients/marketing-sheet/perfumery/MUSCONE_962195.pdf",
+      "https://www.sigmaaldrich.com/GB/en/product/aldrich/w259378"
+    ]
+  }
+]

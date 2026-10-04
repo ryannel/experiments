@@ -1,0 +1,961 @@
+{
+  "schema_version": 1,
+  "status": "Proposed print edition, 2026-10-04; editorial wording and order, not a replacement for the source transcription.",
+  "purpose": "A selective single-sheet guide for an amateur describing what they smell. Suggestions intentionally aid recognition; branches need not cover every possibility.",
+  "instructions": "Start with a familiar scent family and read outward. Use the examples to refine what you smell. Stop wherever the words fit; combine branches if helpful. Feel words are optional suggestions.",
+  "rows": [
+    {
+      "source_path": [
+        "FRESH & LIFTED",
+        "CITRUS",
+        "Zesty / Sparkling"
+      ],
+      "display": {
+        "note": "Zesty / Sparkling",
+        "descriptors": "Lemon peel, sherbet",
+        "texture_tactile": "Prickly, fizzy",
+        "reference_material": "Lemon oil, citral"
+      }
+    },
+    {
+      "source_path": [
+        "FRESH & LIFTED",
+        "CITRUS",
+        "Juicy / Sweet"
+      ],
+      "display": {
+        "note": "Juicy / Sweet",
+        "descriptors": "Orange pulp, candied orange",
+        "texture_tactile": "Juicy, rounded",
+        "reference_material": "Sweet orange oil"
+      }
+    },
+    {
+      "source_path": [
+        "FRESH & LIFTED",
+        "CITRUS",
+        "Bitter / Dry"
+      ],
+      "display": {
+        "note": "Bitter / Dry",
+        "descriptors": "Citrus pith, bitter peel",
+        "texture_tactile": "Dry, rough",
+        "reference_material": "Bergamot"
+      }
+    },
+    {
+      "source_path": [
+        "FRESH & LIFTED",
+        "GREEN",
+        "Fresh Green"
+      ],
+      "display": {
+        "note": "Fresh Green",
+        "descriptors": "Cut grass, crushed leaves",
+        "texture_tactile": "Crisp, sharp",
+        "reference_material": "cis-3-Hexenol"
+      }
+    },
+    {
+      "source_path": [
+        "FRESH & LIFTED",
+        "GREEN",
+        "Vegetal / Resin"
+      ],
+      "display": {
+        "note": "Vegetal / Sap",
+        "descriptors": "Bell pepper, green pea, sap",
+        "texture_tactile": "Crisp, sticky",
+        "reference_material": "Galbanum, violet leaf"
+      }
+    },
+    {
+      "source_path": [
+        "FRESH & LIFTED",
+        "WATERY",
+        "Aquatic / Marine"
+      ],
+      "display": {
+        "note": "Aquatic / Marine",
+        "descriptors": "Melon, cucumber, seaweed",
+        "texture_tactile": "Watery, slippery",
+        "reference_material": "Calone, algae absolute"
+      }
+    },
+    {
+      "source_path": [
+        "FRESH & LIFTED",
+        "ALDEHYDIC",
+        "Aldehydic"
+      ],
+      "display": {
+        "note": "Aldehydic",
+        "descriptors": "Soap, candle wax, laundry",
+        "texture_tactile": "Waxy, sparkling",
+        "reference_material": "Aldehydes C11 / C12"
+      }
+    },
+    {
+      "source_path": [
+        "FRESH & LIFTED",
+        "MUSK",
+        "Clean Musk"
+      ],
+      "display": {
+        "note": "Clean Musk",
+        "descriptors": "Clean laundry, soft skin",
+        "texture_tactile": "Soft, fluffy",
+        "reference_material": "Galaxolide"
+      }
+    },
+    {
+      "source_path": [
+        "FRESH & LIFTED",
+        "AROMATIC",
+        "Herbal"
+      ],
+      "display": {
+        "note": "Herbal",
+        "descriptors": "Lavender, herbs, barbershop",
+        "texture_tactile": "Dry, brisk",
+        "reference_material": "Lavender oil"
+      }
+    },
+    {
+      "source_path": [
+        "FRESH & LIFTED",
+        "AROMATIC",
+        "Cooling"
+      ],
+      "display": {
+        "note": "Cooling",
+        "descriptors": "Mint, eucalyptus",
+        "texture_tactile": "Cool, piercing",
+        "reference_material": "Menthol, eucalyptus"
+      }
+    },
+    {
+      "source_path": [
+        "FRESH & LIFTED",
+        "AROMATIC",
+        "Anisic"
+      ],
+      "display": {
+        "note": "Anisic",
+        "descriptors": "Aniseed, liquorice, fennel",
+        "texture_tactile": "Sweet, smooth",
+        "reference_material": "Star anise, anethole"
+      }
+    },
+    {
+      "source_path": [
+        "FRESH & LIFTED",
+        "AROMATIC",
+        "Tea"
+      ],
+      "display": {
+        "note": "Tea",
+        "descriptors": "Dried tea leaves, mate",
+        "texture_tactile": "Dry, papery",
+        "reference_material": "Tea absolute, mate"
+      }
+    },
+    {
+      "source_path": [
+        "FRESH & LIFTED",
+        "ETHEREAL",
+        "Ethereal"
+      ],
+      "display": {
+        "note": "Ethereal",
+        "descriptors": "Nail varnish, pear drops",
+        "texture_tactile": "Light, sharp",
+        "reference_material": "Ethyl acetate"
+      }
+    },
+    {
+      "source_path": [
+        "AMBER, SPICE & SWEET",
+        "SPICE",
+        "Fresh Spice"
+      ],
+      "display": {
+        "note": "Fresh Spice",
+        "descriptors": "Ginger, cardamom, pepper",
+        "texture_tactile": "Bright, tingling",
+        "reference_material": "Ginger, cardamom"
+      }
+    },
+    {
+      "source_path": [
+        "AMBER, SPICE & SWEET",
+        "SPICE",
+        "Hot Spice"
+      ],
+      "display": {
+        "note": "Hot Spice",
+        "descriptors": "Cinnamon, clove",
+        "texture_tactile": "Warm, prickly",
+        "reference_material": "Cinnamaldehyde, clove"
+      }
+    },
+    {
+      "source_path": [
+        "AMBER, SPICE & SWEET",
+        "SPICE",
+        "Savory Spice"
+      ],
+      "display": {
+        "note": "Savoury Spice",
+        "descriptors": "Cumin, curry, broth",
+        "texture_tactile": "Warm, dusty",
+        "reference_material": "Cumin"
+      }
+    },
+    {
+      "source_path": [
+        "AMBER, SPICE & SWEET",
+        "GOURMAND",
+        "Sweet / Vanillic"
+      ],
+      "display": {
+        "note": "Sweet / Vanillic",
+        "descriptors": "Vanilla, custard, caramel",
+        "texture_tactile": "Soft, rich",
+        "reference_material": "Vanillin, ethyl maltol"
+      }
+    },
+    {
+      "source_path": [
+        "AMBER, SPICE & SWEET",
+        "GOURMAND",
+        "Roasted / Nutty"
+      ],
+      "display": {
+        "note": "Roasted / Nutty",
+        "descriptors": "Toast, popcorn, roasted nuts",
+        "texture_tactile": "Dry, crunchy",
+        "reference_material": "Acetyl pyrazine"
+      }
+    },
+    {
+      "source_path": [
+        "AMBER, SPICE & SWEET",
+        "GOURMAND",
+        "Boozy"
+      ],
+      "display": {
+        "note": "Boozy",
+        "descriptors": "Rum, whisky, oak cask",
+        "texture_tactile": "Warm, rounded",
+        "reference_material": "Rum ether"
+      }
+    },
+    {
+      "source_path": [
+        "AMBER, SPICE & SWEET",
+        "GOURMAND",
+        "Tonka / Almond"
+      ],
+      "display": {
+        "note": "Tonka / Almond",
+        "descriptors": "Sweet hay, marzipan, cherry kernel",
+        "texture_tactile": "Powdery, dense",
+        "reference_material": "Coumarin, benzaldehyde"
+      }
+    },
+    {
+      "source_path": [
+        "AMBER, SPICE & SWEET",
+        "RESINOUS",
+        "Incense"
+      ],
+      "display": {
+        "note": "Incense",
+        "descriptors": "Frankincense, pine, incense smoke",
+        "texture_tactile": "Dry, resinous",
+        "reference_material": "Olibanum / frankincense"
+      }
+    },
+    {
+      "source_path": [
+        "AMBER, SPICE & SWEET",
+        "RESINOUS",
+        "Dark Balsamic"
+      ],
+      "display": {
+        "note": "Dark Balsamic",
+        "descriptors": "Myrrh, liquorice, sweet resin",
+        "texture_tactile": "Dense, gummy",
+        "reference_material": "Myrrh"
+      }
+    },
+    {
+      "source_path": [
+        "AMBER, SPICE & SWEET",
+        "RESINOUS",
+        "Warm Resin"
+      ],
+      "display": {
+        "note": "Warm Resin",
+        "descriptors": "Vanilla, sweet balsam",
+        "texture_tactile": "Soft, warm",
+        "reference_material": "Benzoin"
+      }
+    },
+    {
+      "source_path": [
+        "AMBER, SPICE & SWEET",
+        "AMBER",
+        "Amber"
+      ],
+      "display": {
+        "note": "Amber",
+        "descriptors": "Labdanum, vanilla, sweet resin",
+        "texture_tactile": "Warm, enveloping",
+        "reference_material": "Labdanum + vanilla accord"
+      }
+    },
+    {
+      "source_path": [
+        "AMBER, SPICE & SWEET",
+        "TOBACCO",
+        "Sweet / Cured"
+      ],
+      "display": {
+        "note": "Sweet / Cured",
+        "descriptors": "Cured leaf, molasses, dried fruit",
+        "texture_tactile": "Rich, sticky",
+        "reference_material": "Tobacco absolute"
+      }
+    },
+    {
+      "source_path": [
+        "FLORAL & FRUITY",
+        "FLORAL",
+        "Fresh Rose"
+      ],
+      "display": {
+        "note": "Fresh Rose",
+        "descriptors": "Rose petals, fresh rosewater",
+        "texture_tactile": "Soft, velvety",
+        "reference_material": "Citronellol, phenethyl alcohol"
+      }
+    },
+    {
+      "source_path": [
+        "FLORAL & FRUITY",
+        "FLORAL",
+        "Citrus Floral"
+      ],
+      "display": {
+        "note": "Citrus Floral",
+        "descriptors": "Orange blossom, bitter-orange leaf",
+        "texture_tactile": "Fresh, soft",
+        "reference_material": "Neroli, petitgrain"
+      }
+    },
+    {
+      "source_path": [
+        "FLORAL & FRUITY",
+        "FLORAL",
+        "Solar / Airy"
+      ],
+      "display": {
+        "note": "Airy Floral",
+        "descriptors": "Light jasmine, fresh petals",
+        "texture_tactile": "Sheer, airy",
+        "reference_material": "Hedione"
+      }
+    },
+    {
+      "source_path": [
+        "FLORAL & FRUITY",
+        "FLORAL",
+        "White / Narcotic"
+      ],
+      "display": {
+        "note": "White / Heady",
+        "descriptors": "Jasmine, orange blossom, grape",
+        "texture_tactile": "Rich, enveloping",
+        "reference_material": "Jasmine, methyl anthranilate"
+      }
+    },
+    {
+      "source_path": [
+        "FLORAL & FRUITY",
+        "FLORAL",
+        "Spicy Floral"
+      ],
+      "display": {
+        "note": "Spicy Floral",
+        "descriptors": "Spicy petals, ylang-ylang, lily",
+        "texture_tactile": "Rich, warm",
+        "reference_material": "Ylang-ylang"
+      }
+    },
+    {
+      "source_path": [
+        "FLORAL & FRUITY",
+        "FLORAL",
+        "Iris / Powdery"
+      ],
+      "display": {
+        "note": "Iris / Powdery",
+        "descriptors": "Iris, violet, makeup powder",
+        "texture_tactile": "Powdery, soft",
+        "reference_material": "Orris, ionones"
+      }
+    },
+    {
+      "source_path": [
+        "FLORAL & FRUITY",
+        "FRUITY",
+        "Orchard Fruit"
+      ],
+      "display": {
+        "note": "Orchard Fruit",
+        "descriptors": "Apple, pear, peach",
+        "texture_tactile": "Juicy, fleshy",
+        "reference_material": "Verdox, peach lactone"
+      }
+    },
+    {
+      "source_path": [
+        "FLORAL & FRUITY",
+        "FRUITY",
+        "Tropical"
+      ],
+      "display": {
+        "note": "Tropical",
+        "descriptors": "Pineapple, mango, passionfruit",
+        "texture_tactile": "Juicy, syrupy",
+        "reference_material": "Allyl amyl glycolate"
+      }
+    },
+    {
+      "source_path": [
+        "FLORAL & FRUITY",
+        "FRUITY",
+        "Jammy / Berry"
+      ],
+      "display": {
+        "note": "Jammy / Berry",
+        "descriptors": "Berry jam, plum, dried fruit",
+        "texture_tactile": "Sticky, thick",
+        "reference_material": "Beta-damascone"
+      }
+    },
+    {
+      "source_path": [
+        "FLORAL & FRUITY",
+        "FRUITY",
+        "Sulphurous"
+      ],
+      "display": {
+        "note": "Sulphurous",
+        "descriptors": "Blackcurrant bud, cat-pee hint",
+        "texture_tactile": "Sharp, pungent",
+        "reference_material": "Buchu leaf, Oxane"
+      }
+    },
+    {
+      "source_path": [
+        "FLORAL & FRUITY",
+        "FRUITY",
+        "Lactonic"
+      ],
+      "display": {
+        "note": "Lactonic",
+        "descriptors": "Coconut, creamy peach",
+        "texture_tactile": "Milky, oily",
+        "reference_material": "Coconut lactone (C18)"
+      }
+    },
+    {
+      "source_path": [
+        "EARTHY, WOODY & DEEP",
+        "WOOD",
+        "Dry Wood"
+      ],
+      "display": {
+        "note": "Dry Wood",
+        "descriptors": "Pencil shavings, dry cedar",
+        "texture_tactile": "Dry, rough",
+        "reference_material": "Cedarwood"
+      }
+    },
+    {
+      "source_path": [
+        "EARTHY, WOODY & DEEP",
+        "WOOD",
+        "Creamy Wood"
+      ],
+      "display": {
+        "note": "Creamy Wood",
+        "descriptors": "Sandalwood, buttery wood",
+        "texture_tactile": "Smooth, creamy",
+        "reference_material": "Sandalwood, Javanol"
+      }
+    },
+    {
+      "source_path": [
+        "EARTHY, WOODY & DEEP",
+        "WOOD",
+        "Sheer Wood"
+      ],
+      "display": {
+        "note": "Sheer Wood",
+        "descriptors": "Light wood, soft amber",
+        "texture_tactile": "Sheer, velvety",
+        "reference_material": "Iso E Super"
+      }
+    },
+    {
+      "source_path": [
+        "EARTHY, WOODY & DEEP",
+        "WOOD",
+        "Smoky"
+      ],
+      "display": {
+        "note": "Smoky",
+        "descriptors": "Campfire, charred wood",
+        "texture_tactile": "Dry, smoky",
+        "reference_material": "Birch tar, guaiacwood"
+      }
+    },
+    {
+      "source_path": [
+        "EARTHY, WOODY & DEEP",
+        "EARTHY",
+        "Mossy / Forest"
+      ],
+      "display": {
+        "note": "Mossy / Forest",
+        "descriptors": "Moss, damp forest floor",
+        "texture_tactile": "Damp, soft",
+        "reference_material": "Oakmoss absolute"
+      }
+    },
+    {
+      "source_path": [
+        "EARTHY, WOODY & DEEP",
+        "EARTHY",
+        "Petrichor"
+      ],
+      "display": {
+        "note": "Petrichor",
+        "descriptors": "Rain on earth, beetroot",
+        "texture_tactile": "Earthy, damp",
+        "reference_material": "Geosmin"
+      }
+    },
+    {
+      "source_path": [
+        "EARTHY, WOODY & DEEP",
+        "EARTHY",
+        "Earthy / Herbal"
+      ],
+      "display": {
+        "note": "Earthy / Rooty",
+        "descriptors": "Damp soil, roots, dark chocolate",
+        "texture_tactile": "Dry, earthy",
+        "reference_material": "Patchouli, vetiver"
+      }
+    },
+    {
+      "source_path": [
+        "EARTHY, WOODY & DEEP",
+        "MARINE",
+        "Mineral / Salt"
+      ],
+      "display": {
+        "note": "Mineral / Saline",
+        "descriptors": "Wet stone, sea air, salty skin",
+        "texture_tactile": "Cool, smooth",
+        "reference_material": "Mineral / salty accord"
+      }
+    },
+    {
+      "source_path": [
+        "EARTHY, WOODY & DEEP",
+        "LEATHER",
+        "Hard Leather"
+      ],
+      "display": {
+        "note": "Hard Leather",
+        "descriptors": "Leather, tar, smoky hide",
+        "texture_tactile": "Dry, rough",
+        "reference_material": "Isobutyl quinoline"
+      }
+    },
+    {
+      "source_path": [
+        "EARTHY, WOODY & DEEP",
+        "LEATHER",
+        "Suede"
+      ],
+      "display": {
+        "note": "Suede",
+        "descriptors": "Soft leather, suede",
+        "texture_tactile": "Soft, fuzzy",
+        "reference_material": "Safraleine"
+      }
+    },
+    {
+      "source_path": [
+        "EARTHY, WOODY & DEEP",
+        "TOBACCO",
+        "Dry Leaf / Hay"
+      ],
+      "display": {
+        "note": "Dry Leaf / Hay",
+        "descriptors": "Cigar wrapper, dried hay",
+        "texture_tactile": "Dry, papery",
+        "reference_material": "Tobacco absolute"
+      }
+    },
+    {
+      "source_path": [
+        "EARTHY, WOODY & DEEP",
+        "ANIMALIC",
+        "Animalic"
+      ],
+      "display": {
+        "note": "Animalic",
+        "descriptors": "Warm skin, fur, barnyard",
+        "texture_tactile": "Warm, musky",
+        "reference_material": "Muscone, indole"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "title": "IFF: Iso E Super",
+      "url": "https://www.iff.com/scent/ingredients-compendium/iso-e-super/",
+      "supports": "Smooth woody amber, velvety character."
+    },
+    {
+      "title": "Givaudan: Javanol",
+      "url": "https://www.givaudan.com/fragrance-beauty/fragrance-ingredients-business/fragrance-molecules/javanol",
+      "supports": "Creamy sandalwood and rosy nuances."
+    },
+    {
+      "title": "dsm-firmenich: Cetalox",
+      "url": "https://studio.dsm-firmenich.com/product/cetaloxr-pe-922560",
+      "supports": "Ambery and woody rather than a pure saline reference."
+    },
+    {
+      "title": "Symrise: Aldehyde C18 so-called",
+      "url": "https://www.symrise.com/fileadmin/symrise/Marketing/Scent_and_care/Aroma_molecules/Ingredient_finder/SYM_ohnePC_Datenblaetter/SYM_P_Aldehyde_C18_So-Called.pdf",
+      "supports": "Lactone identity and coconut/lactonic character."
+    },
+    {
+      "title": "IFF: Myrrh resinoid",
+      "url": "https://www.iff.com/scent/lmr-compendium/myrrh-resinoid-md/",
+      "supports": "Sweet balsamic/liquorice comparison."
+    },
+    {
+      "title": "Firmenich: Hedione",
+      "url": "https://www.firmenich.com/sites/default/files/uploads/files/ingredients/marketing-sheet/perfumery/HEDIONE_964898.pdf",
+      "supports": "Transparent jasmine/citrus floral character."
+    },
+    {
+      "title": "Firmenich: Muscone",
+      "url": "https://www.firmenich.com/sites/default/files/uploads/files/ingredients/marketing-sheet/perfumery/MUSCONE_962195.pdf",
+      "supports": "Soft sweet musk with warm animalic character."
+    },
+    {
+      "title": "PerfumersWorld glossary",
+      "url": "https://www.perfumersworld.com/glossary.php",
+      "supports": "Usage of aldehydic, amber, animalic and accord vocabulary."
+    }
+  ],
+  "clockwise_source_paths": [
+    [
+      "FRESH & LIFTED",
+      "WATERY",
+      "Aquatic / Marine"
+    ],
+    [
+      "FRESH & LIFTED",
+      "MUSK",
+      "Clean Musk"
+    ],
+    [
+      "FRESH & LIFTED",
+      "ALDEHYDIC",
+      "Aldehydic"
+    ],
+    [
+      "FRESH & LIFTED",
+      "ETHEREAL",
+      "Ethereal"
+    ],
+    [
+      "FRESH & LIFTED",
+      "GREEN",
+      "Fresh Green"
+    ],
+    [
+      "FRESH & LIFTED",
+      "GREEN",
+      "Vegetal / Resin"
+    ],
+    [
+      "FRESH & LIFTED",
+      "AROMATIC",
+      "Herbal"
+    ],
+    [
+      "FRESH & LIFTED",
+      "AROMATIC",
+      "Cooling"
+    ],
+    [
+      "FRESH & LIFTED",
+      "AROMATIC",
+      "Anisic"
+    ],
+    [
+      "FRESH & LIFTED",
+      "AROMATIC",
+      "Tea"
+    ],
+    [
+      "FRESH & LIFTED",
+      "CITRUS",
+      "Bitter / Dry"
+    ],
+    [
+      "FRESH & LIFTED",
+      "CITRUS",
+      "Juicy / Sweet"
+    ],
+    [
+      "FRESH & LIFTED",
+      "CITRUS",
+      "Zesty / Sparkling"
+    ],
+    [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Citrus Floral"
+    ],
+    [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Solar / Airy"
+    ],
+    [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "White / Narcotic"
+    ],
+    [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Spicy Floral"
+    ],
+    [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Iris / Powdery"
+    ],
+    [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Fresh Rose"
+    ],
+    [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Jammy / Berry"
+    ],
+    [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Sulphurous"
+    ],
+    [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Tropical"
+    ],
+    [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Orchard Fruit"
+    ],
+    [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Lactonic"
+    ],
+    [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Sweet / Vanillic"
+    ],
+    [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Roasted / Nutty"
+    ],
+    [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Boozy"
+    ],
+    [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Tonka / Almond"
+    ],
+    [
+      "AMBER, SPICE & SWEET",
+      "TOBACCO",
+      "Sweet / Cured"
+    ],
+    [
+      "AMBER, SPICE & SWEET",
+      "SPICE",
+      "Savory Spice"
+    ],
+    [
+      "AMBER, SPICE & SWEET",
+      "SPICE",
+      "Fresh Spice"
+    ],
+    [
+      "AMBER, SPICE & SWEET",
+      "SPICE",
+      "Hot Spice"
+    ],
+    [
+      "AMBER, SPICE & SWEET",
+      "AMBER",
+      "Amber"
+    ],
+    [
+      "AMBER, SPICE & SWEET",
+      "RESINOUS",
+      "Warm Resin"
+    ],
+    [
+      "AMBER, SPICE & SWEET",
+      "RESINOUS",
+      "Dark Balsamic"
+    ],
+    [
+      "AMBER, SPICE & SWEET",
+      "RESINOUS",
+      "Incense"
+    ],
+    [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Smoky"
+    ],
+    [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Dry Wood"
+    ],
+    [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Creamy Wood"
+    ],
+    [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Sheer Wood"
+    ],
+    [
+      "EARTHY, WOODY & DEEP",
+      "LEATHER",
+      "Suede"
+    ],
+    [
+      "EARTHY, WOODY & DEEP",
+      "LEATHER",
+      "Hard Leather"
+    ],
+    [
+      "EARTHY, WOODY & DEEP",
+      "ANIMALIC",
+      "Animalic"
+    ],
+    [
+      "EARTHY, WOODY & DEEP",
+      "TOBACCO",
+      "Dry Leaf / Hay"
+    ],
+    [
+      "EARTHY, WOODY & DEEP",
+      "EARTHY",
+      "Earthy / Herbal"
+    ],
+    [
+      "EARTHY, WOODY & DEEP",
+      "EARTHY",
+      "Mossy / Forest"
+    ],
+    [
+      "EARTHY, WOODY & DEEP",
+      "EARTHY",
+      "Petrichor"
+    ],
+    [
+      "EARTHY, WOODY & DEEP",
+      "MARINE",
+      "Mineral / Salt"
+    ]
+  ],
+  "glossary": [
+    [
+      "Aldehydic",
+      "Here: the fatty, waxy or soapy character of certain perfumery aldehydes."
+    ],
+    [
+      "Anisic",
+      "Aniseed- or liquorice-like."
+    ],
+    [
+      "Balsamic",
+      "Sweet, warm, resin-like."
+    ],
+    [
+      "Lactonic",
+      "Milky or creamy, often recalling coconut or peach."
+    ],
+    [
+      "Animalic",
+      "Recalling warm skin, fur or stronger animal-like smells."
+    ],
+    [
+      "Heady",
+      "Rich and enveloping; sometimes called narcotic in floral descriptions."
+    ],
+    [
+      "Sheer",
+      "Light or transparent in character. It can still smell strong."
+    ],
+    [
+      "Dry",
+      "An impression of little sweetness or moisture, not a property of the liquid."
+    ]
+  ],
+  "editorial_notes": [
+    "Realm and family membership stay unchanged. The displayed order is a teaching and colour-composition choice, not measured scent distance.",
+    "Two or three familiar comparisons and two optional feel words replace longer lists. Colour-only, abstract spatial and physiological prompts are omitted.",
+    "Solar / Airy becomes Airy Floral for this edition, with Hedione as the reference. Warm sunscreen is omitted to keep one clear character in the fixed row budget.",
+    "Javanol moves from Sheer Wood to Creamy Wood; Iso E Super remains under Sheer Wood.",
+    "Mineral / Saline keeps the original Marine branch but uses a comparison accord rather than treating ambery/woody Cetalox as an exact saline standard.",
+    "C18 is identified as coconut lactone; C14 shorthand becomes peach lactone. PEA, IBQ and Abs abbreviations are expanded.",
+    "Tonka / Almond combines related directions: coumarin suggests sweet hay; benzaldehyde suggests almond/cherry kernel. Paired labels do not mean synonyms.",
+    "Materials are learning references, not ingredient identifications or complete descriptions. Smell varies with concentration and context.",
+    "Smell comparisons and feel words are editorial prompts, not claims that every reader must perceive each association."
+  ]
+}

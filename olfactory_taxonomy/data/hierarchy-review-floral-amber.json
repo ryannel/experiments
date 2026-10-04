@@ -1,0 +1,944 @@
+[
+  {
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "SPICE",
+      "Fresh Spice"
+    ],
+    "action": "expand",
+    "label": "Fresh Spice",
+    "reason": "Ginger and cardamom give distinct familiar routes within freshness.",
+    "anchor": "Ginger, cardamom, pepper",
+    "feel": [],
+    "choices": [
+      {
+        "label": "Gingery",
+        "anchor": "Fresh ginger, citrus zest",
+        "feel": [
+          "tingling",
+          "bright"
+        ],
+        "reference": "Ginger oil",
+        "reference_note": "Fresh Madagascar ginger oil illustrates the zesty ginger facet; its woody undertone need not fit every scent.",
+        "reference_sources": [
+          "https://www.iff.com/scent/lmr-compendium/ginger-oil-fresh-madagascar/"
+        ],
+        "print_text": "Fresh ginger, citrus zest"
+      },
+      {
+        "label": "Cardamom-like",
+        "anchor": "Crushed green cardamom pods",
+        "feel": [
+          "cool",
+          "crisp"
+        ],
+        "reference": "Cardamom oil",
+        "reference_note": "Guatemalan cardamom seed oil illustrates fresh green spice, with herbal and camphor-like facets.",
+        "reference_sources": [
+          "https://www.iff.com/scent/lmr-compendium/cardamom-oil-guatemala/"
+        ],
+        "print_text": "Crushed green cardamom"
+      }
+    ],
+    "sources": [
+      "https://www.iff.com/scent/lmr-compendium/ginger-oil-fresh-madagascar/",
+      "https://www.iff.com/scent/lmr-compendium/cardamom-oil-guatemala/"
+    ]
+  },
+  {
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "SPICE",
+      "Hot Spice"
+    ],
+    "action": "expand",
+    "label": "Hot Spice",
+    "reason": "Baking cinnamon and clove differ enough to be useful choices.",
+    "anchor": "Cinnamon, clove",
+    "feel": [],
+    "choices": [
+      {
+        "label": "Cinnamony",
+        "anchor": "Cinnamon stick, spiced pastry",
+        "feel": [
+          "warm",
+          "smooth"
+        ],
+        "reference": "Cinnamon bark oil",
+        "reference_note": "Robertet cinnamon bark oil illustrates cinnamon spice with woody and powdery facets. It is not a pastry accord.",
+        "reference_sources": [
+          "https://matieres-premieres.robertet.com/cinnamon-bark-oil"
+        ],
+        "print_text": "Cinnamon stick, spiced pastry"
+      },
+      {
+        "label": "Clove-like",
+        "anchor": "Clove buds, clove-studded orange",
+        "feel": [
+          "warm",
+          "prickly"
+        ],
+        "reference": "Clove bud oil",
+        "reference_note": "IFF clove bud oil illustrates warm clove spice; the clove-studded orange comparison does not imply a citrus blend.",
+        "reference_sources": [
+          "https://www.iff.com/scent/lmr-compendium/clove-bud-oil-org/"
+        ],
+        "print_text": "Clove buds"
+      }
+    ],
+    "sources": [
+      "https://matieres-premieres.robertet.com/cinnamon-bark-oil",
+      "https://www.iff.com/scent/lmr-compendium/clove-bud-oil-org/"
+    ]
+  },
+  {
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "SPICE",
+      "Savory Spice"
+    ],
+    "action": "retain",
+    "label": "Savoury Spice",
+    "reason": "Keep one clear cumin direction; do not invent an unsupported saffron equivalence.",
+    "anchor": "Cumin, curry, broth",
+    "feel": [],
+    "choices": [
+      {
+        "label": "Cumin-like",
+        "anchor": "Cumin seeds, savoury spice mix",
+        "feel": [
+          "warm",
+          "dry"
+        ],
+        "reference": "Cumin seed oil",
+        "reference_note": "Biolandes Cumin Seeds Oil E7187 illustrates the cumin facet of a spice mix. The source identifies Cuminum cyminum, not black cumin (Nigella).",
+        "reference_sources": [
+          "https://www.biolandes.com/wp-content/uploads/fiche-technique-E7187.pdf"
+        ],
+        "print_text": "Cumin seeds"
+      }
+    ],
+    "sources": [
+      "https://www.biolandes.com/wp-content/uploads/fiche-technique-E7187.pdf"
+    ]
+  },
+  {
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Sweet / Vanillic"
+    ],
+    "action": "expand",
+    "label": "Sweet / Vanillic",
+    "reason": "Vanilla and cooked sugar are recognisably different sources of sweetness.",
+    "anchor": "Vanilla, custard, caramel",
+    "feel": [],
+    "choices": [
+      {
+        "label": "Vanilla-like",
+        "anchor": "Vanilla pod, vanilla custard",
+        "feel": [
+          "soft",
+          "creamy"
+        ],
+        "reference": "Vanillin",
+        "reference_note": "Vanillin illustrates sweet vanilla and creamy associations; custard and the whole vanilla pod have additional facets. Syensqo documents the material as Rhovanil.",
+        "reference_sources": [
+          "https://www.syensqo.com/en/brands/rhovanil"
+        ],
+        "print_text": "Vanilla pod, custard"
+      },
+      {
+        "label": "Caramelised",
+        "anchor": "Caramel, spun sugar",
+        "feel": [
+          "rich"
+        ],
+        "reference": "Furaneol",
+        "reference_note": "Furaneol NAT (dsm-firmenich 943910) illustrates caramel-like sweetness with a fruity aspect; it is not a complete caramel accord.",
+        "reference_sources": [
+          "https://studio.dsm-firmenich.com/product/furaneolr-nat-pe-943910"
+        ],
+        "print_text": "Caramel, spun sugar"
+      }
+    ],
+    "sources": [
+      "https://www.syensqo.com/en/brands/rhovanil",
+      "https://studio.dsm-firmenich.com/product/furaneolr-nat-pe-943910"
+    ]
+  },
+  {
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Roasted / Nutty"
+    ],
+    "action": "expand",
+    "label": "Roasted / Nutty",
+    "reason": "Roasted grain and dark coffee distinguish different roast impressions.",
+    "anchor": "Toast, popcorn, roasted nuts",
+    "feel": [],
+    "choices": [
+      {
+        "label": "Toasted / Nutty",
+        "anchor": "Toast, popcorn, roasted nuts",
+        "feel": [
+          "dry"
+        ],
+        "reference": "Filbertone (nut facet)",
+        "reference_note": "Symrise Filbertone illustrates the hazelnut facet. Its roasted-hazelnut association is described in the manufacturer’s flavor discussion; it does not reproduce toast, popcorn and nuts together.",
+        "reference_sources": [
+          "https://www.symrise.com/fileadmin/symrise/Marketing/Scent_and_care/Aroma_molecules/Ingredient_finder/SYM_PC_Datenblaetter/SYM_PC-Filbertone_1___TEC.pdf",
+          "https://www.symrise.com/scent-and-care/aroma-molecules/podcasts/"
+        ],
+        "print_text": "Roasted nuts, popcorn"
+      },
+      {
+        "label": "Coffee-like",
+        "anchor": "Roasted coffee, dark coffee grounds",
+        "feel": [
+          "dense"
+        ],
+        "reference": "Coffee Espresso SFE",
+        "reference_note": "dsm-firmenich Coffee Espresso SFE 918743 is an identifiable coffee extract with roast and burnt-wood facets. Other coffee extracts can differ.",
+        "reference_sources": [
+          "https://studio.dsm-firmenich.com/product/coffee-espresso-sfe-pe-918743"
+        ],
+        "print_text": "Dark roasted coffee"
+      }
+    ],
+    "sources": [
+      "https://www.symrise.com/fileadmin/symrise/Marketing/Scent_and_care/Aroma_molecules/Ingredient_finder/SYM_PC_Datenblaetter/SYM_PC-Filbertone_1___TEC.pdf",
+      "https://www.symrise.com/scent-and-care/aroma-molecules/podcasts/",
+      "https://studio.dsm-firmenich.com/product/coffee-espresso-sfe-pe-918743"
+    ]
+  },
+  {
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Boozy"
+    ],
+    "action": "expand",
+    "label": "Boozy",
+    "reason": "Separate fruity spirit sweetness from an oak-cask impression.",
+    "anchor": "Rum, whisky, oak cask",
+    "feel": [],
+    "choices": [
+      {
+        "label": "Rum-like",
+        "anchor": "Rum, molasses, fruity spirit",
+        "feel": [
+          "warm",
+          "rounded"
+        ],
+        "reference": "Rum SFE",
+        "reference_note": "dsm-firmenich Rum SFE 978907 is a named extract described as brown rum. It illustrates the rum direction, not every spirit or molasses nuance.",
+        "reference_sources": [
+          "https://studio.dsm-firmenich.com/product/rum-sfe-pe-978907"
+        ],
+        "print_text": "Rum, molasses"
+      },
+      {
+        "label": "Cask-like",
+        "anchor": "Whisky, oak barrel",
+        "feel": [
+          "dry",
+          "warm"
+        ],
+        "reference": "Oakwood CO₂",
+        "reference_note": "IFF Oakwood CO₂ MD 40% in TEC illustrates oak-barrel wood with smoky, vanilla and rum facets. It is not a complete whisky accord.",
+        "reference_sources": [
+          "https://www.iff.com/scent/lmr-compendium/oakwood-co2-md-40pct-tec-lmr/"
+        ],
+        "print_text": "Whisky barrel"
+      }
+    ],
+    "sources": [
+      "https://studio.dsm-firmenich.com/product/rum-sfe-pe-978907",
+      "https://www.iff.com/scent/lmr-compendium/oakwood-co2-md-40pct-tec-lmr/"
+    ]
+  },
+  {
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Tonka / Almond"
+    ],
+    "action": "expand",
+    "label": "Tonka / Almond",
+    "reason": "The paired source label contains two distinct recognition directions.",
+    "anchor": "Sweet hay, marzipan, cherry kernel",
+    "feel": [],
+    "choices": [
+      {
+        "label": "Sweet hay / Tonka",
+        "anchor": "Sweet hay, tonka bean",
+        "feel": [
+          "powdery",
+          "soft"
+        ],
+        "reference": "Tonka bean absolute",
+        "reference_note": "IFF Tonka Bean Absolute illustrates hay-like sweetness with almond and vanilla facets; it is a natural extract, not an unspecified tonka blend.",
+        "reference_sources": [
+          "https://www.iff.com/scent/lmr-compendium/tonka-bean-absolute/"
+        ],
+        "print_text": "Tonka: sweet hay"
+      },
+      {
+        "label": "Almond-like",
+        "anchor": "Marzipan, cherry kernel",
+        "feel": [
+          "smooth"
+        ],
+        "reference": "Benzaldehyde",
+        "reference_note": "Benzaldehyde illustrates the bitter-almond/cherry-kernel facet. Marzipan is a familiar comparison, not a complete match to the molecule.",
+        "reference_sources": [
+          "https://lanxess.com/en/products/products/p/purolan--al",
+          "https://www.symrise.com/fileadmin/symrise/Marketing/Scent_and_care/Aroma_molecules/Ingredient_finder/SYM_ohnePC_Datenblaetter/SYM_P_Benzaldehyde_DD.pdf"
+        ],
+        "print_text": "Marzipan, cherry kernel"
+      }
+    ],
+    "sources": [
+      "https://www.iff.com/scent/lmr-compendium/tonka-bean-absolute/",
+      "https://lanxess.com/en/products/products/p/purolan--al",
+      "https://www.symrise.com/fileadmin/symrise/Marketing/Scent_and_care/Aroma_molecules/Ingredient_finder/SYM_ohnePC_Datenblaetter/SYM_P_Benzaldehyde_DD.pdf"
+    ]
+  },
+  {
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "RESINOUS",
+      "Incense"
+    ],
+    "action": "expand",
+    "label": "Incense",
+    "reason": "Fresh resin and burnt incense are useful contrasting impressions.",
+    "anchor": "Frankincense, pine, incense smoke",
+    "feel": [],
+    "choices": [
+      {
+        "label": "Fresh frankincense",
+        "anchor": "Resin tears, pine, lemon peel",
+        "feel": [
+          "crisp"
+        ],
+        "reference": "Olibanum oil",
+        "reference_note": "IFF Olibanum Oil is distilled frankincense resin. Its citrus and resin facets support the fresh direction; it is not burnt incense smoke.",
+        "reference_sources": [
+          "https://www.iff.com/scent/lmr-compendium/olibanum-oil/"
+        ],
+        "print_text": "Frankincense: pine resin, lemon peel"
+      },
+      {
+        "label": "Incense smoke",
+        "anchor": "Smouldering incense, ash",
+        "feel": [
+          "dry",
+          "wispy"
+        ],
+        "reference": "Guaiacol (smoke facet)",
+        "reference_note": "Guaiacol illustrates the smoky facet only. IFF documents its use for smoke; this molecule does not reproduce the resin, ash and smoke of a whole incense accord.",
+        "reference_sources": [
+          "https://www.iff.com/media/stories/perfumer-dino-kong-recreates-the-scent-of-beijing-in-pollution-pods-by-michael-pinsky/",
+          "https://www.syensqo.com/en/product/guaiacol"
+        ],
+        "print_text": "Smouldering resin, ash"
+      }
+    ],
+    "sources": [
+      "https://www.iff.com/scent/lmr-compendium/olibanum-oil/",
+      "https://www.iff.com/media/stories/perfumer-dino-kong-recreates-the-scent-of-beijing-in-pollution-pods-by-michael-pinsky/",
+      "https://www.syensqo.com/en/product/guaiacol"
+    ]
+  },
+  {
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "RESINOUS",
+      "Dark Balsamic"
+    ],
+    "action": "retain",
+    "label": "Dark Balsamic",
+    "reason": "A compact myrrh comparison is useful without manufacturing distinctions.",
+    "anchor": "Myrrh, liquorice, sweet resin",
+    "feel": [],
+    "choices": [
+      {
+        "label": "Myrrh-like",
+        "anchor": "Liquorice, warm dark resin",
+        "feel": [
+          "dense"
+        ],
+        "reference": "Myrrh resinoid MD",
+        "reference_note": "IFF Myrrh Resinoid MD illustrates sweet resin and liquorice facets. The specified molecularly distilled extract differs from myrrh essential oil.",
+        "reference_sources": [
+          "https://www.iff.com/scent/lmr-compendium/myrrh-resinoid-md/"
+        ],
+        "print_text": "Myrrh: liquorice, dark resin"
+      }
+    ],
+    "sources": [
+      "https://www.iff.com/scent/lmr-compendium/myrrh-resinoid-md/"
+    ]
+  },
+  {
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "RESINOUS",
+      "Warm Resin"
+    ],
+    "action": "retain",
+    "label": "Warm Resin",
+    "reason": "Keep a clear benzoin comparison; vanilla already has its own gourmand branch.",
+    "anchor": "Vanilla, sweet balsam",
+    "feel": [],
+    "choices": [
+      {
+        "label": "Benzoin-like",
+        "anchor": "Vanilla balsam, soft sweet resin",
+        "feel": [
+          "soft",
+          "powdery"
+        ],
+        "reference": "Benzoin Siam resinoid",
+        "reference_note": "IFF Benzoin Siam resinoid illustrates sweet vanilla-like balsam with resinous and cinnamic facets.",
+        "reference_sources": [
+          "https://www.iff.com/scent/lmr-compendium/benzoin-resoid-siam/"
+        ],
+        "print_text": "Benzoin: vanilla, sweet balsam"
+      }
+    ],
+    "sources": [
+      "https://www.iff.com/scent/lmr-compendium/benzoin-resoid-siam/"
+    ]
+  },
+  {
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "AMBER",
+      "Amber"
+    ],
+    "action": "expand",
+    "label": "Amber",
+    "reason": "Contrast vanilla-led and labdanum-led versions of the traditional sweet resin accord.",
+    "anchor": "Labdanum, vanilla, sweet resin",
+    "feel": [],
+    "choices": [
+      {
+        "label": "Soft sweet amber",
+        "anchor": "Vanilla wrapped in sweet resin",
+        "feel": [
+          "soft",
+          "enveloping"
+        ],
+        "reference": "Benzoin Siam resinoid",
+        "reference_note": "Benzoin Siam illustrates the sweet resin facet of soft amber. It is one material, not a complete vanilla–benzoin–labdanum amber blend.",
+        "reference_sources": [
+          "https://www.iff.com/scent/lmr-compendium/benzoin-resoid-siam/"
+        ],
+        "print_text": "Vanilla, sweet balsamic resin"
+      },
+      {
+        "label": "Resinous / Leathery",
+        "anchor": "Dark resin, warm leather",
+        "feel": [
+          "dense",
+          "warm"
+        ],
+        "reference": "Labdanum resinoid",
+        "reference_note": "IFF Labdanum Resinoid illustrates resinous amber with leather-like facets. It does not represent every amber perfume.",
+        "reference_sources": [
+          "https://www.iff.com/scent/lmr-compendium/labdanum-resinoid/"
+        ],
+        "print_text": "Labdanum: dark resin, leather"
+      }
+    ],
+    "sources": [
+      "https://www.iff.com/scent/lmr-compendium/benzoin-resoid-siam/",
+      "https://www.iff.com/scent/lmr-compendium/labdanum-resinoid/"
+    ]
+  },
+  {
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "TOBACCO",
+      "Sweet / Cured"
+    ],
+    "action": "retain",
+    "label": "Sweet / Cured",
+    "reason": "Keep one clear cured-leaf recognition direction; dry leaf remains in its own realm.",
+    "anchor": "Cured leaf, molasses, dried fruit",
+    "feel": [],
+    "choices": [
+      {
+        "label": "Sweet cured leaf",
+        "anchor": "Pipe tobacco, molasses, dried fruit",
+        "feel": [
+          "rich"
+        ],
+        "reference": "Tobacco absolute",
+        "reference_note": "Biolandes Tabac Deco P83913100000 is an absolute from air-cured burley leaves. It illustrates cured tobacco; molasses, dried fruit and flavored pipe tobacco remain broader comparisons.",
+        "reference_sources": [
+          "https://biolandes.com/en/product/tabac-deco/"
+        ],
+        "print_text": "Pipe tobacco, molasses, dried fruit"
+      }
+    ],
+    "sources": [
+      "https://biolandes.com/en/product/tabac-deco/"
+    ]
+  },
+  {
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Fresh Rose"
+    ],
+    "action": "retain",
+    "label": "Fresh Rose",
+    "reason": "A recognisable petal comparison is enough within this already narrow character.",
+    "anchor": "Rose petals, fresh rosewater",
+    "feel": [],
+    "choices": [
+      {
+        "label": "Rose petals",
+        "anchor": "Fresh rosewater, soft petals",
+        "feel": [
+          "velvety"
+        ],
+        "reference": "Phenylethyl alcohol",
+        "reference_note": "Phenylethyl alcohol illustrates a rose-like floral facet; it does not reproduce all the green, spicy and fruity nuances of a rose.",
+        "reference_sources": [
+          "https://www.symrise.com/fileadmin/symrise/Marketing/Scent_and_care/Aroma_molecules/Ingredient_finder/SYM_ohnePC_Datenblaetter/SYM_P_Phenylethyl_Alcohol_BA_Free.pdf"
+        ],
+        "print_text": "Rosewater, fresh rose petals"
+      }
+    ],
+    "sources": [
+      "https://www.symrise.com/fileadmin/symrise/Marketing/Scent_and_care/Aroma_molecules/Ingredient_finder/SYM_ohnePC_Datenblaetter/SYM_P_Phenylethyl_Alcohol_BA_Free.pdf"
+    ]
+  },
+  {
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Citrus Floral"
+    ],
+    "action": "expand",
+    "label": "Citrus Floral",
+    "reason": "Flower and leafy cologne directions are useful distinct comparisons.",
+    "anchor": "Orange blossom, bitter-orange leaf",
+    "feel": [],
+    "choices": [
+      {
+        "label": "Orange flower",
+        "anchor": "Fresh orange blossom",
+        "feel": [
+          "light",
+          "soft"
+        ],
+        "reference": "Neroli oil",
+        "reference_note": "Givaudan Neroli Oil Tunisia is distilled bitter-orange blossom, illustrating the fresh floral direction. Orange-flower absolute is a separate extraction.",
+        "reference_sources": [
+          "https://www.givaudan.com/fragrance-beauty/fragrance-ingredients-business/natural-ingredients/neroli-oil-tunisia"
+        ],
+        "print_text": "Fresh orange blossom"
+      },
+      {
+        "label": "Leafy cologne",
+        "anchor": "Bitter-orange leaf and twigs",
+        "feel": [
+          "crisp",
+          "dry"
+        ],
+        "reference": "Petitgrain bigarade oil",
+        "reference_note": "IFF Petitgrain Bigarade Oil Tunisia is distilled from leaves and twigs; its green citrus-floral character illustrates the leafy direction.",
+        "reference_sources": [
+          "https://www.iff.com/scent/lmr-compendium/petitgrain-bigarade-oil-tunisia/"
+        ],
+        "print_text": "Bitter-orange leaves, green twigs"
+      }
+    ],
+    "sources": [
+      "https://www.givaudan.com/fragrance-beauty/fragrance-ingredients-business/natural-ingredients/neroli-oil-tunisia",
+      "https://www.iff.com/scent/lmr-compendium/petitgrain-bigarade-oil-tunisia/"
+    ]
+  },
+  {
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Solar / Airy"
+    ],
+    "action": "retain",
+    "label": "Airy Floral",
+    "reason": "Preserve the edited Airy Floral parent: one transparent jasmine continuation is coherent.",
+    "anchor": "Light jasmine, fresh petals",
+    "feel": [],
+    "choices": [
+      {
+        "label": "Light jasmine",
+        "anchor": "Fresh petals, jasmine breeze",
+        "feel": [
+          "sheer"
+        ],
+        "reference": "Hedione",
+        "reference_note": "Hedione illustrates a transparent jasmine-like floral facet with citrus freshness. This is an airy association, not a claim about perfume strength or duration.",
+        "reference_sources": [
+          "https://www.firmenich.com/sites/default/files/uploads/files/ingredients/marketing-sheet/perfumery/HEDIONE_964898.pdf"
+        ],
+        "print_text": "Delicate jasmine petals"
+      }
+    ],
+    "sources": [
+      "https://www.firmenich.com/sites/default/files/uploads/files/ingredients/marketing-sheet/perfumery/HEDIONE_964898.pdf"
+    ]
+  },
+  {
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "White / Narcotic"
+    ],
+    "action": "expand",
+    "label": "White / Heady",
+    "reason": "Different rich white flowers help refine an otherwise very broad character.",
+    "anchor": "Jasmine, orange blossom, grape",
+    "feel": [],
+    "choices": [
+      {
+        "label": "Jasmine-like",
+        "anchor": "Rich jasmine, ripe petals",
+        "feel": [
+          "enveloping"
+        ],
+        "reference": "Jasmine absolute",
+        "reference_note": "IFF Jasmin Absolute Egypt, from Jasminum grandiflorum, illustrates rich jasmine with fruity and indolic facets; other jasmine extracts differ.",
+        "reference_sources": [
+          "https://www.iff.com/scent/lmr-compendium/jasmin-absolute-egypt/"
+        ],
+        "print_text": "Rich jasmine, a fruity hint"
+      },
+      {
+        "label": "Orange-blossom-like",
+        "anchor": "Honeyed blossom, grape hint",
+        "feel": [
+          "rounded"
+        ],
+        "reference": "Orange-flower absolute",
+        "reference_note": "IFF Orange Flower Absolute Tunisia illustrates warm blossom with honeyed and fruity facets. The optional grape comparison is not a claim that the entire extract smells of grape.",
+        "reference_sources": [
+          "https://www.iff.com/scent/lmr-compendium/orange-flower-absolute-tunisia/"
+        ],
+        "print_text": "Honeyed orange blossom"
+      }
+    ],
+    "sources": [
+      "https://www.iff.com/scent/lmr-compendium/jasmin-absolute-egypt/",
+      "https://www.iff.com/scent/lmr-compendium/orange-flower-absolute-tunisia/"
+    ]
+  },
+  {
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Spicy Floral"
+    ],
+    "action": "expand",
+    "label": "Spicy Floral",
+    "reason": "Clove-like petals and creamy ylang are distinct useful floral-spice comparisons.",
+    "anchor": "Spicy petals, ylang-ylang, lily",
+    "feel": [],
+    "choices": [
+      {
+        "label": "Carnation-like",
+        "anchor": "Petals with a clove hint",
+        "feel": [
+          "warm",
+          "prickly"
+        ],
+        "reference": "Carnation absolute",
+        "reference_note": "IFF Carnation Absolute Egypt is a named extract with a clove-like floral facet; it also has green and herbaceous aspects.",
+        "reference_sources": [
+          "https://www.iff.com/scent/lmr-compendium/carnation-absolute-egypt/"
+        ],
+        "print_text": "Carnation: petals with a clove hint"
+      },
+      {
+        "label": "Ylang-like",
+        "anchor": "Creamy petals, soft fruit, spice",
+        "feel": [
+          "creamy",
+          "warm"
+        ],
+        "reference": "Ylang-ylang oil",
+        "reference_note": "IFF Ylang Ylang Oil Complete Madagascar illustrates spicy fruit and warm floral facets with a creamy background; other distillation grades differ.",
+        "reference_sources": [
+          "https://www.iff.com/scent/lmr-compendium/ylang-ylang-oil-complete-madag-org/"
+        ],
+        "print_text": "Ylang-ylang: fruit, spicy petals"
+      }
+    ],
+    "sources": [
+      "https://www.iff.com/scent/lmr-compendium/carnation-absolute-egypt/",
+      "https://www.iff.com/scent/lmr-compendium/ylang-ylang-oil-complete-madag-org/"
+    ]
+  },
+  {
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Iris / Powdery"
+    ],
+    "action": "expand",
+    "label": "Iris / Powdery",
+    "reason": "Rooty makeup powder and sweet violet offer different powdery floral comparisons.",
+    "anchor": "Iris, violet, makeup powder",
+    "feel": [],
+    "choices": [
+      {
+        "label": "Orris-like",
+        "anchor": "Makeup powder, dry roots",
+        "feel": [
+          "soft"
+        ],
+        "reference": "Orris absolute",
+        "reference_note": "IFF Orris Absolute Italy is obtained from iris rhizomes and illustrates powdery floral and woody facets. It is not iris-petal scent.",
+        "reference_sources": [
+          "https://www.iff.com/scent/lmr-compendium/orris-absolute-italy/"
+        ],
+        "print_text": "Orris (iris root): face powder"
+      },
+      {
+        "label": "Violet-like",
+        "anchor": "Violet sweets, powdery petals",
+        "feel": [
+          "smooth"
+        ],
+        "reference": "Methylionone 70",
+        "reference_note": "BASF Methylionone 70 illustrates a violet/orris floral facet with soft woody and fruity aspects. Violet sweets remain a familiar comparison, not a full candy accord.",
+        "reference_sources": [
+          "https://aroma-ingredients.basf.com/global/en/our-portfolio/selected-sensations"
+        ],
+        "print_text": "Violet sweets, face powder"
+      }
+    ],
+    "sources": [
+      "https://www.iff.com/scent/lmr-compendium/orris-absolute-italy/",
+      "https://aroma-ingredients.basf.com/global/en/our-portfolio/selected-sensations"
+    ]
+  },
+  {
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Orchard Fruit"
+    ],
+    "action": "expand",
+    "label": "Orchard Fruit",
+    "reason": "Crisp apple/pear and fleshy stone fruit are useful familiar distinctions.",
+    "anchor": "Apple, pear, peach",
+    "feel": [],
+    "choices": [
+      {
+        "label": "Apple / Pear",
+        "anchor": "Fresh apple, pear juice",
+        "feel": [
+          "crisp",
+          "juicy"
+        ],
+        "reference": "Fructone (apple facet)",
+        "reference_note": "IFF Fructone illustrates the apple-like facet. It also has tropical-fruit aspects; it is not a full apple–pear blend or a natural fruit oil.",
+        "reference_sources": [
+          "https://www.iff.com/scent/ingredients-compendium/fructone/"
+        ],
+        "print_text": "Fresh apple, pear juice"
+      },
+      {
+        "label": "Peach / Apricot",
+        "anchor": "Ripe peach, apricot flesh",
+        "feel": [
+          "fleshy",
+          "soft"
+        ],
+        "reference": "Nectaryl",
+        "reference_note": "Givaudan Nectaryl illustrates nectarine, peach and apricot with a lactonic facet. It is a named molecule, not a natural fruit extract.",
+        "reference_sources": [
+          "https://www.givaudan.com/fragrance-beauty/fragrance-ingredients-business/fragrance-molecules/nectaryl"
+        ],
+        "print_text": "Ripe peach, apricot"
+      }
+    ],
+    "sources": [
+      "https://www.iff.com/scent/ingredients-compendium/fructone/",
+      "https://www.givaudan.com/fragrance-beauty/fragrance-ingredients-business/fragrance-molecules/nectaryl"
+    ]
+  },
+  {
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Tropical"
+    ],
+    "action": "expand",
+    "label": "Tropical",
+    "reason": "Pineapple and mango offer readily understood contrasting tropical impressions.",
+    "anchor": "Pineapple, mango, passionfruit",
+    "feel": [],
+    "choices": [
+      {
+        "label": "Pineapple-like",
+        "anchor": "Fresh pineapple, tart juice",
+        "feel": [
+          "juicy",
+          "sharp"
+        ],
+        "reference": "Allyl caproate",
+        "reference_note": "Symrise Allyl Caproate (allyl hexanoate) illustrates pineapple-like fruitiness; it does not contain every fresh-pineapple facet.",
+        "reference_sources": [
+          "https://www.symrise.com/fileadmin/symrise/Marketing/Scent_and_care/Aroma_molecules/Ingredient_finder/SYM_PC_Datenblaetter/SYM_PC-Allyl_Caproate.pdf"
+        ],
+        "print_text": "Fresh pineapple"
+      },
+      {
+        "label": "Mango-like",
+        "anchor": "Ripe mango pulp",
+        "feel": [
+          "fleshy"
+        ],
+        "reference": "Tropicalia (fruit facet)",
+        "reference_note": "IFF Tropicalia is a named molecule used for tropical-fruit effects including mango. It illustrates one fruity facet, not a complete ripe-mango reconstruction.",
+        "reference_sources": [
+          "https://www.iff.com/scent/ingredients-compendium/tropicalia/"
+        ],
+        "print_text": "Ripe mango pulp"
+      }
+    ],
+    "sources": [
+      "https://www.symrise.com/fileadmin/symrise/Marketing/Scent_and_care/Aroma_molecules/Ingredient_finder/SYM_PC_Datenblaetter/SYM_PC-Allyl_Caproate.pdf",
+      "https://www.iff.com/scent/ingredients-compendium/tropicalia/"
+    ]
+  },
+  {
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Jammy / Berry"
+    ],
+    "action": "expand",
+    "label": "Jammy / Berry",
+    "reason": "Freshly cooked berries and dark dried fruit are different useful refinements.",
+    "anchor": "Berry jam, plum, dried fruit",
+    "feel": [],
+    "choices": [
+      {
+        "label": "Berry jam",
+        "anchor": "Raspberry jam, cooked berries",
+        "feel": [
+          "thick"
+        ],
+        "reference": "Furaneol (jammy facet)",
+        "reference_note": "dsm-firmenich documents Furaneol NAT 943910 for jam-like fruit effects. It illustrates cooked-fruit sweetness rather than a complete raspberry-jam accord.",
+        "reference_sources": [
+          "https://studio.dsm-firmenich.com/product/furaneolr-nat-pe-943910"
+        ],
+        "print_text": "Raspberry jam"
+      },
+      {
+        "label": "Plum / Dried fruit",
+        "anchor": "Plum, raisins, prune",
+        "feel": [
+          "dense"
+        ],
+        "reference": "Davana oil",
+        "reference_note": "IFF Davana Oil illustrates sweet dried-fruit character, with apricot and hay facets. Plum, raisin and prune are broader recognition comparisons.",
+        "reference_sources": [
+          "https://www.iff.com/scent/lmr-compendium/davana-oil/"
+        ],
+        "print_text": "Plum, prune, raisins"
+      }
+    ],
+    "sources": [
+      "https://studio.dsm-firmenich.com/product/furaneolr-nat-pe-943910",
+      "https://www.iff.com/scent/lmr-compendium/davana-oil/"
+    ]
+  },
+  {
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Sulphurous"
+    ],
+    "action": "retain",
+    "label": "Sulphurous",
+    "reason": "Keep a recognisable blackcurrant-bud route rather than adding pungency for its own sake.",
+    "anchor": "Blackcurrant bud, cat-pee hint",
+    "feel": [],
+    "choices": [
+      {
+        "label": "Blackcurrant bud",
+        "anchor": "Crushed blackcurrant bud, catty hint",
+        "feel": [
+          "sharp",
+          "biting"
+        ],
+        "reference": "Blackcurrant bud absolute",
+        "reference_note": "Biolandes Blackcurrant Absolute F0424 comes from buds. Its French product description explicitly documents powerful green sulphurous facets; catty is an optional smell comparison, not ammonia.",
+        "reference_sources": [
+          "https://biolandes.com/produit/cassis-absolue/",
+          "https://www.biolandes.com/wp-content/uploads/fiche-technique-F0424.pdf"
+        ],
+        "print_text": "Blackcurrant bud, cat-urine hint"
+      }
+    ],
+    "sources": [
+      "https://biolandes.com/produit/cassis-absolue/",
+      "https://www.biolandes.com/wp-content/uploads/fiche-technique-F0424.pdf"
+    ]
+  },
+  {
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Lactonic"
+    ],
+    "action": "expand",
+    "label": "Lactonic",
+    "reason": "Coconut milk and creamy peach show that lactonic is not only coconut.",
+    "anchor": "Coconut, creamy peach",
+    "feel": [],
+    "choices": [
+      {
+        "label": "Coconut milk",
+        "anchor": "Coconut milk, coconut cream",
+        "feel": [
+          "oily"
+        ],
+        "reference": "Methyl Laitone",
+        "reference_note": "Givaudan Methyl Laitone 10% in DPG illustrates creamy coconut milk. It is a named lactone preparation, not an aldehyde.",
+        "reference_sources": [
+          "https://www.givaudan.com/fragrance-beauty/fragrance-ingredients-business/fragrance-molecules/methyl-laitone-10dpg"
+        ],
+        "print_text": "Coconut milk"
+      },
+      {
+        "label": "Creamy peach",
+        "anchor": "Peach flesh blended with cream",
+        "feel": [
+          "soft"
+        ],
+        "reference": "Nectaryl + Methyl Laitone",
+        "reference_note": "A specified Givaudan reference combination: 50 parts Nectaryl plus 50 parts Methyl Laitone 10% in DPG. The manufacturer presents this pairing as peach-cheesecake-like; it illustrates creamy fruit, not all dairy or peach scents.",
+        "reference_sources": [
+          "https://www.givaudan.com/fragrance-beauty/fragrance-ingredients-business/fragrance-molecules/methyl-laitone-10dpg"
+        ],
+        "print_text": "Peaches and cream"
+      }
+    ],
+    "sources": [
+      "https://www.givaudan.com/fragrance-beauty/fragrance-ingredients-business/fragrance-molecules/methyl-laitone-10dpg"
+    ]
+  }
+]

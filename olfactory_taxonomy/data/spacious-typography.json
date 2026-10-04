@@ -1,0 +1,61 @@
+{
+  "heading_sizes_px": {
+    "realm": [
+      96,
+      96
+    ],
+    "family": [
+      72,
+      57
+    ],
+    "note": [
+      48,
+      48
+    ]
+  },
+  "realm_curve": {
+    "ink_radius": 520,
+    "minimum_side_degrees": 3,
+    "line_spacing": 78,
+    "line_breaks": {
+      "EARTHY, WOODY & DEEP": [
+        "EARTHY, WOODY",
+        "& DEEP"
+      ],
+      "AMBER, SPICE & SWEET": [
+        "AMBER, SPICE",
+        "& SWEET"
+      ]
+    },
+    "stroke_width_px": 0.45,
+    "close_dilation_px": 0.95,
+    "close_opacity": 0.86
+  },
+  "padding": {
+    "realm": 12,
+    "family": 8,
+    "note": 12
+  },
+  "supporting_sizes_px": {
+    "descriptors": 42,
+    "texture_tactile": 36,
+    "reference_material": 33
+  },
+  "reason": "Keep the established heading hierarchy, but make outer detail comfortably readable: comparisons 42px, feel words 36px, references 33px. Preserve accepted phrase wrapping and image-aware label positions.",
+  "center": {
+    "radius": 220,
+    "rule_inset": 12,
+    "title_sizes": {
+      "OLFACTORY": 42,
+      "ATLAS": 78
+    },
+    "title_baselines": {
+      "OLFACTORY": -28,
+      "ATLAS": 50
+    },
+    "title_tracking": {
+      "OLFACTORY": 2,
+      "ATLAS": 3
+    }
+  }
+}

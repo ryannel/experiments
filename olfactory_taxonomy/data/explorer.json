@@ -1,0 +1,173 @@
+{
+  "revision": "1791142118962",
+  "size": 9216,
+  "tileSize": 512,
+  "overlap": 1,
+  "maxLevel": 14,
+  "modes": [
+    "labels",
+    "image"
+  ],
+  "families": [
+    {
+      "name": "WATERY",
+      "realm": "FRESH & LIFTED",
+      "start": 0,
+      "end": 8.78048780487805,
+      "inner": 1050,
+      "outer": 4320
+    },
+    {
+      "name": "MUSK",
+      "realm": "FRESH & LIFTED",
+      "start": 8.78048780487805,
+      "end": 13.170731707317072,
+      "inner": 1050,
+      "outer": 4320
+    },
+    {
+      "name": "ALDEHYDIC",
+      "realm": "FRESH & LIFTED",
+      "start": 13.170731707317072,
+      "end": 21.951219512195124,
+      "inner": 1050,
+      "outer": 4320
+    },
+    {
+      "name": "ETHEREAL",
+      "realm": "FRESH & LIFTED",
+      "start": 21.951219512195124,
+      "end": 26.341463414634145,
+      "inner": 1050,
+      "outer": 4320
+    },
+    {
+      "name": "GREEN",
+      "realm": "FRESH & LIFTED",
+      "start": 26.341463414634145,
+      "end": 39.51219512195122,
+      "inner": 1050,
+      "outer": 4320
+    },
+    {
+      "name": "AROMATIC",
+      "realm": "FRESH & LIFTED",
+      "start": 39.51219512195122,
+      "end": 70.2439024390244,
+      "inner": 1050,
+      "outer": 4320
+    },
+    {
+      "name": "CITRUS",
+      "realm": "FRESH & LIFTED",
+      "start": 70.2439024390244,
+      "end": 96.58536585365853,
+      "inner": 1050,
+      "outer": 4320
+    },
+    {
+      "name": "FLORAL",
+      "realm": "FLORAL & FRUITY",
+      "start": 96.58536585365853,
+      "end": 140.4878048780488,
+      "inner": 1050,
+      "outer": 4320
+    },
+    {
+      "name": "FRUITY",
+      "realm": "FLORAL & FRUITY",
+      "start": 140.4878048780488,
+      "end": 180,
+      "inner": 1050,
+      "outer": 4320
+    },
+    {
+      "name": "GOURMAND",
+      "realm": "AMBER, SPICE & SWEET",
+      "start": 180,
+      "end": 215.1219512195122,
+      "inner": 1050,
+      "outer": 4320
+    },
+    {
+      "name": "TOBACCO",
+      "realm": "AMBER, SPICE & SWEET",
+      "start": 215.1219512195122,
+      "end": 219.5121951219512,
+      "inner": 1050,
+      "outer": 4320
+    },
+    {
+      "name": "SPICE",
+      "realm": "AMBER, SPICE & SWEET",
+      "start": 219.5121951219512,
+      "end": 241.46341463414635,
+      "inner": 1050,
+      "outer": 4320
+    },
+    {
+      "name": "AMBER",
+      "realm": "AMBER, SPICE & SWEET",
+      "start": 241.46341463414635,
+      "end": 250.2439024390244,
+      "inner": 1050,
+      "outer": 4320
+    },
+    {
+      "name": "RESINOUS",
+      "realm": "AMBER, SPICE & SWEET",
+      "start": 250.2439024390244,
+      "end": 267.8048780487805,
+      "inner": 1050,
+      "outer": 4320
+    },
+    {
+      "name": "WOOD",
+      "realm": "EARTHY, WOODY & DEEP",
+      "start": 267.8048780487805,
+      "end": 298.5365853658537,
+      "inner": 1050,
+      "outer": 4320
+    },
+    {
+      "name": "LEATHER",
+      "realm": "EARTHY, WOODY & DEEP",
+      "start": 298.5365853658537,
+      "end": 311.7073170731707,
+      "inner": 1050,
+      "outer": 4320
+    },
+    {
+      "name": "ANIMALIC",
+      "realm": "EARTHY, WOODY & DEEP",
+      "start": 311.7073170731707,
+      "end": 320.4878048780488,
+      "inner": 1050,
+      "outer": 4320
+    },
+    {
+      "name": "TOBACCO",
+      "realm": "EARTHY, WOODY & DEEP",
+      "start": 320.4878048780488,
+      "end": 329.2682926829268,
+      "inner": 1050,
+      "outer": 4320
+    },
+    {
+      "name": "EARTHY",
+      "realm": "EARTHY, WOODY & DEEP",
+      "start": 329.2682926829268,
+      "end": 351.219512195122,
+      "inner": 1050,
+      "outer": 4320
+    },
+    {
+      "name": "MARINE",
+      "realm": "EARTHY, WOODY & DEEP",
+      "start": 351.219512195122,
+      "end": 360,
+      "inner": 1050,
+      "outer": 4320
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+# Preserve exact historical generation prompts and encoder-generated descriptors.
+source/prompts/*.txt -whitespace
+exhibit/*.dzi -whitespace

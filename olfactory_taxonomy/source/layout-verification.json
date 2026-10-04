@@ -1,0 +1,4048 @@
+{
+  "source": "source/master.svg",
+  "canvas": 9216,
+  "coordinate_viewbox": 6144,
+  "linear_increase": 1.5,
+  "image_area_increase": 2.25,
+  "supporting_sizes_px": {
+    "descriptors": 42,
+    "texture_tactile": 36,
+    "reference_material": 33
+  },
+  "supporting_fits": [
+    {
+      "id": "descriptors-9a08cd63605eee33",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 168.523,
+      "padded_outer_clearance": 168.342,
+      "padded_side_clearance_degrees": 1.3025,
+      "fits": true
+    },
+    {
+      "id": "descriptors-2f5a38dbba996fa8",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 236.5,
+      "padded_outer_clearance": 236.312,
+      "padded_side_clearance_degrees": 1.3355,
+      "fits": true
+    },
+    {
+      "id": "descriptors-d835be2fc1b3b9e1",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 180.0,
+      "padded_outer_clearance": 179.817,
+      "padded_side_clearance_degrees": 1.3082,
+      "fits": true
+    },
+    {
+      "id": "descriptors-2db2d153ec13da66",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 195.5,
+      "padded_outer_clearance": 195.011,
+      "padded_side_clearance_degrees": 0.7612,
+      "fits": true
+    },
+    {
+      "id": "descriptors-88085d5e2dd9b6b0",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 238.0,
+      "padded_outer_clearance": 237.501,
+      "padded_side_clearance_degrees": 0.7944,
+      "fits": true
+    },
+    {
+      "id": "descriptors-f9624e0baa58331e",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 111.516,
+      "padded_outer_clearance": 111.043,
+      "padded_side_clearance_degrees": 0.6872,
+      "fits": true
+    },
+    {
+      "id": "descriptors-4ea3f4d5a71c18f2",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 222.0,
+      "padded_outer_clearance": 221.502,
+      "padded_side_clearance_degrees": 0.7786,
+      "fits": true
+    },
+    {
+      "id": "descriptors-87690c6d814b5b00",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 222.5,
+      "padded_outer_clearance": 222.004,
+      "padded_side_clearance_degrees": 0.7824,
+      "fits": true
+    },
+    {
+      "id": "descriptors-06ca0b60dd2436e8",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 214.5,
+      "padded_outer_clearance": 214.006,
+      "padded_side_clearance_degrees": 0.7762,
+      "fits": true
+    },
+    {
+      "id": "descriptors-7d6430594ea71c50",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 216.5,
+      "padded_outer_clearance": 216.314,
+      "padded_side_clearance_degrees": 1.326,
+      "fits": true
+    },
+    {
+      "id": "descriptors-37f0edaa196b41e9",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 197.023,
+      "padded_outer_clearance": 196.534,
+      "padded_side_clearance_degrees": 0.7624,
+      "fits": true
+    },
+    {
+      "id": "descriptors-a5288a8824364d70",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 380.5,
+      "padded_outer_clearance": 80.034,
+      "padded_side_clearance_degrees": 0.8919,
+      "fits": true
+    },
+    {
+      "id": "descriptors-38a121600e5c9dec",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 171.0,
+      "padded_outer_clearance": 170.514,
+      "padded_side_clearance_degrees": 0.7378,
+      "fits": true
+    },
+    {
+      "id": "descriptors-88d6147b86178d9a",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 214.0,
+      "padded_outer_clearance": 213.506,
+      "padded_side_clearance_degrees": 0.7758,
+      "fits": true
+    },
+    {
+      "id": "descriptors-bd1bcab763de4e9d",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 225.5,
+      "padded_outer_clearance": 225.001,
+      "padded_side_clearance_degrees": 0.7813,
+      "fits": true
+    },
+    {
+      "id": "descriptors-e86e6876eb28ea14",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 235.0,
+      "padded_outer_clearance": 234.499,
+      "padded_side_clearance_degrees": 0.7886,
+      "fits": true
+    },
+    {
+      "id": "descriptors-8253f980d36a868d",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 188.0,
+      "padded_outer_clearance": 187.817,
+      "padded_side_clearance_degrees": 1.3122,
+      "fits": true
+    },
+    {
+      "id": "descriptors-a2c3ed15d72ae9ae",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 220.0,
+      "padded_outer_clearance": 219.503,
+      "padded_side_clearance_degrees": 0.777,
+      "fits": true
+    },
+    {
+      "id": "descriptors-665665d666a0fcf6",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 174.5,
+      "padded_outer_clearance": 174.318,
+      "padded_side_clearance_degrees": 1.3055,
+      "fits": true
+    },
+    {
+      "id": "descriptors-d1091edce3bfca20",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 181.0,
+      "padded_outer_clearance": 180.817,
+      "padded_side_clearance_degrees": 1.3087,
+      "fits": true
+    },
+    {
+      "id": "descriptors-bc82129377f9a9e5",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 181.5,
+      "padded_outer_clearance": 181.014,
+      "padded_side_clearance_degrees": 0.7499,
+      "fits": true
+    },
+    {
+      "id": "descriptors-957c6847530bcf07",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 200.0,
+      "padded_outer_clearance": 199.816,
+      "padded_side_clearance_degrees": 1.3181,
+      "fits": true
+    },
+    {
+      "id": "descriptors-4bdb36b3dbd24ea0",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 175.5,
+      "padded_outer_clearance": 175.318,
+      "padded_side_clearance_degrees": 1.306,
+      "fits": true
+    },
+    {
+      "id": "descriptors-14e3facd1df7db99",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 184.516,
+      "padded_outer_clearance": 184.029,
+      "padded_side_clearance_degrees": 0.7524,
+      "fits": true
+    },
+    {
+      "id": "descriptors-9463a8d3c68a9ff3",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 169.0,
+      "padded_outer_clearance": 168.818,
+      "padded_side_clearance_degrees": 1.3027,
+      "fits": true
+    },
+    {
+      "id": "descriptors-bb7b254cb996bd31",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 232.5,
+      "padded_outer_clearance": 232.002,
+      "padded_side_clearance_degrees": 0.7902,
+      "fits": true
+    },
+    {
+      "id": "descriptors-7013748649268140",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 209.0,
+      "padded_outer_clearance": 208.508,
+      "padded_side_clearance_degrees": 0.7719,
+      "fits": true
+    },
+    {
+      "id": "descriptors-ec7d788661126aa4",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 170.5,
+      "padded_outer_clearance": 170.014,
+      "padded_side_clearance_degrees": 0.7374,
+      "fits": true
+    },
+    {
+      "id": "descriptors-b1f81de916cfb15a",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 205.0,
+      "padded_outer_clearance": 204.509,
+      "padded_side_clearance_degrees": 0.7688,
+      "fits": true
+    },
+    {
+      "id": "descriptors-e564a98ea71b774a",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 223.5,
+      "padded_outer_clearance": 223.004,
+      "padded_side_clearance_degrees": 0.7832,
+      "fits": true
+    },
+    {
+      "id": "descriptors-9bfd04dec90d3bc3",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 229.0,
+      "padded_outer_clearance": 228.503,
+      "padded_side_clearance_degrees": 0.7875,
+      "fits": true
+    },
+    {
+      "id": "descriptors-6469e16102dfdea5",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 92.5,
+      "padded_outer_clearance": 331.973,
+      "padded_side_clearance_degrees": 0.6702,
+      "fits": true
+    },
+    {
+      "id": "descriptors-043fa50708a9aadb",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 226.0,
+      "padded_outer_clearance": 225.813,
+      "padded_side_clearance_degrees": 1.3306,
+      "fits": true
+    },
+    {
+      "id": "descriptors-2419e8c6e0a5faae",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 192.5,
+      "padded_outer_clearance": 192.316,
+      "padded_side_clearance_degrees": 1.3144,
+      "fits": true
+    },
+    {
+      "id": "descriptors-bb2a87d4de9db508",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 205.0,
+      "padded_outer_clearance": 204.509,
+      "padded_side_clearance_degrees": 0.7688,
+      "fits": true
+    },
+    {
+      "id": "descriptors-1e29276e38837c3f",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 213.5,
+      "padded_outer_clearance": 213.314,
+      "padded_side_clearance_degrees": 1.3246,
+      "fits": true
+    },
+    {
+      "id": "descriptors-6a9e985100752127",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 206.5,
+      "padded_outer_clearance": 206.315,
+      "padded_side_clearance_degrees": 1.3212,
+      "fits": true
+    },
+    {
+      "id": "descriptors-19c245c3d3aad8dd",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 237.5,
+      "padded_outer_clearance": 237.001,
+      "padded_side_clearance_degrees": 0.794,
+      "fits": true
+    },
+    {
+      "id": "descriptors-660b9be3910243e8",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 192.5,
+      "padded_outer_clearance": 192.316,
+      "padded_side_clearance_degrees": 1.3144,
+      "fits": true
+    },
+    {
+      "id": "descriptors-4b0bf6cd9b47c099",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 231.5,
+      "padded_outer_clearance": 231.313,
+      "padded_side_clearance_degrees": 1.3332,
+      "fits": true
+    },
+    {
+      "id": "descriptors-15e1f589caab376d",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 192.5,
+      "padded_outer_clearance": 192.316,
+      "padded_side_clearance_degrees": 1.3144,
+      "fits": true
+    },
+    {
+      "id": "descriptors-44b12d10909d5a89",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 190.516,
+      "padded_outer_clearance": 190.332,
+      "padded_side_clearance_degrees": 1.3134,
+      "fits": true
+    },
+    {
+      "id": "descriptors-93e4128e54d97f0e",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 186.0,
+      "padded_outer_clearance": 185.817,
+      "padded_side_clearance_degrees": 1.3112,
+      "fits": true
+    },
+    {
+      "id": "descriptors-426029d132634c66",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 172.492,
+      "padded_outer_clearance": 172.31,
+      "padded_side_clearance_degrees": 1.3045,
+      "fits": true
+    },
+    {
+      "id": "descriptors-19e46286441c8eda",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 191.5,
+      "padded_outer_clearance": 191.316,
+      "padded_side_clearance_degrees": 1.3139,
+      "fits": true
+    },
+    {
+      "id": "descriptors-acd69de3969a994e",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 222.0,
+      "padded_outer_clearance": 221.814,
+      "padded_side_clearance_degrees": 1.3287,
+      "fits": true
+    },
+    {
+      "id": "descriptors-a5ca1ba555e528d1",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 231.0,
+      "padded_outer_clearance": 230.813,
+      "padded_side_clearance_degrees": 1.3329,
+      "fits": true
+    },
+    {
+      "id": "descriptors-c03e145fe17afa0e",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 206.023,
+      "padded_outer_clearance": 205.839,
+      "padded_side_clearance_degrees": 1.321,
+      "fits": true
+    },
+    {
+      "id": "descriptors-d74aa573cdc79a0c",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 233.992,
+      "padded_outer_clearance": 233.491,
+      "padded_side_clearance_degrees": 0.7878,
+      "fits": true
+    },
+    {
+      "id": "descriptors-d0ce98827fa65696",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 189.0,
+      "padded_outer_clearance": 188.51,
+      "padded_side_clearance_degrees": 0.7524,
+      "fits": true
+    },
+    {
+      "id": "descriptors-f5ce1c837254492e",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 234.0,
+      "padded_outer_clearance": 233.813,
+      "padded_side_clearance_degrees": 1.3343,
+      "fits": true
+    },
+    {
+      "id": "descriptors-3561ffd01515e986",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 232.523,
+      "padded_outer_clearance": 232.025,
+      "padded_side_clearance_degrees": 0.7902,
+      "fits": true
+    },
+    {
+      "id": "descriptors-550932198b5af1d7",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 222.0,
+      "padded_outer_clearance": 221.504,
+      "padded_side_clearance_degrees": 0.7821,
+      "fits": true
+    },
+    {
+      "id": "descriptors-2f5cccd6244ca9b7",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 214.5,
+      "padded_outer_clearance": 214.006,
+      "padded_side_clearance_degrees": 0.7762,
+      "fits": true
+    },
+    {
+      "id": "descriptors-4f87f509beed0e6d",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 244.0,
+      "padded_outer_clearance": 243.812,
+      "padded_side_clearance_degrees": 1.339,
+      "fits": true
+    },
+    {
+      "id": "descriptors-3bd1f10fc0852605",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 186.0,
+      "padded_outer_clearance": 185.511,
+      "padded_side_clearance_degrees": 0.75,
+      "fits": true
+    },
+    {
+      "id": "descriptors-6e47046cc862509f",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 202.5,
+      "padded_outer_clearance": 202.007,
+      "padded_side_clearance_degrees": 0.7632,
+      "fits": true
+    },
+    {
+      "id": "descriptors-7b966a48878265bd",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 212.5,
+      "padded_outer_clearance": 212.007,
+      "padded_side_clearance_degrees": 0.7747,
+      "fits": true
+    },
+    {
+      "id": "descriptors-5d15646c7be7818b",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 212.5,
+      "padded_outer_clearance": 212.007,
+      "padded_side_clearance_degrees": 0.7747,
+      "fits": true
+    },
+    {
+      "id": "descriptors-05c9709f9f73a62d",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 174.0,
+      "padded_outer_clearance": 173.513,
+      "padded_side_clearance_degrees": 0.7403,
+      "fits": true
+    },
+    {
+      "id": "descriptors-81fe74972904be81",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 171.5,
+      "padded_outer_clearance": 171.318,
+      "padded_side_clearance_degrees": 1.304,
+      "fits": true
+    },
+    {
+      "id": "descriptors-0c129a668dbc2589",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 195.523,
+      "padded_outer_clearance": 195.34,
+      "padded_side_clearance_degrees": 1.3159,
+      "fits": true
+    },
+    {
+      "id": "descriptors-e14ba7470e0dc300",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 236.0,
+      "padded_outer_clearance": 235.501,
+      "padded_side_clearance_degrees": 0.7901,
+      "fits": true
+    },
+    {
+      "id": "descriptors-aa3e55d574848591",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 84.0,
+      "padded_outer_clearance": 353.468,
+      "padded_side_clearance_degrees": 0.6625,
+      "fits": true
+    },
+    {
+      "id": "descriptors-c03cd56aeb11b89e",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 244.5,
+      "padded_outer_clearance": 243.996,
+      "padded_side_clearance_degrees": 0.7958,
+      "fits": true
+    },
+    {
+      "id": "descriptors-338fa8d09ca59b73",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 207.516,
+      "padded_outer_clearance": 207.024,
+      "padded_side_clearance_degrees": 0.7707,
+      "fits": true
+    },
+    {
+      "id": "descriptors-253f9d258a43d434",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 182.5,
+      "padded_outer_clearance": 182.014,
+      "padded_side_clearance_degrees": 0.7508,
+      "fits": true
+    },
+    {
+      "id": "descriptors-5003de027803036d",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 175.5,
+      "padded_outer_clearance": 175.318,
+      "padded_side_clearance_degrees": 1.306,
+      "fits": true
+    },
+    {
+      "id": "descriptors-dd5ed1c932a8fb89",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 248.5,
+      "padded_outer_clearance": 248.311,
+      "padded_side_clearance_degrees": 1.3411,
+      "fits": true
+    },
+    {
+      "id": "descriptors-e1e364bf1442a5da",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 180.023,
+      "padded_outer_clearance": 179.841,
+      "padded_side_clearance_degrees": 1.3082,
+      "fits": true
+    },
+    {
+      "id": "descriptors-c0146d76fd803280",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 207.5,
+      "padded_outer_clearance": 207.315,
+      "padded_side_clearance_degrees": 1.3217,
+      "fits": true
+    },
+    {
+      "id": "descriptors-3d493641df7f2212",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 199.0,
+      "padded_outer_clearance": 198.816,
+      "padded_side_clearance_degrees": 1.3176,
+      "fits": true
+    },
+    {
+      "id": "descriptors-b31ad2d958f16329",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 220.0,
+      "padded_outer_clearance": 219.814,
+      "padded_side_clearance_degrees": 1.3277,
+      "fits": true
+    },
+    {
+      "id": "descriptors-01e6cc1ddbd17215",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 222.523,
+      "padded_outer_clearance": 222.028,
+      "padded_side_clearance_degrees": 0.7825,
+      "fits": true
+    },
+    {
+      "id": "descriptors-c7d4a9f66eb31925",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 173.5,
+      "padded_outer_clearance": 173.318,
+      "padded_side_clearance_degrees": 1.305,
+      "fits": true
+    },
+    {
+      "id": "descriptors-5c8c80555cf4d46d",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 172.5,
+      "padded_outer_clearance": 172.016,
+      "padded_side_clearance_degrees": 0.7426,
+      "fits": true
+    },
+    {
+      "id": "descriptors-50a592952aaaaa52",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 204.016,
+      "padded_outer_clearance": 203.524,
+      "padded_side_clearance_degrees": 0.768,
+      "fits": true
+    },
+    {
+      "id": "descriptors-6b5c1231d8652c40",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 186.5,
+      "padded_outer_clearance": 186.013,
+      "padded_side_clearance_degrees": 0.754,
+      "fits": true
+    },
+    {
+      "id": "descriptors-848fa02a1d96e192",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 253.023,
+      "padded_outer_clearance": 252.52,
+      "padded_side_clearance_degrees": 0.8038,
+      "fits": true
+    },
+    {
+      "id": "descriptors-d9b28c1ce69362d0",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 232.5,
+      "padded_outer_clearance": 231.999,
+      "padded_side_clearance_degrees": 0.7867,
+      "fits": true
+    },
+    {
+      "id": "descriptors-3d5d687a18609eb1",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 229.0,
+      "padded_outer_clearance": 228.813,
+      "padded_side_clearance_degrees": 1.332,
+      "fits": true
+    },
+    {
+      "id": "descriptors-1306e9cde4799039",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 186.5,
+      "padded_outer_clearance": 186.011,
+      "padded_side_clearance_degrees": 0.7504,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-9dc8c30d35e181ea",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 64.5,
+      "padded_outer_clearance": 64.38,
+      "padded_side_clearance_degrees": 1.5884,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-4590d3ae865296df",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 97.0,
+      "padded_outer_clearance": 96.878,
+      "padded_side_clearance_degrees": 1.5968,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-228eff34381408bb",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 93.5,
+      "padded_outer_clearance": 93.378,
+      "padded_side_clearance_degrees": 1.5959,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-ab48b0bfaa595405",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 67.0,
+      "padded_outer_clearance": 66.879,
+      "padded_side_clearance_degrees": 1.5891,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-63d7317aaee7e6c8",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 127.0,
+      "padded_outer_clearance": 126.876,
+      "padded_side_clearance_degrees": 1.6043,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-15705df120b1646a",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 117.0,
+      "padded_outer_clearance": 116.877,
+      "padded_side_clearance_degrees": 1.6018,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-d96120c2f522c5a8",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 120.5,
+      "padded_outer_clearance": 120.377,
+      "padded_side_clearance_degrees": 1.6027,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-7ae52322a4deed28",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 89.0,
+      "padded_outer_clearance": 88.878,
+      "padded_side_clearance_degrees": 1.5947,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-8a6c1f9cc556dcc6",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 114.0,
+      "padded_outer_clearance": 113.877,
+      "padded_side_clearance_degrees": 1.6011,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-5935f62b186702af",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 102.0,
+      "padded_outer_clearance": 101.878,
+      "padded_side_clearance_degrees": 1.598,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-08b193f8d6416d49",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 128.5,
+      "padded_outer_clearance": 128.376,
+      "padded_side_clearance_degrees": 1.6047,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-c78c5325acdabcbd",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 90.5,
+      "padded_outer_clearance": 90.378,
+      "padded_side_clearance_degrees": 1.5951,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-d20684e0df3b88a3",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 72.0,
+      "padded_outer_clearance": 71.879,
+      "padded_side_clearance_degrees": 1.5904,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-7ebd3b976cd0afdf",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 106.5,
+      "padded_outer_clearance": 106.378,
+      "padded_side_clearance_degrees": 1.5992,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-50d915ba1a1d2468",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 95.5,
+      "padded_outer_clearance": 95.378,
+      "padded_side_clearance_degrees": 1.5964,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-ef31202304795dd1",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 128.5,
+      "padded_outer_clearance": 128.376,
+      "padded_side_clearance_degrees": 1.6047,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-35709df9f9826524",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 117.0,
+      "padded_outer_clearance": 116.877,
+      "padded_side_clearance_degrees": 1.6018,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-660d8422ad2e8844",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 122.0,
+      "padded_outer_clearance": 121.877,
+      "padded_side_clearance_degrees": 1.6031,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-1271b316df5f84df",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 100.5,
+      "padded_outer_clearance": 100.378,
+      "padded_side_clearance_degrees": 1.5977,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-21571c3a384513eb",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 89.5,
+      "padded_outer_clearance": 89.378,
+      "padded_side_clearance_degrees": 1.5949,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-539bd89ad405b4cd",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 77.5,
+      "padded_outer_clearance": 77.379,
+      "padded_side_clearance_degrees": 1.5918,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-9832133fb2db0879",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 120.5,
+      "padded_outer_clearance": 120.377,
+      "padded_side_clearance_degrees": 1.6027,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-20db925560ee3c52",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 95.5,
+      "padded_outer_clearance": 95.378,
+      "padded_side_clearance_degrees": 1.5964,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-c1f78340ce405e18",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 96.0,
+      "padded_outer_clearance": 95.878,
+      "padded_side_clearance_degrees": 1.5965,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-c26e7d8a45b158bf",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 117.5,
+      "padded_outer_clearance": 117.377,
+      "padded_side_clearance_degrees": 1.6019,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-7edf71a7edc5a283",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 86.0,
+      "padded_outer_clearance": 85.879,
+      "padded_side_clearance_degrees": 1.594,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-e5e59d6b6b2be3a4",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 100.5,
+      "padded_outer_clearance": 100.378,
+      "padded_side_clearance_degrees": 1.5977,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-f21d9b9158db0763",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 75.0,
+      "padded_outer_clearance": 74.879,
+      "padded_side_clearance_degrees": 1.5911,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-ae37afcfe96b118a",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 72.016,
+      "padded_outer_clearance": 71.895,
+      "padded_side_clearance_degrees": 1.5904,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-ef74d62fbf96d241",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 126.5,
+      "padded_outer_clearance": 126.377,
+      "padded_side_clearance_degrees": 1.6042,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-39fce373c49bff8b",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 106.5,
+      "padded_outer_clearance": 106.378,
+      "padded_side_clearance_degrees": 1.5992,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-0a6d74144f22b3e6",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 108.0,
+      "padded_outer_clearance": 107.877,
+      "padded_side_clearance_degrees": 1.5996,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-ee27a241db6f855d",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 120.5,
+      "padded_outer_clearance": 120.377,
+      "padded_side_clearance_degrees": 1.6027,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-e9d28a7cc761883f",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 114.0,
+      "padded_outer_clearance": 113.877,
+      "padded_side_clearance_degrees": 1.6011,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-cd0a01ab34432782",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 78.5,
+      "padded_outer_clearance": 78.379,
+      "padded_side_clearance_degrees": 1.592,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-0cf041f49ada7b2b",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 85.516,
+      "padded_outer_clearance": 85.394,
+      "padded_side_clearance_degrees": 1.5938,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-550a1f1f5e2a6619",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 115.5,
+      "padded_outer_clearance": 115.377,
+      "padded_side_clearance_degrees": 1.6014,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-f184761808ef8b19",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 89.0,
+      "padded_outer_clearance": 88.878,
+      "padded_side_clearance_degrees": 1.5947,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-d213dd5150566117",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 89.016,
+      "padded_outer_clearance": 88.894,
+      "padded_side_clearance_degrees": 1.5947,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-4a7b51117a64659f",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 127.0,
+      "padded_outer_clearance": 126.876,
+      "padded_side_clearance_degrees": 1.6043,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-e27ab804b7e4959a",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 126.5,
+      "padded_outer_clearance": 126.377,
+      "padded_side_clearance_degrees": 1.6042,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-f321800826274283",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 81.0,
+      "padded_outer_clearance": 80.879,
+      "padded_side_clearance_degrees": 1.5927,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-24cb3850933e242a",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 126.5,
+      "padded_outer_clearance": 126.377,
+      "padded_side_clearance_degrees": 1.6042,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-d50d13a11c63ccee",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 128.5,
+      "padded_outer_clearance": 128.376,
+      "padded_side_clearance_degrees": 1.6047,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-80e92eebad001c59",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 114.0,
+      "padded_outer_clearance": 113.877,
+      "padded_side_clearance_degrees": 1.6011,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-b9252e2f3552b149",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 65.0,
+      "padded_outer_clearance": 64.88,
+      "padded_side_clearance_degrees": 1.5885,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-d2ebe3b117ce606f",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 93.016,
+      "padded_outer_clearance": 92.894,
+      "padded_side_clearance_degrees": 1.5958,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-a970a8e040a18dd5",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 72.516,
+      "padded_outer_clearance": 72.395,
+      "padded_side_clearance_degrees": 1.5905,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-6c8f9e06930e687a",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 106.5,
+      "padded_outer_clearance": 106.378,
+      "padded_side_clearance_degrees": 1.5992,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-0f307f50e1925458",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 126.5,
+      "padded_outer_clearance": 126.377,
+      "padded_side_clearance_degrees": 1.6042,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-cac8018fa22b56d9",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 93.0,
+      "padded_outer_clearance": 92.878,
+      "padded_side_clearance_degrees": 1.5958,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-e019a2e1af22b048",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 65.5,
+      "padded_outer_clearance": 65.38,
+      "padded_side_clearance_degrees": 1.5887,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-bcbd974a0bed967d",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 90.5,
+      "padded_outer_clearance": 90.378,
+      "padded_side_clearance_degrees": 1.5951,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-db8ba51adc627440",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 71.0,
+      "padded_outer_clearance": 70.879,
+      "padded_side_clearance_degrees": 1.5901,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-c11833393b1e7613",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 75.0,
+      "padded_outer_clearance": 74.879,
+      "padded_side_clearance_degrees": 1.5911,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-6da0a77973dc75fc",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 59.5,
+      "padded_outer_clearance": 59.38,
+      "padded_side_clearance_degrees": 1.5871,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-4b4abe7186d75b6e",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 78.5,
+      "padded_outer_clearance": 78.379,
+      "padded_side_clearance_degrees": 1.592,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-a5389c6cd8609573",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 72.5,
+      "padded_outer_clearance": 72.379,
+      "padded_side_clearance_degrees": 1.5905,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-b7dd743476862c13",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 114.0,
+      "padded_outer_clearance": 113.877,
+      "padded_side_clearance_degrees": 1.6011,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-f406fc9d649fdac9",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 120.5,
+      "padded_outer_clearance": 120.377,
+      "padded_side_clearance_degrees": 1.6027,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-e0e0f9b96989859f",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 91.516,
+      "padded_outer_clearance": 91.394,
+      "padded_side_clearance_degrees": 1.5954,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-bf07647cccca0120",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 114.5,
+      "padded_outer_clearance": 114.377,
+      "padded_side_clearance_degrees": 1.6012,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-9692a2958eb1e4f6",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 102.0,
+      "padded_outer_clearance": 101.878,
+      "padded_side_clearance_degrees": 1.598,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-3beb2c0d58ade675",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 114.5,
+      "padded_outer_clearance": 114.377,
+      "padded_side_clearance_degrees": 1.6012,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-3be32618cf9c3aca",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 109.5,
+      "padded_outer_clearance": 109.377,
+      "padded_side_clearance_degrees": 1.5999,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-b24100aa11c4e7b2",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 106.5,
+      "padded_outer_clearance": 106.378,
+      "padded_side_clearance_degrees": 1.5992,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-de6001a42e8de346",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 54.0,
+      "padded_outer_clearance": 53.88,
+      "padded_side_clearance_degrees": 1.5857,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-68024d0d6a0201ac",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 108.0,
+      "padded_outer_clearance": 107.877,
+      "padded_side_clearance_degrees": 1.5996,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-728a103c15253a95",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 120.0,
+      "padded_outer_clearance": 119.877,
+      "padded_side_clearance_degrees": 1.6026,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-640c2ee33ccad89b",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 125.5,
+      "padded_outer_clearance": 125.377,
+      "padded_side_clearance_degrees": 1.6039,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-6a7884fc65ecc4c8",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 114.5,
+      "padded_outer_clearance": 114.377,
+      "padded_side_clearance_degrees": 1.6012,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-4b71a4f77b81aa1c",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 100.5,
+      "padded_outer_clearance": 100.378,
+      "padded_side_clearance_degrees": 1.5977,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-fc2ed2e702d72f8d",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 114.0,
+      "padded_outer_clearance": 113.877,
+      "padded_side_clearance_degrees": 1.6011,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-14bd7242606c5ba2",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 108.5,
+      "padded_outer_clearance": 108.377,
+      "padded_side_clearance_degrees": 1.5997,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-012462a72a45d777",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 126.5,
+      "padded_outer_clearance": 126.377,
+      "padded_side_clearance_degrees": 1.6042,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-cb6c8d6ad645f833",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 114.0,
+      "padded_outer_clearance": 113.877,
+      "padded_side_clearance_degrees": 1.6011,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-3445eae2bffad395",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 109.5,
+      "padded_outer_clearance": 109.377,
+      "padded_side_clearance_degrees": 1.5999,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-8712148f346fcba1",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 126.5,
+      "padded_outer_clearance": 126.377,
+      "padded_side_clearance_degrees": 1.6042,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-a0523c0c7f5752bd",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 114.0,
+      "padded_outer_clearance": 113.877,
+      "padded_side_clearance_degrees": 1.6011,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-9951b057afe6c59d",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 123.0,
+      "padded_outer_clearance": 122.877,
+      "padded_side_clearance_degrees": 1.6033,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-11096f2af8f79c27",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 76.5,
+      "padded_outer_clearance": 76.379,
+      "padded_side_clearance_degrees": 1.5915,
+      "fits": true
+    },
+    {
+      "id": "texture_tactile-019860e9506bfca8",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 102.516,
+      "padded_outer_clearance": 102.393,
+      "padded_side_clearance_degrees": 1.5982,
+      "fits": true
+    },
+    {
+      "id": "reference_material-016d58604de93d25",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 32.0,
+      "padded_outer_clearance": 31.761,
+      "padded_side_clearance_degrees": 1.3863,
+      "fits": true
+    },
+    {
+      "id": "reference_material-0e983b508992138f",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 33.0,
+      "padded_outer_clearance": 32.9,
+      "padded_side_clearance_degrees": 1.6716,
+      "fits": true
+    },
+    {
+      "id": "reference_material-e283299387b1d1ad",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 84.5,
+      "padded_outer_clearance": 84.398,
+      "padded_side_clearance_degrees": 1.6817,
+      "fits": true
+    },
+    {
+      "id": "reference_material-7fba5738ef3947bd",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 38.5,
+      "padded_outer_clearance": 38.261,
+      "padded_side_clearance_degrees": 1.3847,
+      "fits": true
+    },
+    {
+      "id": "reference_material-736d431210453a53",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 38.5,
+      "padded_outer_clearance": 38.4,
+      "padded_side_clearance_degrees": 1.6727,
+      "fits": true
+    },
+    {
+      "id": "reference_material-fdb677c2757004af",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 73.5,
+      "padded_outer_clearance": 73.398,
+      "padded_side_clearance_degrees": 1.6796,
+      "fits": true
+    },
+    {
+      "id": "reference_material-e5101cf12abd41a2",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 70.0,
+      "padded_outer_clearance": 69.899,
+      "padded_side_clearance_degrees": 1.6789,
+      "fits": true
+    },
+    {
+      "id": "reference_material-7bc74e58400e446d",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 37.0,
+      "padded_outer_clearance": 36.761,
+      "padded_side_clearance_degrees": 1.3878,
+      "fits": true
+    },
+    {
+      "id": "reference_material-75a1905418923587",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 42.0,
+      "padded_outer_clearance": 41.9,
+      "padded_side_clearance_degrees": 1.6734,
+      "fits": true
+    },
+    {
+      "id": "reference_material-49a1754c6753463d",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 77.0,
+      "padded_outer_clearance": 76.898,
+      "padded_side_clearance_degrees": 1.6803,
+      "fits": true
+    },
+    {
+      "id": "reference_material-2c379bd333ae18ea",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 38.0,
+      "padded_outer_clearance": 37.761,
+      "padded_side_clearance_degrees": 1.3882,
+      "fits": true
+    },
+    {
+      "id": "reference_material-dfc16fbe0d8f43de",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 65.0,
+      "padded_outer_clearance": 64.899,
+      "padded_side_clearance_degrees": 1.678,
+      "fits": true
+    },
+    {
+      "id": "reference_material-498fa16732bb3605",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 85.5,
+      "padded_outer_clearance": 85.398,
+      "padded_side_clearance_degrees": 1.6819,
+      "fits": true
+    },
+    {
+      "id": "reference_material-19d03834750c2b51",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 92.0,
+      "padded_outer_clearance": 91.898,
+      "padded_side_clearance_degrees": 1.6832,
+      "fits": true
+    },
+    {
+      "id": "reference_material-3bcc8894af92873a",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 54.016,
+      "padded_outer_clearance": 53.915,
+      "padded_side_clearance_degrees": 1.6758,
+      "fits": true
+    },
+    {
+      "id": "reference_material-949076a83a2436f6",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 13.5,
+      "padded_outer_clearance": 13.401,
+      "padded_side_clearance_degrees": 1.6677,
+      "fits": true
+    },
+    {
+      "id": "reference_material-ff87c32439920fa8",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 72.5,
+      "padded_outer_clearance": 72.398,
+      "padded_side_clearance_degrees": 1.6794,
+      "fits": true
+    },
+    {
+      "id": "reference_material-81a7b2e5efb690e2",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 73.5,
+      "padded_outer_clearance": 73.398,
+      "padded_side_clearance_degrees": 1.6796,
+      "fits": true
+    },
+    {
+      "id": "reference_material-9b70e6a70c49e4eb",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 55.0,
+      "padded_outer_clearance": 54.899,
+      "padded_side_clearance_degrees": 1.676,
+      "fits": true
+    },
+    {
+      "id": "reference_material-5d1dcb2ef9953485",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 28.0,
+      "padded_outer_clearance": 27.762,
+      "padded_side_clearance_degrees": 1.3851,
+      "fits": true
+    },
+    {
+      "id": "reference_material-d63844a1a152dcfd",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 88.0,
+      "padded_outer_clearance": 87.898,
+      "padded_side_clearance_degrees": 1.6824,
+      "fits": true
+    },
+    {
+      "id": "reference_material-127f37effec7e505",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 59.5,
+      "padded_outer_clearance": 59.399,
+      "padded_side_clearance_degrees": 1.6769,
+      "fits": true
+    },
+    {
+      "id": "reference_material-55f0fa47a93ad448",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 92.0,
+      "padded_outer_clearance": 91.898,
+      "padded_side_clearance_degrees": 1.6832,
+      "fits": true
+    },
+    {
+      "id": "reference_material-2e29e575500e0607",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 30.0,
+      "padded_outer_clearance": 29.9,
+      "padded_side_clearance_degrees": 1.671,
+      "fits": true
+    },
+    {
+      "id": "reference_material-0c33a0b0e84e74c8",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 94.5,
+      "padded_outer_clearance": 94.398,
+      "padded_side_clearance_degrees": 1.6837,
+      "fits": true
+    },
+    {
+      "id": "reference_material-80e16c98b48ad7b1",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 52.5,
+      "padded_outer_clearance": 52.399,
+      "padded_side_clearance_degrees": 1.6755,
+      "fits": true
+    },
+    {
+      "id": "reference_material-7314d7cdaad819e6",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 22.0,
+      "padded_outer_clearance": 21.9,
+      "padded_side_clearance_degrees": 1.6694,
+      "fits": true
+    },
+    {
+      "id": "reference_material-845dc12ff1bb5adc",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 45.5,
+      "padded_outer_clearance": 45.399,
+      "padded_side_clearance_degrees": 1.6741,
+      "fits": true
+    },
+    {
+      "id": "reference_material-6dd16537ae9faf82",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 65.0,
+      "padded_outer_clearance": 64.899,
+      "padded_side_clearance_degrees": 1.678,
+      "fits": true
+    },
+    {
+      "id": "reference_material-2874796961c12a42",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 69.0,
+      "padded_outer_clearance": 68.899,
+      "padded_side_clearance_degrees": 1.6787,
+      "fits": true
+    },
+    {
+      "id": "reference_material-3bb5e85528b3267c",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 54.0,
+      "padded_outer_clearance": 53.899,
+      "padded_side_clearance_degrees": 1.6758,
+      "fits": true
+    },
+    {
+      "id": "reference_material-c02dea8f52f9ce18",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 42.0,
+      "padded_outer_clearance": 41.9,
+      "padded_side_clearance_degrees": 1.6734,
+      "fits": true
+    },
+    {
+      "id": "reference_material-c8a9f245ef6f2b81",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 25.5,
+      "padded_outer_clearance": 25.4,
+      "padded_side_clearance_degrees": 1.6701,
+      "fits": true
+    },
+    {
+      "id": "reference_material-3aadb37345c176a7",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 85.5,
+      "padded_outer_clearance": 85.398,
+      "padded_side_clearance_degrees": 1.6819,
+      "fits": true
+    },
+    {
+      "id": "reference_material-a229725fed57c804",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 10.5,
+      "padded_outer_clearance": 10.401,
+      "padded_side_clearance_degrees": 1.6671,
+      "fits": true
+    },
+    {
+      "id": "reference_material-de9ce421a3d7fab9",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 70.0,
+      "padded_outer_clearance": 69.899,
+      "padded_side_clearance_degrees": 1.6789,
+      "fits": true
+    },
+    {
+      "id": "reference_material-c40f47bc914247f1",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 34.016,
+      "padded_outer_clearance": 33.915,
+      "padded_side_clearance_degrees": 1.6718,
+      "fits": true
+    },
+    {
+      "id": "reference_material-b0145870152b3306",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 30.0,
+      "padded_outer_clearance": 29.9,
+      "padded_side_clearance_degrees": 1.671,
+      "fits": true
+    },
+    {
+      "id": "reference_material-c1fb8dc6c3468646",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 95.5,
+      "padded_outer_clearance": 95.398,
+      "padded_side_clearance_degrees": 1.6839,
+      "fits": true
+    },
+    {
+      "id": "reference_material-d7c7b69d92d24303",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 64.0,
+      "padded_outer_clearance": 63.899,
+      "padded_side_clearance_degrees": 1.6778,
+      "fits": true
+    },
+    {
+      "id": "reference_material-3838b6fdb7b848af",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 10.0,
+      "padded_outer_clearance": 9.901,
+      "padded_side_clearance_degrees": 1.667,
+      "fits": true
+    },
+    {
+      "id": "reference_material-fd644295238a5959",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 102.008,
+      "padded_outer_clearance": 101.905,
+      "padded_side_clearance_degrees": 1.6851,
+      "fits": true
+    },
+    {
+      "id": "reference_material-c4ca7643daf6df23",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 94.0,
+      "padded_outer_clearance": 93.898,
+      "padded_side_clearance_degrees": 1.6836,
+      "fits": true
+    },
+    {
+      "id": "reference_material-1e4804a10430cb4d",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 35.5,
+      "padded_outer_clearance": 35.4,
+      "padded_side_clearance_degrees": 1.6721,
+      "fits": true
+    },
+    {
+      "id": "reference_material-5740b6ec8aa51291",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 36.0,
+      "padded_outer_clearance": 35.9,
+      "padded_side_clearance_degrees": 1.6722,
+      "fits": true
+    },
+    {
+      "id": "reference_material-1ba904de4debfb9e",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 92.5,
+      "padded_outer_clearance": 92.398,
+      "padded_side_clearance_degrees": 1.6833,
+      "fits": true
+    },
+    {
+      "id": "reference_material-1672bfa1ca6f7d85",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 63.5,
+      "padded_outer_clearance": 63.399,
+      "padded_side_clearance_degrees": 1.6777,
+      "fits": true
+    },
+    {
+      "id": "reference_material-e4adc389ef870e16",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 35.016,
+      "padded_outer_clearance": 34.915,
+      "padded_side_clearance_degrees": 1.672,
+      "fits": true
+    },
+    {
+      "id": "reference_material-939eaf986a073b53",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 68.0,
+      "padded_outer_clearance": 67.899,
+      "padded_side_clearance_degrees": 1.6785,
+      "fits": true
+    },
+    {
+      "id": "reference_material-040bf0cbfc0761dd",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 49.516,
+      "padded_outer_clearance": 49.415,
+      "padded_side_clearance_degrees": 1.6749,
+      "fits": true
+    },
+    {
+      "id": "reference_material-2bc79b207575d708",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 64.0,
+      "padded_outer_clearance": 63.899,
+      "padded_side_clearance_degrees": 1.6778,
+      "fits": true
+    },
+    {
+      "id": "reference_material-c3b27be8634593fc",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 88.5,
+      "padded_outer_clearance": 88.398,
+      "padded_side_clearance_degrees": 1.6825,
+      "fits": true
+    },
+    {
+      "id": "reference_material-f76690f716b1c903",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 67.5,
+      "padded_outer_clearance": 67.399,
+      "padded_side_clearance_degrees": 1.6784,
+      "fits": true
+    },
+    {
+      "id": "reference_material-873307e06693786a",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 48.0,
+      "padded_outer_clearance": 47.899,
+      "padded_side_clearance_degrees": 1.6746,
+      "fits": true
+    },
+    {
+      "id": "reference_material-928764b85d041baa",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 71.5,
+      "padded_outer_clearance": 71.399,
+      "padded_side_clearance_degrees": 1.6792,
+      "fits": true
+    },
+    {
+      "id": "reference_material-261c7eb8b83a242f",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 30.0,
+      "padded_outer_clearance": 29.9,
+      "padded_side_clearance_degrees": 1.671,
+      "fits": true
+    },
+    {
+      "id": "reference_material-1da8e20b9f5e5c2d",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 44.0,
+      "padded_outer_clearance": 43.9,
+      "padded_side_clearance_degrees": 1.6738,
+      "fits": true
+    },
+    {
+      "id": "reference_material-fd962b4de9c8deae",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 30.0,
+      "padded_outer_clearance": 29.9,
+      "padded_side_clearance_degrees": 1.671,
+      "fits": true
+    },
+    {
+      "id": "reference_material-8fc939cd08b101a4",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 45.5,
+      "padded_outer_clearance": 45.399,
+      "padded_side_clearance_degrees": 1.6741,
+      "fits": true
+    },
+    {
+      "id": "reference_material-7922abbe7d29bc9b",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 74.0,
+      "padded_outer_clearance": 73.898,
+      "padded_side_clearance_degrees": 1.6797,
+      "fits": true
+    },
+    {
+      "id": "reference_material-3720ecf0c9d3c86c",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 25.5,
+      "padded_outer_clearance": 25.4,
+      "padded_side_clearance_degrees": 1.6701,
+      "fits": true
+    },
+    {
+      "id": "reference_material-12e8ce16c9672b11",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 25.5,
+      "padded_outer_clearance": 25.4,
+      "padded_side_clearance_degrees": 1.6701,
+      "fits": true
+    },
+    {
+      "id": "reference_material-2ad0c0a3d41ec1dc",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 60.5,
+      "padded_outer_clearance": 60.399,
+      "padded_side_clearance_degrees": 1.6771,
+      "fits": true
+    },
+    {
+      "id": "reference_material-924ced195ddc9df6",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 28.5,
+      "padded_outer_clearance": 28.4,
+      "padded_side_clearance_degrees": 1.6707,
+      "fits": true
+    },
+    {
+      "id": "reference_material-45a331c114f38eff",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 73.008,
+      "padded_outer_clearance": 72.906,
+      "padded_side_clearance_degrees": 1.6795,
+      "fits": true
+    },
+    {
+      "id": "reference_material-a458e2c8f4771cec",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 96.0,
+      "padded_outer_clearance": 95.898,
+      "padded_side_clearance_degrees": 1.6839,
+      "fits": true
+    },
+    {
+      "id": "reference_material-22aa325d3f6f605b",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 99.0,
+      "padded_outer_clearance": 98.898,
+      "padded_side_clearance_degrees": 1.6845,
+      "fits": true
+    },
+    {
+      "id": "reference_material-12c0078d41cb4cb1",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 81.5,
+      "padded_outer_clearance": 81.398,
+      "padded_side_clearance_degrees": 1.6812,
+      "fits": true
+    },
+    {
+      "id": "reference_material-486e3d25ecd73649",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 22.0,
+      "padded_outer_clearance": 21.762,
+      "padded_side_clearance_degrees": 1.3832,
+      "fits": true
+    },
+    {
+      "id": "reference_material-490ff185596a0f31",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 20.0,
+      "padded_outer_clearance": 19.9,
+      "padded_side_clearance_degrees": 1.669,
+      "fits": true
+    },
+    {
+      "id": "reference_material-fcb8fb734aa7be05",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 79.0,
+      "padded_outer_clearance": 78.898,
+      "padded_side_clearance_degrees": 1.6807,
+      "fits": true
+    },
+    {
+      "id": "reference_material-f9abb9dc0c889d6b",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 91.5,
+      "padded_outer_clearance": 91.398,
+      "padded_side_clearance_degrees": 1.6831,
+      "fits": true
+    },
+    {
+      "id": "reference_material-03a8526ace33d9db",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 30.0,
+      "padded_outer_clearance": 29.9,
+      "padded_side_clearance_degrees": 1.671,
+      "fits": true
+    },
+    {
+      "id": "reference_material-65c178835480fc47",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 18.016,
+      "padded_outer_clearance": 17.916,
+      "padded_side_clearance_degrees": 1.6686,
+      "fits": true
+    },
+    {
+      "id": "reference_material-1917a61923881bac",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 73.0,
+      "padded_outer_clearance": 72.898,
+      "padded_side_clearance_degrees": 1.6795,
+      "fits": true
+    },
+    {
+      "id": "reference_material-c149687dd78c1100",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 77.0,
+      "padded_outer_clearance": 76.898,
+      "padded_side_clearance_degrees": 1.6803,
+      "fits": true
+    },
+    {
+      "id": "reference_material-5b222b62844b95bc",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 73.008,
+      "padded_outer_clearance": 72.906,
+      "padded_side_clearance_degrees": 1.6795,
+      "fits": true
+    },
+    {
+      "id": "reference_material-109106a333a23d9c",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 47.0,
+      "padded_outer_clearance": 46.899,
+      "padded_side_clearance_degrees": 1.6744,
+      "fits": true
+    },
+    {
+      "id": "reference_material-8f18a33acad757f5",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 77.0,
+      "padded_outer_clearance": 76.898,
+      "padded_side_clearance_degrees": 1.6803,
+      "fits": true
+    },
+    {
+      "id": "reference_material-3aa72a5849fd82bc",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 92.5,
+      "padded_outer_clearance": 92.398,
+      "padded_side_clearance_degrees": 1.6833,
+      "fits": true
+    },
+    {
+      "id": "reference_material-adb7f4b56e4d4382",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 24.008,
+      "padded_outer_clearance": 23.77,
+      "padded_side_clearance_degrees": 1.3809,
+      "fits": true
+    },
+    {
+      "id": "reference_material-148578c21ada43b0",
+      "delta_radius": 0,
+      "radial_padding": 12,
+      "side_padding": 8,
+      "padded_inner_clearance": 36.0,
+      "padded_outer_clearance": 35.761,
+      "padded_side_clearance_degrees": 1.3835,
+      "fits": true
+    }
+  ],
+  "heading_hierarchy": [
+    {
+      "id": "realm-c6df643822877e93",
+      "field": "realm",
+      "text": "FRESH & LIFTED",
+      "physical_font_size": 96.0,
+      "fit": {
+        "fits": true,
+        "layout": "circular text paths",
+        "size": 64,
+        "direction": 1,
+        "lines": [
+          {
+            "text": "FRESH & LIFTED",
+            "ink_radius": 520.0,
+            "baseline_radius": 499.0,
+            "advance": 518.0,
+            "side_margin_degrees": 18.094706950996297,
+            "radial_envelope": [
+              494.0,
+              547.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "realm-bd6ae435880b095a",
+      "field": "realm",
+      "text": "FLORAL & FRUITY",
+      "physical_font_size": 96.0,
+      "fit": {
+        "fits": true,
+        "layout": "circular text paths",
+        "size": 64,
+        "direction": -1,
+        "lines": [
+          {
+            "text": "FLORAL & FRUITY",
+            "ink_radius": 520.0,
+            "baseline_radius": 541.0,
+            "advance": 579.875,
+            "side_margin_degrees": 10.577227996226863,
+            "radial_envelope": [
+              493.0,
+              547.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "realm-1956c981bb8c9c05",
+      "field": "realm",
+      "text": "AMBER, SPICE & SWEET",
+      "physical_font_size": 96.0,
+      "fit": {
+        "fits": true,
+        "layout": "circular text paths",
+        "size": 64,
+        "direction": -1,
+        "lines": [
+          {
+            "text": "AMBER, SPICE",
+            "ink_radius": 481.0,
+            "baseline_radius": 502.0,
+            "advance": 444.0,
+            "side_margin_degrees": 18.107924741608166,
+            "radial_envelope": [
+              454.0,
+              519.0
+            ]
+          },
+          {
+            "text": "& SWEET",
+            "ink_radius": 559.0,
+            "baseline_radius": 580.0,
+            "advance": 283.0,
+            "side_margin_degrees": 29.52910123274632,
+            "radial_envelope": [
+              532.0,
+              585.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "realm-bcd522fe5fc4adf7",
+      "field": "realm",
+      "text": "EARTHY, WOODY & DEEP",
+      "physical_font_size": 96.0,
+      "fit": {
+        "fits": true,
+        "layout": "circular text paths",
+        "size": 64,
+        "direction": 1,
+        "lines": [
+          {
+            "text": "EARTHY, WOODY",
+            "ink_radius": 559.0,
+            "baseline_radius": 538.0,
+            "advance": 560.625,
+            "side_margin_degrees": 15.818924706440203,
+            "radial_envelope": [
+              521.0,
+              586.0
+            ]
+          },
+          {
+            "text": "& DEEP",
+            "ink_radius": 481.0,
+            "baseline_radius": 460.0,
+            "advance": 226.0,
+            "side_margin_degrees": 31.524504012499683,
+            "radial_envelope": [
+              455.0,
+              507.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "family-d3babf160afa0af1",
+      "field": "family",
+      "text": "WATERY",
+      "physical_font_size": 72.0,
+      "fit": {
+        "size": 48,
+        "lines": [
+          {
+            "text": "WATERY",
+            "baseline": 16.0,
+            "width": 215.781
+          }
+        ],
+        "x": 3141.659820081211,
+        "y": 2164.6701209227963,
+        "rotation": -85.60975609756098,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "family-6d1b0a3db8ba57d1",
+      "field": "family",
+      "text": "MUSK",
+      "physical_font_size": 61.5,
+      "fit": {
+        "size": 41,
+        "lines": [
+          {
+            "text": "MUSK",
+            "baseline": 13.0,
+            "width": 127.0
+          }
+        ],
+        "x": 3245.255909339848,
+        "y": 2178.645428802862,
+        "rotation": -79.02439024390245,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "family-291049534b778a46",
+      "field": "family",
+      "text": "ALDEHYDIC",
+      "physical_font_size": 72.0,
+      "fit": {
+        "size": 48,
+        "lines": [
+          {
+            "text": "ALDEHYDIC",
+            "baseline": 16.0,
+            "width": 291.0
+          }
+        ],
+        "x": 3346.565744721625,
+        "y": 2204.409283230013,
+        "rotation": -72.4390243902439,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "family-c7b0f733951947a7",
+      "field": "family",
+      "text": "ETHEREAL",
+      "physical_font_size": 57.0,
+      "fit": {
+        "size": 38,
+        "lines": [
+          {
+            "text": "ETHEREAL",
+            "baseline": 12.5,
+            "width": 210.0
+          }
+        ],
+        "x": 3444.2524598259192,
+        "y": 2241.6217090063396,
+        "rotation": -65.85365853658536,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "family-e8abbc2782dd304c",
+      "field": "family",
+      "text": "GREEN",
+      "physical_font_size": 72.0,
+      "fit": {
+        "size": 48,
+        "lines": [
+          {
+            "text": "GREEN",
+            "baseline": 16.0,
+            "width": 175.0
+          }
+        ],
+        "x": 3566.6464705011113,
+        "y": 2308.1774622199255,
+        "rotation": -57.073170731707314,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "family-6a3db857f95d24d2",
+      "field": "family",
+      "text": "AROMATIC",
+      "physical_font_size": 72.0,
+      "fit": {
+        "size": 48,
+        "lines": [
+          {
+            "text": "AROMATIC",
+            "baseline": 16.0,
+            "width": 274.875
+          }
+        ],
+        "x": 3816.315718297713,
+        "y": 2548.4600192010553,
+        "rotation": 54.87804878048781,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "family-45f61a1d7fa52844",
+      "field": "family",
+      "text": "CITRUS",
+      "physical_font_size": 72.0,
+      "fit": {
+        "size": 48,
+        "lines": [
+          {
+            "text": "CITRUS",
+            "baseline": 16.0,
+            "width": 186.922
+          }
+        ],
+        "x": 3975.9959016813045,
+        "y": 2967.6380828874553,
+        "rotation": 83.41463414634146,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "family-48ab9763f6a87240",
+      "field": "family",
+      "text": "FLORAL",
+      "physical_font_size": 72.0,
+      "fit": {
+        "size": 48,
+        "lines": [
+          {
+            "text": "FLORAL",
+            "baseline": 16.0,
+            "width": 195.984
+          }
+        ],
+        "x": 3871.446148328958,
+        "y": 3506.725034846159,
+        "rotation": 298.5365853658536,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "family-7164591a32cb2b0d",
+      "field": "family",
+      "text": "FRUITY",
+      "physical_font_size": 72.0,
+      "fit": {
+        "size": 48,
+        "lines": [
+          {
+            "text": "FRUITY",
+            "baseline": 16.0,
+            "width": 185.922
+          }
+        ],
+        "x": 3379.5953593517374,
+        "y": 3928.4374436614007,
+        "rotation": 340.2439024390244,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "family-b32beb5faca91f71",
+      "field": "family",
+      "text": "GOURMAND",
+      "physical_font_size": 72.0,
+      "fit": {
+        "size": 48,
+        "lines": [
+          {
+            "text": "GOURMAND",
+            "baseline": 16.0,
+            "width": 303.0
+          }
+        ],
+        "x": 2797.434255278375,
+        "y": 3939.590716769987,
+        "rotation": 377.5609756097561,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "family-2bf646c2784790cd",
+      "field": "family",
+      "text": "TOBACCO",
+      "physical_font_size": 57.0,
+      "fit": {
+        "size": 38,
+        "lines": [
+          {
+            "text": "TOBACCO",
+            "baseline": 12.5,
+            "width": 199.938
+          }
+        ],
+        "x": 2520.3348760203594,
+        "y": 3795.716512858818,
+        "rotation": 307.3170731707317,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "family-10f2344440fedca8",
+      "field": "family",
+      "text": "SPICE",
+      "physical_font_size": 72.0,
+      "fit": {
+        "size": 48,
+        "lines": [
+          {
+            "text": "SPICE",
+            "baseline": 16.0,
+            "width": 140.0
+          }
+        ],
+        "x": 2369.944846362032,
+        "y": 3650.9806225171696,
+        "rotation": 410.4878048780488,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "family-8844c95b7bfc39eb",
+      "field": "family",
+      "text": "AMBER",
+      "physical_font_size": 72.0,
+      "fit": {
+        "size": 48,
+        "lines": [
+          {
+            "text": "AMBER",
+            "baseline": 16.0,
+            "width": 178.0
+          }
+        ],
+        "x": 2241.621709006339,
+        "y": 3444.252459825919,
+        "rotation": 335.8536585365854,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "family-1d40d1ef268e96df",
+      "field": "family",
+      "text": "RESINOUS",
+      "physical_font_size": 72.0,
+      "fit": {
+        "size": 48,
+        "lines": [
+          {
+            "text": "RESINOUS",
+            "baseline": 16.0,
+            "width": 251.0
+          }
+        ],
+        "x": 2178.645428802862,
+        "y": 3245.2559093398486,
+        "rotation": 439.0243902439024,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "family-3b2695bb80716a15",
+      "field": "family",
+      "text": "WOOD",
+      "physical_font_size": 72.0,
+      "fit": {
+        "size": 48,
+        "lines": [
+          {
+            "text": "WOOD",
+            "baseline": 16.0,
+            "width": 161.969
+          }
+        ],
+        "x": 2185.9371642712213,
+        "y": 2864.6533068981444,
+        "rotation": 283.1707317073171,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "family-0153c61ef96008e8",
+      "field": "family",
+      "text": "LEATHER",
+      "physical_font_size": 72.0,
+      "fit": {
+        "size": 48,
+        "lines": [
+          {
+            "text": "LEATHER",
+            "baseline": 16.0,
+            "width": 235.938
+          }
+        ],
+        "x": 2327.684281702287,
+        "y": 2548.460019201055,
+        "rotation": 395.1219512195122,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "family-f2cdfbcf8bd551f4",
+      "field": "family",
+      "text": "ANIMALIC",
+      "physical_font_size": 72.0,
+      "fit": {
+        "size": 48,
+        "lines": [
+          {
+            "text": "ANIMALIC",
+            "baseline": 16.0,
+            "width": 251.0
+          }
+        ],
+        "x": 2440.9764242790607,
+        "y": 2416.3253498232834,
+        "rotation": 406.0975609756098,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "family-d498d9a2bafcd5c2",
+      "field": "family",
+      "text": "TOBACCO",
+      "physical_font_size": 72.0,
+      "fit": {
+        "size": 48,
+        "lines": [
+          {
+            "text": "TOBACCO",
+            "baseline": 16.0,
+            "width": 244.938
+          }
+        ],
+        "x": 2548.4600192010553,
+        "y": 2327.684281702287,
+        "rotation": 414.8780487804878,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "family-a46a320a21c020dc",
+      "field": "family",
+      "text": "EARTHY",
+      "physical_font_size": 72.0,
+      "fit": {
+        "size": 48,
+        "lines": [
+          {
+            "text": "EARTHY",
+            "baseline": 16.0,
+            "width": 207.922
+          }
+        ],
+        "x": 2764.4046406482626,
+        "y": 2215.5625563385993,
+        "rotation": 340.2439024390244,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "family-bfe41cf9ae125d28",
+      "field": "family",
+      "text": "MARINE",
+      "physical_font_size": 72.0,
+      "fit": {
+        "size": 48,
+        "lines": [
+          {
+            "text": "MARINE",
+            "baseline": 16.0,
+            "width": 203.0
+          }
+        ],
+        "x": 3002.3401799187895,
+        "y": 2164.670120922796,
+        "rotation": 445.609756097561,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-9a94734089ffde76",
+      "field": "note",
+      "text": "Aquatic / Marine",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Aquatic / Marine",
+            "baseline": 10.5,
+            "width": 233.0
+          }
+        ],
+        "x": 3176.106983857634,
+        "y": 1715.990510390113,
+        "rotation": -85.60975609756098,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-b21e0ee7aad9cc85",
+      "field": "note",
+      "text": "Clean Musk",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Clean Musk",
+            "baseline": 10.5,
+            "width": 161.0
+          }
+        ],
+        "x": 3330.931908463949,
+        "y": 1736.8766848042774,
+        "rotation": -79.02439024390245,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-9de35774474cb3c8",
+      "field": "note",
+      "text": "Aldehydic",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Aldehydic",
+            "baseline": 10.5,
+            "width": 131.969
+          }
+        ],
+        "x": 3482.3400140894614,
+        "y": 1775.3809068052944,
+        "rotation": -72.4390243902439,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-72b2e33a5a2f9e27",
+      "field": "note",
+      "text": "Ethereal",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Ethereal",
+            "baseline": 10.5,
+            "width": 114.0
+          }
+        ],
+        "x": 3628.3333465530222,
+        "y": 1830.9950815918921,
+        "rotation": -65.85365853658536,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-409457a635f2bc9b",
+      "field": "note",
+      "text": "Fresh Green",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Fresh Green",
+            "baseline": 10.5,
+            "width": 164.969
+          }
+        ],
+        "x": 3721.6989531766776,
+        "y": 1877.2233387611184,
+        "rotation": -61.463414634146346,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-f734c5a8d6cefedf",
+      "field": "note",
+      "text": "Vegetal / Sap",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Vegetal / Sap",
+            "baseline": 10.5,
+            "width": 183.938
+          }
+        ],
+        "x": 3854.433377897324,
+        "y": 1959.616069357264,
+        "rotation": -54.8780487804878,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-9df0d6081b6497fa",
+      "field": "note",
+      "text": "Herbal",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Herbal",
+            "baseline": 10.5,
+            "width": 94.0
+          }
+        ],
+        "x": 4015.068201077449,
+        "y": 2092.0906327029297,
+        "rotation": -46.09756097560975,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-3f7373f21c70ee55",
+      "field": "note",
+      "text": "Cooling",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Cooling",
+            "baseline": 10.5,
+            "width": 108.0
+          }
+        ],
+        "x": 4153.59830493186,
+        "y": 2247.533441085372,
+        "rotation": -37.31707317073171,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-356a92d8a11756e8",
+      "field": "note",
+      "text": "Anisic",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Anisic",
+            "baseline": 10.5,
+            "width": 82.0
+          }
+        ],
+        "x": 4241.014665502594,
+        "y": 2377.0145959519296,
+        "rotation": -30.731707317073173,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-75732171fb7d5e0b",
+      "field": "note",
+      "text": "Tea",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Tea",
+            "baseline": 10.5,
+            "width": 55.953
+          }
+        ],
+        "x": 4313.004918408108,
+        "y": 2515.6666534469778,
+        "rotation": -24.14634146341463,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-e9bc557392d69f07",
+      "field": "note",
+      "text": "Bitter / Dry",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Bitter / Dry",
+            "baseline": 10.5,
+            "width": 160.0
+          }
+        ],
+        "x": 4383.384753816272,
+        "y": 2711.62515701254,
+        "rotation": -15.36585365853658,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-ea87b5736462e4e5",
+      "field": "note",
+      "text": "Juicy / Sweet",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Juicy / Sweet",
+            "baseline": 10.5,
+            "width": 176.969
+          }
+        ],
+        "x": 4423.026842073158,
+        "y": 2916.030541458176,
+        "rotation": -6.58536585365853,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-e84fe1cae1d9d73d",
+      "field": "note",
+      "text": "Zesty / Sparkling",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Zesty / Sparkling",
+            "baseline": 10.5,
+            "width": 228.984
+          }
+        ],
+        "x": 4431.002006229101,
+        "y": 3124.0917178184477,
+        "rotation": 2.1951219512195053,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-79888da30a05066c",
+      "field": "note",
+      "text": "Citrus Floral",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Citrus Floral",
+            "baseline": 10.5,
+            "width": 170.016
+          }
+        ],
+        "x": 4407.123315195722,
+        "y": 3330.9319084639487,
+        "rotation": 10.975609756097555,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-21d11eac3e38b708",
+      "field": "note",
+      "text": "Airy Floral",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Airy Floral",
+            "baseline": 10.5,
+            "width": 145.016
+          }
+        ],
+        "x": 4368.619093194706,
+        "y": 3482.3400140894614,
+        "rotation": 17.5609756097561,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-f89f7c49c10093cd",
+      "field": "note",
+      "text": "White / Heady",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "White / Heady",
+            "baseline": 10.5,
+            "width": 201.0
+          }
+        ],
+        "x": 4313.004918408108,
+        "y": 3628.3333465530222,
+        "rotation": 24.14634146341463,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-5132de7dcd6315a7",
+      "field": "note",
+      "text": "Spicy Floral",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Spicy Floral",
+            "baseline": 10.5,
+            "width": 157.016
+          }
+        ],
+        "x": 4213.536979539453,
+        "y": 3811.2518680016606,
+        "rotation": 32.92682926829268,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-e61fd335ef363117",
+      "field": "note",
+      "text": "Iris / Powdery",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Iris / Powdery",
+            "baseline": 10.5,
+            "width": 189.984
+          }
+        ],
+        "x": 4087.3123813922693,
+        "y": 3976.8429522251686,
+        "rotation": 41.707317073170714,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-77eb00c9a6ba9786",
+      "field": "note",
+      "text": "Fresh Rose",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Fresh Rose",
+            "baseline": 10.5,
+            "width": 145.953
+          }
+        ],
+        "x": 3976.8429522251686,
+        "y": 4087.3123813922693,
+        "rotation": 48.292682926829286,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-716eeb82588b1bd1",
+      "field": "note",
+      "text": "Jammy / Berry",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Jammy / Berry",
+            "baseline": 10.5,
+            "width": 197.969
+          }
+        ],
+        "x": 3854.433377897324,
+        "y": 4184.383930642736,
+        "rotation": 54.8780487804878,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-884c39b6332a2d85",
+      "field": "note",
+      "text": "Sulphurous",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Sulphurous",
+            "baseline": 10.5,
+            "width": 150.984
+          }
+        ],
+        "x": 3721.6989531766776,
+        "y": 4266.776661238881,
+        "rotation": 61.463414634146346,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-a4ab2e7850f474e1",
+      "field": "note",
+      "text": "Tropical",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Tropical",
+            "baseline": 10.5,
+            "width": 114.953
+          }
+        ],
+        "x": 3580.391217703445,
+        "y": 4333.403333498849,
+        "rotation": 68.04878048780489,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-4bbf3992d0328c04",
+      "field": "note",
+      "text": "Orchard Fruit",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Orchard Fruit",
+            "baseline": 10.5,
+            "width": 188.953
+          }
+        ],
+        "x": 3381.8807721082676,
+        "y": 4396.22577647378,
+        "rotation": 76.82926829268291,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-9bfee25485e82263",
+      "field": "note",
+      "text": "Lactonic",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Lactonic",
+            "baseline": 10.5,
+            "width": 116.0
+          }
+        ],
+        "x": 3176.106983857634,
+        "y": 4428.009489609887,
+        "rotation": 85.60975609756099,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-43a3e2c54bf029e6",
+      "field": "note",
+      "text": "Sweet / Vanillic",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Sweet / Vanillic",
+            "baseline": 10.5,
+            "width": 213.938
+          }
+        ],
+        "x": 2967.8930161423664,
+        "y": 4428.009489609887,
+        "rotation": 274.390243902439,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-c9e42464c39fad50",
+      "field": "note",
+      "text": "Roasted / Nutty",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Roasted / Nutty",
+            "baseline": 10.5,
+            "width": 216.984
+          }
+        ],
+        "x": 2762.1192278917324,
+        "y": 4396.22577647378,
+        "rotation": 283.1707317073171,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-e441f3dd035a1260",
+      "field": "note",
+      "text": "Boozy",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Boozy",
+            "baseline": 10.5,
+            "width": 83.0
+          }
+        ],
+        "x": 2563.6087822965546,
+        "y": 4333.403333498849,
+        "rotation": 291.9512195121951,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-c487b9d361850d92",
+      "field": "note",
+      "text": "Tonka / Almond",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Tonka / Almond",
+            "baseline": 10.5,
+            "width": 226.953
+          }
+        ],
+        "x": 2377.0145959519296,
+        "y": 4241.014665502594,
+        "rotation": 300.7317073170732,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-fb78447582bacbe4",
+      "field": "note",
+      "text": "Sweet / Cured",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Sweet / Cured",
+            "baseline": 10.5,
+            "width": 197.0
+          }
+        ],
+        "x": 2247.533441085372,
+        "y": 4153.59830493186,
+        "rotation": 307.3170731707317,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-0ddaa50359caed4e",
+      "field": "note",
+      "text": "Savoury Spice",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Savoury Spice",
+            "baseline": 10.5,
+            "width": 185.969
+          }
+        ],
+        "x": 2167.1570477748314,
+        "y": 4087.3123813922693,
+        "rotation": 311.7073170731707,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-cd5391b64d1472c2",
+      "field": "note",
+      "text": "Fresh Spice",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Fresh Spice",
+            "baseline": 10.5,
+            "width": 150.969
+          }
+        ],
+        "x": 2056.6876186077307,
+        "y": 3976.8429522251686,
+        "rotation": 318.2926829268293,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-dd1a224b9ec81415",
+      "field": "note",
+      "text": "Hot Spice",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Hot Spice",
+            "baseline": 10.5,
+            "width": 131.0
+          }
+        ],
+        "x": 1930.4630204605485,
+        "y": 3811.2518680016615,
+        "rotation": 327.0731707317073,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-ffab5746bb1a3c5c",
+      "field": "note",
+      "text": "Amber",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Amber",
+            "baseline": 10.5,
+            "width": 93.0
+          }
+        ],
+        "x": 1830.9950815918917,
+        "y": 3628.3333465530213,
+        "rotation": 335.8536585365854,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-5098323410722d72",
+      "field": "note",
+      "text": "Warm Resin",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Warm Resin",
+            "baseline": 10.5,
+            "width": 166.969
+          }
+        ],
+        "x": 1775.3809068052944,
+        "y": 3482.3400140894614,
+        "rotation": 342.4390243902439,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-e82d9d9d23440d84",
+      "field": "note",
+      "text": "Dark Balsamic",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Dark Balsamic",
+            "baseline": 10.5,
+            "width": 190.984
+          }
+        ],
+        "x": 1747.7742235262208,
+        "y": 3381.880772108268,
+        "rotation": 346.8292682926829,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-10797a688bda8446",
+      "field": "note",
+      "text": "Incense",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Incense",
+            "baseline": 10.5,
+            "width": 100.0
+          }
+        ],
+        "x": 1720.9731579268418,
+        "y": 3227.969458541825,
+        "rotation": 353.4146341463414,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-a86e8037d554a1e3",
+      "field": "note",
+      "text": "Smoky",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Smoky",
+            "baseline": 10.5,
+            "width": 91.0
+          }
+        ],
+        "x": 1712.9979937708983,
+        "y": 3019.908282181552,
+        "rotation": 362.1951219512195,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-96b36e9c2cb6a7a1",
+      "field": "note",
+      "text": "Dry Wood",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Dry Wood",
+            "baseline": 10.5,
+            "width": 140.953
+          }
+        ],
+        "x": 1747.7742235262203,
+        "y": 2762.1192278917338,
+        "rotation": 373.17073170731703,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-a583edb308043910",
+      "field": "note",
+      "text": "Creamy Wood",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Creamy Wood",
+            "baseline": 10.5,
+            "width": 194.938
+          }
+        ],
+        "x": 1810.5966665011513,
+        "y": 2563.6087822965546,
+        "rotation": 381.9512195121951,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-3a58b6c193eb759d",
+      "field": "note",
+      "text": "Sheer Wood",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Sheer Wood",
+            "baseline": 10.5,
+            "width": 164.953
+          }
+        ],
+        "x": 1853.214842532965,
+        "y": 2468.541020500934,
+        "rotation": 386.3414634146342,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-6239676e26822a9e",
+      "field": "note",
+      "text": "Suede",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Suede",
+            "baseline": 10.5,
+            "width": 82.0
+          }
+        ],
+        "x": 1902.9853344974065,
+        "y": 2377.0145959519296,
+        "rotation": 390.7317073170732,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-57232abfa5a7bd1c",
+      "field": "note",
+      "text": "Hard Leather",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Hard Leather",
+            "baseline": 10.5,
+            "width": 182.0
+          }
+        ],
+        "x": 1990.4016950681396,
+        "y": 2247.533441085373,
+        "rotation": 397.3170731707317,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-5baedcaa1992ff72",
+      "field": "note",
+      "text": "Animalic",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Animalic",
+            "baseline": 10.5,
+            "width": 120.0
+          }
+        ],
+        "x": 2128.931798922552,
+        "y": 2092.090632702929,
+        "rotation": 406.0975609756098,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-57ea675942018918",
+      "field": "note",
+      "text": "Dry Leaf / Hay",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Dry Leaf / Hay",
+            "baseline": 10.5,
+            "width": 207.078
+          }
+        ],
+        "x": 2289.5666221026763,
+        "y": 1959.6160693572638,
+        "rotation": 414.8780487804878,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-67619fd916773462",
+      "field": "note",
+      "text": "Earthy / Rooty",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Earthy / Rooty",
+            "baseline": 10.5,
+            "width": 203.969
+          }
+        ],
+        "x": 2468.5410205009343,
+        "y": 1853.2148425329644,
+        "rotation": 423.6585365853658,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-d8b3244b65df44b0",
+      "field": "note",
+      "text": "Mossy / Forest",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Mossy / Forest",
+            "baseline": 10.5,
+            "width": 195.953
+          }
+        ],
+        "x": 2661.6599859105386,
+        "y": 1775.3809068052944,
+        "rotation": 432.4390243902439,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-3254fe09acdf47c3",
+      "field": "note",
+      "text": "Petrichor",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Petrichor",
+            "baseline": 10.5,
+            "width": 123.984
+          }
+        ],
+        "x": 2813.06809153605,
+        "y": 1736.8766848042774,
+        "rotation": 439.0243902439024,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    },
+    {
+      "id": "note-72a4f4a765102f3e",
+      "field": "note",
+      "text": "Mineral / Saline",
+      "physical_font_size": 48.0,
+      "fit": {
+        "size": 32,
+        "lines": [
+          {
+            "text": "Mineral / Saline",
+            "baseline": 10.5,
+            "width": 219.0
+          }
+        ],
+        "x": 2967.8930161423664,
+        "y": 1715.9905103901128,
+        "rotation": 445.609756097561,
+        "fits": true,
+        "font_family": "Baskerville"
+      }
+    }
+  ],
+  "labels_preserved": 318,
+  "photographs": 130,
+  "outer_crop_compositions_unchanged": true,
+  "center": {
+    "radius": 220,
+    "rule_inset": 12,
+    "title_sizes": {
+      "OLFACTORY": 42,
+      "ATLAS": 78
+    },
+    "title_baselines": {
+      "OLFACTORY": -28,
+      "ATLAS": 50
+    },
+    "title_tracking": {
+      "OLFACTORY": 2,
+      "ATLAS": 3
+    }
+  },
+  "realm_images": "Same pixel mapping, with newly revealed inner edge",
+  "note": "Screen spacing comparison. Larger display area does not add source photographic detail.",
+  "status": "Accepted screen exhibit"
+}

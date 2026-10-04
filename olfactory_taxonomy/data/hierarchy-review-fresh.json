@@ -1,0 +1,507 @@
+{
+  "realm": "FRESH & LIFTED",
+  "status": "Editorial scent possibilities, not an official classification. All paths continue through examples, optional feel and references.",
+  "reviews": [
+    {
+      "source_path": [
+        "FRESH & LIFTED",
+        "CITRUS",
+        "Zesty / Sparkling"
+      ],
+      "action": "expand",
+      "label": "Zesty / Sparkling",
+      "reason": "Lemon and lime offer distinct familiar anchors within bright citrus without inventing a separate fizzy smell.",
+      "choices": [
+        {
+          "label": "Lemon zest",
+          "anchor": "Freshly grated lemon peel",
+          "feel": [
+            "sharp",
+            "bright"
+          ],
+          "reference": "Lemon oil",
+          "reference_note": "IFF Lemon Oil CP Spain FCR: a zesty peel reference with green and juicy facets.",
+          "reference_sources": [
+            "https://www.iff.com/scent/lmr-compendium/lemon-oil-cp-spain-fcr/"
+          ],
+          "print_text": "Freshly grated lemon peel"
+        },
+        {
+          "label": "Lime zest",
+          "anchor": "A squeezed lime wedge",
+          "feel": [
+            "crisp"
+          ],
+          "reference": "Distilled lime oil",
+          "reference_note": "Givaudan Lime Distilled Oil Mexico illustrates fresh lime with a sweet candy nuance; a distilled oil is not identical to a squeezed wedge.",
+          "reference_sources": [
+            "https://www.givaudan.com/fragrance-beauty/fragrance-ingredients-business/natural-ingredients/lime-distilled-oil-mexico"
+          ],
+          "print_text": "Crushed lime peel"
+        }
+      ],
+      "sources": [
+        "https://www.iff.com/scent/lmr-compendium/lemon-oil-cp-spain-fcr/",
+        "https://www.givaudan.com/fragrance-beauty/fragrance-ingredients-business/natural-ingredients/lime-distilled-oil-mexico"
+      ]
+    },
+    {
+      "source_path": [
+        "FRESH & LIFTED",
+        "CITRUS",
+        "Juicy / Sweet"
+      ],
+      "action": "expand",
+      "label": "Juicy / Sweet",
+      "reason": "Separate fresh juicy citrus from confectionery citrus; orange and mandarin alone would add relatively little guidance.",
+      "choices": [
+        {
+          "label": "Juicy orange",
+          "anchor": "Orange flesh and peel",
+          "feel": [
+            "rounded"
+          ],
+          "reference": "Sweet orange oil",
+          "reference_note": "Robertet sweet orange oil illustrates zesty, sweet peel; it does not reproduce orange juice alone.",
+          "reference_sources": [
+            "https://matieres-premieres.robertet.com/orange-sweet-oil"
+          ],
+          "print_text": "Orange flesh and peel"
+        },
+        {
+          "label": "Candied citrus",
+          "anchor": "Candied orange peel",
+          "feel": [
+            "rich",
+            "sticky"
+          ],
+          "reference": "Sweet orange oil (peel facet)",
+          "reference_note": "The oil illustrates the sweet orange-peel part of the candied-peel comparison. It is not a complete candied-orange accord or a sugar smell.",
+          "reference_sources": [
+            "https://matieres-premieres.robertet.com/orange-sweet-oil"
+          ],
+          "print_text": "Candied orange peel"
+        }
+      ],
+      "sources": [
+        "https://matieres-premieres.robertet.com/orange-sweet-oil"
+      ]
+    },
+    {
+      "source_path": [
+        "FRESH & LIFTED",
+        "CITRUS",
+        "Bitter / Dry"
+      ],
+      "action": "expand",
+      "label": "Bitter / Dry",
+      "reason": "Bitter grapefruit and aromatic bergamot give different routes beyond a single pith prompt.",
+      "choices": [
+        {
+          "label": "Grapefruit peel",
+          "anchor": "Bitter grapefruit rind",
+          "feel": [
+            "sharp"
+          ],
+          "reference": "Grapefruit oil",
+          "reference_note": "Givaudan Grapefruit Oil USA supports a fresh citrus reference with both sweet and bitter facets.",
+          "reference_sources": [
+            "https://www.givaudan.com/fragrance-beauty/fragrance-ingredients-business/natural-ingredients/grapefruit-oil-usa"
+          ],
+          "print_text": "Bitter grapefruit rind"
+        },
+        {
+          "label": "Bergamot",
+          "anchor": "The citrus scent of Earl Grey",
+          "feel": [
+            "light"
+          ],
+          "reference": "Bergamot oil",
+          "reference_note": "Illustrates the aromatic citrus in Earl Grey; the tea-leaf body is a separate smell.",
+          "reference_sources": [
+            "https://www.givaudan.com/sustainability/communities/sourcing4good/italy-bergamot"
+          ],
+          "print_text": "Bergamot: Earl Grey citrus"
+        }
+      ],
+      "sources": [
+        "https://www.givaudan.com/fragrance-beauty/fragrance-ingredients-business/natural-ingredients/grapefruit-oil-usa",
+        "https://www.givaudan.com/sustainability/communities/sourcing4good/italy-bergamot"
+      ]
+    },
+    {
+      "source_path": [
+        "FRESH & LIFTED",
+        "GREEN",
+        "Fresh Green"
+      ],
+      "action": "retain",
+      "label": "Fresh Green",
+      "reason": "Retain cut grass and leaves as one useful recognition direction; splitting these near-synonyms would add nominal branching.",
+      "choices": [
+        {
+          "label": "Cut grass / leaves",
+          "anchor": "Mown grass, freshly crushed leaves",
+          "feel": [
+            "crisp"
+          ],
+          "reference": "cis-3-Hexenol",
+          "reference_note": "Zeon describes a strong green, leafy character. Grass and crushed leaves are recognition comparisons, not an ingredient inference.",
+          "reference_sources": [
+            "https://www.zeon.co.jp/en/business/enterprise/fragrance/green/"
+          ],
+          "print_text": "Cut grass, crushed leaves"
+        }
+      ],
+      "sources": [
+        "https://www.zeon.co.jp/en/business/enterprise/fragrance/green/"
+      ]
+    },
+    {
+      "source_path": [
+        "FRESH & LIFTED",
+        "GREEN",
+        "Vegetal / Resin"
+      ],
+      "action": "expand",
+      "label": "Vegetal / Sap",
+      "reason": "The original combined category holds distinctly edible green vegetables and bitter resinous sap.",
+      "choices": [
+        {
+          "label": "Green vegetables",
+          "anchor": "Raw pea pods, green pepper",
+          "feel": [
+            "crisp",
+            "juicy"
+          ],
+          "reference": "cis-3-Hexenal (green facet)",
+          "reference_note": "Zeon describes deep, diffusive, vegetable-like green. This supplies the leafy vegetable facet, not a complete pea-and-pepper reconstruction.",
+          "reference_sources": [
+            "https://www.zeon.co.jp/en/business/enterprise/fragrance/green/"
+          ],
+          "print_text": "Raw pea pods, green pepper"
+        },
+        {
+          "label": "Green sap",
+          "anchor": "Broken stalks, bitter plant sap",
+          "feel": [
+            "dense"
+          ],
+          "reference": "Galbanum absolute",
+          "reference_note": "Robertet describes green, woody, resinous facets with a garlic-like nuance. Broken stalks and sap are comparisons for that green-resinous side.",
+          "reference_sources": [
+            "https://matieres-premieres.robertet.com/galbanum-absolute"
+          ],
+          "print_text": "Snapped stems, bitter sap"
+        }
+      ],
+      "sources": [
+        "https://www.zeon.co.jp/en/business/enterprise/fragrance/green/",
+        "https://matieres-premieres.robertet.com/galbanum-absolute"
+      ]
+    },
+    {
+      "source_path": [
+        "FRESH & LIFTED",
+        "WATERY",
+        "Aquatic / Marine"
+      ],
+      "action": "expand",
+      "label": "Aquatic / Marine",
+      "reason": "Fresh watery fruit and sea-air associations are meaningfully different despite both often being called aquatic.",
+      "choices": [
+        {
+          "label": "Watery fruit",
+          "anchor": "Cucumber, pale melon flesh",
+          "feel": [
+            "smooth",
+            "watery"
+          ],
+          "reference": "cis-6-Nonenol (melon facet)",
+          "reference_note": "Zeon describes fresh fruity green and melon-like character. It illustrates the green melon facet, not a complete cucumber-and-melon accord.",
+          "reference_sources": [
+            "https://www.zeon.co.jp/en/business/enterprise/fragrance/green/"
+          ],
+          "print_text": "Cucumber, melon flesh"
+        },
+        {
+          "label": "Sea breeze",
+          "anchor": "Fresh sea air, shoreline",
+          "feel": [
+            "cool",
+            "airy"
+          ],
+          "reference": "Calone (marine facet)",
+          "reference_note": "Firmenich Calone 918970 illustrates a stylised marine and ozonic effect with floral undertones; it is not a sample of sea air.",
+          "reference_sources": [
+            "https://www.firmenich.com/sites/default/files/uploads/files/ingredients/marketing-sheet/perfumery/CALONE_918970.pdf?8d5f421="
+          ],
+          "print_text": "Fresh sea air"
+        }
+      ],
+      "sources": [
+        "https://www.zeon.co.jp/en/business/enterprise/fragrance/green/",
+        "https://www.firmenich.com/sites/default/files/uploads/files/ingredients/marketing-sheet/perfumery/CALONE_918970.pdf?8d5f421="
+      ]
+    },
+    {
+      "source_path": [
+        "FRESH & LIFTED",
+        "ALDEHYDIC",
+        "Aldehydic"
+      ],
+      "action": "expand",
+      "label": "Aldehydic",
+      "reason": "Offer the two familiar impressions hidden in this specialist category; neither defines every chemical aldehyde.",
+      "choices": [
+        {
+          "label": "Soapy",
+          "anchor": "A clean bar of perfumed soap",
+          "feel": [
+            "smooth",
+            "bright"
+          ],
+          "reference": "Aldehyde C12 lauric (soap facet)",
+          "reference_note": "Kao describes dodecanal, CAS 112-54-9, as giving a fresh soapy-floral nuance. It illustrates one aspect of perfumed soap, not the whole bar.",
+          "reference_sources": [
+            "https://chemical.kao.com/global/fragrances-and-aromas/products/aldehyde_c-12_lauryl/"
+          ],
+          "print_text": "Freshly unwrapped soap"
+        },
+        {
+          "label": "Waxy",
+          "anchor": "Candle wax with citrus peel",
+          "feel": [
+            "oily"
+          ],
+          "reference": "Aldehyde C12 lauric",
+          "reference_note": "Dodecanal, CAS 112-54-9, has sweet waxy, fatty and citrus facets. This is a different material from C12 MNA; candle wax is a comparison.",
+          "reference_sources": [
+            "https://www.axxence.de/fileadmin/DocumentPublisher/tds/natural_aldehyde_c-12__dodecanal__261500_EU-EN_TDS.pdf",
+            "https://chemical.kao.com/global/fragrances-and-aromas/products/aldehyde_c-12_lauryl/"
+          ],
+          "print_text": "Candle wax, citrus peel"
+        }
+      ],
+      "sources": [
+        "https://chemical.kao.com/global/fragrances-and-aromas/products/aldehyde_c-12_lauryl/",
+        "https://www.axxence.de/fileadmin/DocumentPublisher/tds/natural_aldehyde_c-12__dodecanal__261500_EU-EN_TDS.pdf"
+      ]
+    },
+    {
+      "source_path": [
+        "FRESH & LIFTED",
+        "MUSK",
+        "Clean Musk"
+      ],
+      "action": "retain",
+      "label": "Clean Musk",
+      "reason": "One clean laundry impression is a useful selective continuation; an unsupported clean-skin taxonomy would add complexity.",
+      "choices": [
+        {
+          "label": "Clean laundry",
+          "anchor": "Freshly washed fabric",
+          "feel": [
+            "soft",
+            "fluffy"
+          ],
+          "reference": "Galaxolide",
+          "reference_note": "IFF describes a clean musk. Washed fabric is a familiar association that also depends on the surrounding fragrance.",
+          "reference_sources": [
+            "https://www.iff.com/scent/ingredients-compendium/galaxolide-undiluted/"
+          ],
+          "print_text": "Freshly washed fabric"
+        }
+      ],
+      "sources": [
+        "https://www.iff.com/scent/ingredients-compendium/galaxolide-undiluted/"
+      ]
+    },
+    {
+      "source_path": [
+        "FRESH & LIFTED",
+        "AROMATIC",
+        "Herbal"
+      ],
+      "action": "expand",
+      "label": "Herbal",
+      "reason": "Lavender and kitchen herbs distinguish floral aromatic freshness from leafy savoury herbs.",
+      "choices": [
+        {
+          "label": "Lavender",
+          "anchor": "Lavender flowers, lavender soap",
+          "feel": [
+            "soft",
+            "dry"
+          ],
+          "reference": "Lavender oil",
+          "reference_note": "IFF Lavender Oil Maillette illustrates floral-herbal freshness, with camphoraceous and spicy nuances.",
+          "reference_sources": [
+            "https://www.iff.com/scent/lmr-compendium/lavender-oil-maillette-org-ref-a-csm/"
+          ],
+          "print_text": "Lavender sprigs"
+        },
+        {
+          "label": "Kitchen herbs",
+          "anchor": "Crushed rosemary and thyme",
+          "feel": [
+            "dry"
+          ],
+          "reference": "Rosemary oil (herbal facet)",
+          "reference_note": "Robertet Rosemary Tunisia low methyl eugenol oil illustrates aromatic, fresh, cineolic rosemary. It does not supply the separate thyme comparison.",
+          "reference_sources": [
+            "https://matieres-premieres.robertet.com/rosemary-tunisia-low-methyl-eugenol-oil"
+          ],
+          "print_text": "Crushed rosemary, thyme"
+        }
+      ],
+      "sources": [
+        "https://www.iff.com/scent/lmr-compendium/lavender-oil-maillette-org-ref-a-csm/",
+        "https://matieres-premieres.robertet.com/rosemary-tunisia-low-methyl-eugenol-oil"
+      ]
+    },
+    {
+      "source_path": [
+        "FRESH & LIFTED",
+        "AROMATIC",
+        "Cooling"
+      ],
+      "action": "expand",
+      "label": "Cooling",
+      "reason": "Mint and camphoraceous medicinal freshness are distinct enough for a novice comparison.",
+      "choices": [
+        {
+          "label": "Minty",
+          "anchor": "Peppermint leaves, mint gum",
+          "feel": [
+            "cool",
+            "crisp"
+          ],
+          "reference": "Peppermint oil",
+          "reference_note": "Robertet Peppermint fraction oil illustrates a fresh mentholated aroma with a sweet nuance. The cool feel word is optional.",
+          "reference_sources": [
+            "https://matieres-premieres.robertet.com/peppermint-fraction-oil"
+          ],
+          "print_text": "Peppermint, chewing gum"
+        },
+        {
+          "label": "Camphoraceous",
+          "anchor": "Eucalyptus, vapour-rub scent",
+          "feel": [
+            "cool",
+            "piercing"
+          ],
+          "reference": "Eucalyptol",
+          "reference_note": "Robertet identifies eucalyptol, CAS 470-82-6, as a fresh aromatic isolate. The eucalyptus/vapour-rub comparison describes its aromatic facet, not a therapeutic effect.",
+          "reference_sources": [
+            "https://matieres-premieres.robertet.com/eucalyptol-nat"
+          ],
+          "print_text": "Camphoraceous: eucalyptus, vapour rub"
+        }
+      ],
+      "sources": [
+        "https://matieres-premieres.robertet.com/peppermint-fraction-oil",
+        "https://matieres-premieres.robertet.com/eucalyptol-nat"
+      ]
+    },
+    {
+      "source_path": [
+        "FRESH & LIFTED",
+        "AROMATIC",
+        "Anisic"
+      ],
+      "action": "retain",
+      "label": "Anisic",
+      "reason": "Aniseed, fennel and liquorice already provide convergent recognition of a specific character; keep one continuation.",
+      "choices": [
+        {
+          "label": "Aniseed / liquorice",
+          "anchor": "Aniseed sweets, fennel seed",
+          "feel": [
+            "smooth"
+          ],
+          "reference": "Anethole",
+          "reference_note": "Symrise Anethol Synthetic, (E)-anethole, is an aromatic anise reference. Liquorice sweets are a familiar association, not a claim about liquorice root.",
+          "reference_sources": [
+            "https://www.symrise.com/fileadmin/symrise/Marketing/Scent_and_care/Aroma_molecules/Ingredient_finder/SYM_ohnePC_Datenblaetter/SYM_P_Anethol_Synthetic.pdf"
+          ],
+          "print_text": "Aniseed sweets, fennel seed"
+        }
+      ],
+      "sources": [
+        "https://www.symrise.com/fileadmin/symrise/Marketing/Scent_and_care/Aroma_molecules/Ingredient_finder/SYM_ohnePC_Datenblaetter/SYM_P_Anethol_Synthetic.pdf"
+      ]
+    },
+    {
+      "source_path": [
+        "FRESH & LIFTED",
+        "AROMATIC",
+        "Tea"
+      ],
+      "action": "expand",
+      "label": "Tea",
+      "reason": "Green/floral tea and smoked dark tea offer a useful contrast without treating tannic taste as a literal odor.",
+      "choices": [
+        {
+          "label": "Green / floral tea",
+          "anchor": "Green tea leaves, jasmine tea",
+          "feel": [
+            "light",
+            "soft"
+          ],
+          "reference": "Tea Jasmine SFE",
+          "reference_note": "Firmenich Tea Jasmine SFE 987004 is extracted from green tea leaves scented with jasmine. It supports this particular floral-tea comparison.",
+          "reference_sources": [
+            "https://www.firmenich.com/sites/default/files/uploads/files/ingredients/sharing_innovation/THE_JASMIN_SFE.pdf"
+          ],
+          "print_text": "Green tea, jasmine petals"
+        },
+        {
+          "label": "Smoked tea",
+          "anchor": "Dry tea leaves, lapsang-like smoke",
+          "feel": [
+            "dry"
+          ],
+          "reference": "Smoked black tea extract",
+          "reference_note": "Robertet Tea Black Smoked Extract Colorless cleanRscent is a named smoked-tea material. It is an example of smoked tea, not a description of all black tea.",
+          "reference_sources": [
+            "https://www.robertet.com/en/blog/site/robertet-middle-east/"
+          ],
+          "print_text": "Lapsang tea, wood smoke"
+        }
+      ],
+      "sources": [
+        "https://www.firmenich.com/sites/default/files/uploads/files/ingredients/sharing_innovation/THE_JASMIN_SFE.pdf",
+        "https://www.robertet.com/en/blog/site/robertet-middle-east/"
+      ]
+    },
+    {
+      "source_path": [
+        "FRESH & LIFTED",
+        "ETHEREAL",
+        "Ethereal"
+      ],
+      "action": "retain",
+      "label": "Ethereal",
+      "reason": "Keep one clearly named solvent-fruity comparison rather than manufacture a chemical classification.",
+      "choices": [
+        {
+          "label": "Solvent / pear drops",
+          "anchor": "Nail-varnish-like, pear-drop sweetness",
+          "feel": [
+            "sharp"
+          ],
+          "reference": "Ethyl acetate",
+          "reference_note": "Axxence describes ethyl acetate as fruity, sweet and ethereal. It illustrates a solvent-fruity facet; pear drops are an association, not a complete formula or a sampling instruction.",
+          "reference_sources": [
+            "https://www.axxence.de/fileadmin/DocumentPublisher/tds/natural_ethyl_acetate_241410_EU-en_TDS.pdf"
+          ],
+          "print_text": "Solvent-like: nail-varnish remover, pear drops"
+        }
+      ],
+      "sources": [
+        "https://www.axxence.de/fileadmin/DocumentPublisher/tds/natural_ethyl_acetate_241410_EU-en_TDS.pdf"
+      ]
+    }
+  ]
+}

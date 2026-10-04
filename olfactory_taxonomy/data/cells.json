@@ -1,0 +1,4994 @@
+[
+  {
+    "id": "realm-c6df643822877e93",
+    "field": "realm",
+    "text": "FRESH & LIFTED",
+    "realm": "FRESH & LIFTED",
+    "family": null,
+    "source_path": null,
+    "start": 0.0,
+    "end": 96.58536585365853,
+    "inner": 220,
+    "outer": 700
+  },
+  {
+    "id": "realm-bd6ae435880b095a",
+    "field": "realm",
+    "text": "FLORAL & FRUITY",
+    "realm": "FLORAL & FRUITY",
+    "family": null,
+    "source_path": null,
+    "start": 96.58536585365853,
+    "end": 180.0,
+    "inner": 220,
+    "outer": 700
+  },
+  {
+    "id": "realm-1956c981bb8c9c05",
+    "field": "realm",
+    "text": "AMBER, SPICE & SWEET",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": null,
+    "source_path": null,
+    "start": 180.0,
+    "end": 267.8048780487805,
+    "inner": 220,
+    "outer": 700
+  },
+  {
+    "id": "realm-bcd522fe5fc4adf7",
+    "field": "realm",
+    "text": "EARTHY, WOODY & DEEP",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": null,
+    "source_path": null,
+    "start": 267.8048780487805,
+    "end": 360.0,
+    "inner": 220,
+    "outer": 700
+  },
+  {
+    "id": "family-d3babf160afa0af1",
+    "field": "family",
+    "text": "WATERY",
+    "realm": "FRESH & LIFTED",
+    "family": "WATERY",
+    "source_path": null,
+    "start": 0.0,
+    "end": 8.78048780487805,
+    "inner": 700,
+    "outer": 1120
+  },
+  {
+    "id": "family-6d1b0a3db8ba57d1",
+    "field": "family",
+    "text": "MUSK",
+    "realm": "FRESH & LIFTED",
+    "family": "MUSK",
+    "source_path": null,
+    "start": 8.78048780487805,
+    "end": 13.170731707317072,
+    "inner": 700,
+    "outer": 1120
+  },
+  {
+    "id": "family-291049534b778a46",
+    "field": "family",
+    "text": "ALDEHYDIC",
+    "realm": "FRESH & LIFTED",
+    "family": "ALDEHYDIC",
+    "source_path": null,
+    "start": 13.170731707317072,
+    "end": 21.951219512195124,
+    "inner": 700,
+    "outer": 1120
+  },
+  {
+    "id": "family-c7b0f733951947a7",
+    "field": "family",
+    "text": "ETHEREAL",
+    "realm": "FRESH & LIFTED",
+    "family": "ETHEREAL",
+    "source_path": null,
+    "start": 21.951219512195124,
+    "end": 26.341463414634145,
+    "inner": 700,
+    "outer": 1120
+  },
+  {
+    "id": "family-e8abbc2782dd304c",
+    "field": "family",
+    "text": "GREEN",
+    "realm": "FRESH & LIFTED",
+    "family": "GREEN",
+    "source_path": null,
+    "start": 26.341463414634145,
+    "end": 39.51219512195122,
+    "inner": 700,
+    "outer": 1120
+  },
+  {
+    "id": "family-6a3db857f95d24d2",
+    "field": "family",
+    "text": "AROMATIC",
+    "realm": "FRESH & LIFTED",
+    "family": "AROMATIC",
+    "source_path": null,
+    "start": 39.51219512195122,
+    "end": 70.2439024390244,
+    "inner": 700,
+    "outer": 1120
+  },
+  {
+    "id": "family-45f61a1d7fa52844",
+    "field": "family",
+    "text": "CITRUS",
+    "realm": "FRESH & LIFTED",
+    "family": "CITRUS",
+    "source_path": null,
+    "start": 70.2439024390244,
+    "end": 96.58536585365853,
+    "inner": 700,
+    "outer": 1120
+  },
+  {
+    "id": "family-48ab9763f6a87240",
+    "field": "family",
+    "text": "FLORAL",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": null,
+    "start": 96.58536585365853,
+    "end": 140.4878048780488,
+    "inner": 700,
+    "outer": 1120
+  },
+  {
+    "id": "family-7164591a32cb2b0d",
+    "field": "family",
+    "text": "FRUITY",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": null,
+    "start": 140.4878048780488,
+    "end": 180.0,
+    "inner": 700,
+    "outer": 1120
+  },
+  {
+    "id": "family-b32beb5faca91f71",
+    "field": "family",
+    "text": "GOURMAND",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "GOURMAND",
+    "source_path": null,
+    "start": 180.0,
+    "end": 215.1219512195122,
+    "inner": 700,
+    "outer": 1120
+  },
+  {
+    "id": "family-2bf646c2784790cd",
+    "field": "family",
+    "text": "TOBACCO",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "TOBACCO",
+    "source_path": null,
+    "start": 215.1219512195122,
+    "end": 219.5121951219512,
+    "inner": 700,
+    "outer": 1120
+  },
+  {
+    "id": "family-10f2344440fedca8",
+    "field": "family",
+    "text": "SPICE",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "SPICE",
+    "source_path": null,
+    "start": 219.5121951219512,
+    "end": 241.46341463414635,
+    "inner": 700,
+    "outer": 1120
+  },
+  {
+    "id": "family-8844c95b7bfc39eb",
+    "field": "family",
+    "text": "AMBER",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "AMBER",
+    "source_path": null,
+    "start": 241.46341463414635,
+    "end": 250.2439024390244,
+    "inner": 700,
+    "outer": 1120
+  },
+  {
+    "id": "family-1d40d1ef268e96df",
+    "field": "family",
+    "text": "RESINOUS",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "RESINOUS",
+    "source_path": null,
+    "start": 250.2439024390244,
+    "end": 267.8048780487805,
+    "inner": 700,
+    "outer": 1120
+  },
+  {
+    "id": "family-3b2695bb80716a15",
+    "field": "family",
+    "text": "WOOD",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "WOOD",
+    "source_path": null,
+    "start": 267.8048780487805,
+    "end": 298.5365853658537,
+    "inner": 700,
+    "outer": 1120
+  },
+  {
+    "id": "family-0153c61ef96008e8",
+    "field": "family",
+    "text": "LEATHER",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "LEATHER",
+    "source_path": null,
+    "start": 298.5365853658537,
+    "end": 311.7073170731707,
+    "inner": 700,
+    "outer": 1120
+  },
+  {
+    "id": "family-f2cdfbcf8bd551f4",
+    "field": "family",
+    "text": "ANIMALIC",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "ANIMALIC",
+    "source_path": null,
+    "start": 311.7073170731707,
+    "end": 320.4878048780488,
+    "inner": 700,
+    "outer": 1120
+  },
+  {
+    "id": "family-d498d9a2bafcd5c2",
+    "field": "family",
+    "text": "TOBACCO",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "TOBACCO",
+    "source_path": null,
+    "start": 320.4878048780488,
+    "end": 329.2682926829268,
+    "inner": 700,
+    "outer": 1120
+  },
+  {
+    "id": "family-a46a320a21c020dc",
+    "field": "family",
+    "text": "EARTHY",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "EARTHY",
+    "source_path": null,
+    "start": 329.2682926829268,
+    "end": 351.219512195122,
+    "inner": 700,
+    "outer": 1120
+  },
+  {
+    "id": "family-bfe41cf9ae125d28",
+    "field": "family",
+    "text": "MARINE",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "MARINE",
+    "source_path": null,
+    "start": 351.219512195122,
+    "end": 360.0,
+    "inner": 700,
+    "outer": 1120
+  },
+  {
+    "id": "note-9a94734089ffde76",
+    "field": "note",
+    "text": "Aquatic / Marine",
+    "realm": "FRESH & LIFTED",
+    "family": "WATERY",
+    "source_path": [
+      "FRESH & LIFTED",
+      "WATERY",
+      "Aquatic / Marine"
+    ],
+    "start": 0.0,
+    "end": 8.78048780487805,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-b21e0ee7aad9cc85",
+    "field": "note",
+    "text": "Clean Musk",
+    "realm": "FRESH & LIFTED",
+    "family": "MUSK",
+    "source_path": [
+      "FRESH & LIFTED",
+      "MUSK",
+      "Clean Musk"
+    ],
+    "start": 8.78048780487805,
+    "end": 13.170731707317072,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-9de35774474cb3c8",
+    "field": "note",
+    "text": "Aldehydic",
+    "realm": "FRESH & LIFTED",
+    "family": "ALDEHYDIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "ALDEHYDIC",
+      "Aldehydic"
+    ],
+    "start": 13.170731707317072,
+    "end": 21.951219512195124,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-72b2e33a5a2f9e27",
+    "field": "note",
+    "text": "Ethereal",
+    "realm": "FRESH & LIFTED",
+    "family": "ETHEREAL",
+    "source_path": [
+      "FRESH & LIFTED",
+      "ETHEREAL",
+      "Ethereal"
+    ],
+    "start": 21.951219512195124,
+    "end": 26.341463414634145,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-409457a635f2bc9b",
+    "field": "note",
+    "text": "Fresh Green",
+    "realm": "FRESH & LIFTED",
+    "family": "GREEN",
+    "source_path": [
+      "FRESH & LIFTED",
+      "GREEN",
+      "Fresh Green"
+    ],
+    "start": 26.341463414634145,
+    "end": 30.73170731707317,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-f734c5a8d6cefedf",
+    "field": "note",
+    "text": "Vegetal / Sap",
+    "realm": "FRESH & LIFTED",
+    "family": "GREEN",
+    "source_path": [
+      "FRESH & LIFTED",
+      "GREEN",
+      "Vegetal / Resin"
+    ],
+    "start": 30.73170731707317,
+    "end": 39.51219512195122,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-9df0d6081b6497fa",
+    "field": "note",
+    "text": "Herbal",
+    "realm": "FRESH & LIFTED",
+    "family": "AROMATIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "AROMATIC",
+      "Herbal"
+    ],
+    "start": 39.51219512195122,
+    "end": 48.292682926829265,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-3f7373f21c70ee55",
+    "field": "note",
+    "text": "Cooling",
+    "realm": "FRESH & LIFTED",
+    "family": "AROMATIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "AROMATIC",
+      "Cooling"
+    ],
+    "start": 48.292682926829265,
+    "end": 57.073170731707314,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-356a92d8a11756e8",
+    "field": "note",
+    "text": "Anisic",
+    "realm": "FRESH & LIFTED",
+    "family": "AROMATIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "AROMATIC",
+      "Anisic"
+    ],
+    "start": 57.073170731707314,
+    "end": 61.46341463414634,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-75732171fb7d5e0b",
+    "field": "note",
+    "text": "Tea",
+    "realm": "FRESH & LIFTED",
+    "family": "AROMATIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "AROMATIC",
+      "Tea"
+    ],
+    "start": 61.46341463414634,
+    "end": 70.2439024390244,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-e9bc557392d69f07",
+    "field": "note",
+    "text": "Bitter / Dry",
+    "realm": "FRESH & LIFTED",
+    "family": "CITRUS",
+    "source_path": [
+      "FRESH & LIFTED",
+      "CITRUS",
+      "Bitter / Dry"
+    ],
+    "start": 70.2439024390244,
+    "end": 79.02439024390245,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-ea87b5736462e4e5",
+    "field": "note",
+    "text": "Juicy / Sweet",
+    "realm": "FRESH & LIFTED",
+    "family": "CITRUS",
+    "source_path": [
+      "FRESH & LIFTED",
+      "CITRUS",
+      "Juicy / Sweet"
+    ],
+    "start": 79.02439024390245,
+    "end": 87.8048780487805,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-e84fe1cae1d9d73d",
+    "field": "note",
+    "text": "Zesty / Sparkling",
+    "realm": "FRESH & LIFTED",
+    "family": "CITRUS",
+    "source_path": [
+      "FRESH & LIFTED",
+      "CITRUS",
+      "Zesty / Sparkling"
+    ],
+    "start": 87.8048780487805,
+    "end": 96.58536585365853,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-79888da30a05066c",
+    "field": "note",
+    "text": "Citrus Floral",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Citrus Floral"
+    ],
+    "start": 96.58536585365853,
+    "end": 105.36585365853658,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-21d11eac3e38b708",
+    "field": "note",
+    "text": "Airy Floral",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Solar / Airy"
+    ],
+    "start": 105.36585365853658,
+    "end": 109.7560975609756,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-f89f7c49c10093cd",
+    "field": "note",
+    "text": "White / Heady",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "White / Narcotic"
+    ],
+    "start": 109.7560975609756,
+    "end": 118.53658536585365,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-5132de7dcd6315a7",
+    "field": "note",
+    "text": "Spicy Floral",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Spicy Floral"
+    ],
+    "start": 118.53658536585365,
+    "end": 127.3170731707317,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-e61fd335ef363117",
+    "field": "note",
+    "text": "Iris / Powdery",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Iris / Powdery"
+    ],
+    "start": 127.3170731707317,
+    "end": 136.09756097560975,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-77eb00c9a6ba9786",
+    "field": "note",
+    "text": "Fresh Rose",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Fresh Rose"
+    ],
+    "start": 136.09756097560975,
+    "end": 140.4878048780488,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-716eeb82588b1bd1",
+    "field": "note",
+    "text": "Jammy / Berry",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Jammy / Berry"
+    ],
+    "start": 140.4878048780488,
+    "end": 149.26829268292684,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-884c39b6332a2d85",
+    "field": "note",
+    "text": "Sulphurous",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Sulphurous"
+    ],
+    "start": 149.26829268292684,
+    "end": 153.65853658536585,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-a4ab2e7850f474e1",
+    "field": "note",
+    "text": "Tropical",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Tropical"
+    ],
+    "start": 153.65853658536585,
+    "end": 162.4390243902439,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-4bbf3992d0328c04",
+    "field": "note",
+    "text": "Orchard Fruit",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Orchard Fruit"
+    ],
+    "start": 162.4390243902439,
+    "end": 171.21951219512195,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-9bfee25485e82263",
+    "field": "note",
+    "text": "Lactonic",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Lactonic"
+    ],
+    "start": 171.21951219512195,
+    "end": 180.0,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-43a3e2c54bf029e6",
+    "field": "note",
+    "text": "Sweet / Vanillic",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "GOURMAND",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Sweet / Vanillic"
+    ],
+    "start": 180.0,
+    "end": 188.78048780487805,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-c9e42464c39fad50",
+    "field": "note",
+    "text": "Roasted / Nutty",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "GOURMAND",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Roasted / Nutty"
+    ],
+    "start": 188.78048780487805,
+    "end": 197.5609756097561,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-e441f3dd035a1260",
+    "field": "note",
+    "text": "Boozy",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "GOURMAND",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Boozy"
+    ],
+    "start": 197.5609756097561,
+    "end": 206.34146341463415,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-c487b9d361850d92",
+    "field": "note",
+    "text": "Tonka / Almond",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "GOURMAND",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Tonka / Almond"
+    ],
+    "start": 206.34146341463415,
+    "end": 215.1219512195122,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-fb78447582bacbe4",
+    "field": "note",
+    "text": "Sweet / Cured",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "TOBACCO",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "TOBACCO",
+      "Sweet / Cured"
+    ],
+    "start": 215.1219512195122,
+    "end": 219.5121951219512,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-0ddaa50359caed4e",
+    "field": "note",
+    "text": "Savoury Spice",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "SPICE",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "SPICE",
+      "Savory Spice"
+    ],
+    "start": 219.5121951219512,
+    "end": 223.90243902439025,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-cd5391b64d1472c2",
+    "field": "note",
+    "text": "Fresh Spice",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "SPICE",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "SPICE",
+      "Fresh Spice"
+    ],
+    "start": 223.90243902439025,
+    "end": 232.6829268292683,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-dd1a224b9ec81415",
+    "field": "note",
+    "text": "Hot Spice",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "SPICE",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "SPICE",
+      "Hot Spice"
+    ],
+    "start": 232.6829268292683,
+    "end": 241.46341463414635,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-ffab5746bb1a3c5c",
+    "field": "note",
+    "text": "Amber",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "AMBER",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "AMBER",
+      "Amber"
+    ],
+    "start": 241.46341463414635,
+    "end": 250.2439024390244,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-5098323410722d72",
+    "field": "note",
+    "text": "Warm Resin",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "RESINOUS",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "RESINOUS",
+      "Warm Resin"
+    ],
+    "start": 250.2439024390244,
+    "end": 254.6341463414634,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-e82d9d9d23440d84",
+    "field": "note",
+    "text": "Dark Balsamic",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "RESINOUS",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "RESINOUS",
+      "Dark Balsamic"
+    ],
+    "start": 254.6341463414634,
+    "end": 259.0243902439024,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-10797a688bda8446",
+    "field": "note",
+    "text": "Incense",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "RESINOUS",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "RESINOUS",
+      "Incense"
+    ],
+    "start": 259.0243902439024,
+    "end": 267.8048780487805,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-a86e8037d554a1e3",
+    "field": "note",
+    "text": "Smoky",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "WOOD",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Smoky"
+    ],
+    "start": 267.8048780487805,
+    "end": 276.5853658536585,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-96b36e9c2cb6a7a1",
+    "field": "note",
+    "text": "Dry Wood",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "WOOD",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Dry Wood"
+    ],
+    "start": 276.5853658536585,
+    "end": 289.7560975609756,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-a583edb308043910",
+    "field": "note",
+    "text": "Creamy Wood",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "WOOD",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Creamy Wood"
+    ],
+    "start": 289.7560975609756,
+    "end": 294.1463414634146,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-3a58b6c193eb759d",
+    "field": "note",
+    "text": "Sheer Wood",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "WOOD",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Sheer Wood"
+    ],
+    "start": 294.1463414634146,
+    "end": 298.5365853658537,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-6239676e26822a9e",
+    "field": "note",
+    "text": "Suede",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "LEATHER",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "LEATHER",
+      "Suede"
+    ],
+    "start": 298.5365853658537,
+    "end": 302.9268292682927,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-57232abfa5a7bd1c",
+    "field": "note",
+    "text": "Hard Leather",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "LEATHER",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "LEATHER",
+      "Hard Leather"
+    ],
+    "start": 302.9268292682927,
+    "end": 311.7073170731707,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-5baedcaa1992ff72",
+    "field": "note",
+    "text": "Animalic",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "ANIMALIC",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "ANIMALIC",
+      "Animalic"
+    ],
+    "start": 311.7073170731707,
+    "end": 320.4878048780488,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-57ea675942018918",
+    "field": "note",
+    "text": "Dry Leaf / Hay",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "TOBACCO",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "TOBACCO",
+      "Dry Leaf / Hay"
+    ],
+    "start": 320.4878048780488,
+    "end": 329.2682926829268,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-67619fd916773462",
+    "field": "note",
+    "text": "Earthy / Rooty",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "EARTHY",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "EARTHY",
+      "Earthy / Herbal"
+    ],
+    "start": 329.2682926829268,
+    "end": 338.0487804878049,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-d8b3244b65df44b0",
+    "field": "note",
+    "text": "Mossy / Forest",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "EARTHY",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "EARTHY",
+      "Mossy / Forest"
+    ],
+    "start": 338.0487804878049,
+    "end": 346.8292682926829,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-3254fe09acdf47c3",
+    "field": "note",
+    "text": "Petrichor",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "EARTHY",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "EARTHY",
+      "Petrichor"
+    ],
+    "start": 346.8292682926829,
+    "end": 351.219512195122,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "note-72a4f4a765102f3e",
+    "field": "note",
+    "text": "Mineral / Saline",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "MARINE",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "MARINE",
+      "Mineral / Salt"
+    ],
+    "start": 351.219512195122,
+    "end": 360.0,
+    "inner": 1120,
+    "outer": 1600
+  },
+  {
+    "id": "descriptors-9a08cd63605eee33",
+    "field": "descriptors",
+    "text": "Cucumber, melon flesh",
+    "realm": "FRESH & LIFTED",
+    "family": "WATERY",
+    "source_path": [
+      "FRESH & LIFTED",
+      "WATERY",
+      "Aquatic / Marine"
+    ],
+    "start": 0.0,
+    "end": 4.390243902439025,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-2f5a38dbba996fa8",
+    "field": "descriptors",
+    "text": "Fresh sea air",
+    "realm": "FRESH & LIFTED",
+    "family": "WATERY",
+    "source_path": [
+      "FRESH & LIFTED",
+      "WATERY",
+      "Aquatic / Marine"
+    ],
+    "start": 4.390243902439025,
+    "end": 8.78048780487805,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-d835be2fc1b3b9e1",
+    "field": "descriptors",
+    "text": "Freshly washed fabric",
+    "realm": "FRESH & LIFTED",
+    "family": "MUSK",
+    "source_path": [
+      "FRESH & LIFTED",
+      "MUSK",
+      "Clean Musk"
+    ],
+    "start": 8.78048780487805,
+    "end": 13.170731707317072,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-2db2d153ec13da66",
+    "field": "descriptors",
+    "text": "Freshly unwrappedsoap",
+    "realm": "FRESH & LIFTED",
+    "family": "ALDEHYDIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "ALDEHYDIC",
+      "Aldehydic"
+    ],
+    "start": 13.170731707317072,
+    "end": 17.5609756097561,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-88085d5e2dd9b6b0",
+    "field": "descriptors",
+    "text": "Candle wax,citrus peel",
+    "realm": "FRESH & LIFTED",
+    "family": "ALDEHYDIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "ALDEHYDIC",
+      "Aldehydic"
+    ],
+    "start": 17.5609756097561,
+    "end": 21.951219512195124,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-f9624e0baa58331e",
+    "field": "descriptors",
+    "text": "Solvent-like:nail-varnish remover, pear drops",
+    "realm": "FRESH & LIFTED",
+    "family": "ETHEREAL",
+    "source_path": [
+      "FRESH & LIFTED",
+      "ETHEREAL",
+      "Ethereal"
+    ],
+    "start": 21.951219512195124,
+    "end": 26.341463414634145,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-4ea3f4d5a71c18f2",
+    "field": "descriptors",
+    "text": "Cut grass,crushed leaves",
+    "realm": "FRESH & LIFTED",
+    "family": "GREEN",
+    "source_path": [
+      "FRESH & LIFTED",
+      "GREEN",
+      "Fresh Green"
+    ],
+    "start": 26.341463414634145,
+    "end": 30.73170731707317,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-87690c6d814b5b00",
+    "field": "descriptors",
+    "text": "Raw pea pods,green pepper",
+    "realm": "FRESH & LIFTED",
+    "family": "GREEN",
+    "source_path": [
+      "FRESH & LIFTED",
+      "GREEN",
+      "Vegetal / Resin"
+    ],
+    "start": 30.73170731707317,
+    "end": 35.1219512195122,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-06ca0b60dd2436e8",
+    "field": "descriptors",
+    "text": "Snapped stems,bitter sap",
+    "realm": "FRESH & LIFTED",
+    "family": "GREEN",
+    "source_path": [
+      "FRESH & LIFTED",
+      "GREEN",
+      "Vegetal / Resin"
+    ],
+    "start": 35.1219512195122,
+    "end": 39.51219512195122,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-7d6430594ea71c50",
+    "field": "descriptors",
+    "text": "Lavender sprigs",
+    "realm": "FRESH & LIFTED",
+    "family": "AROMATIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "AROMATIC",
+      "Herbal"
+    ],
+    "start": 39.51219512195122,
+    "end": 43.90243902439025,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-37f0edaa196b41e9",
+    "field": "descriptors",
+    "text": "Crushed rosemary,thyme",
+    "realm": "FRESH & LIFTED",
+    "family": "AROMATIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "AROMATIC",
+      "Herbal"
+    ],
+    "start": 43.90243902439025,
+    "end": 48.292682926829265,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-a5288a8824364d70",
+    "field": "descriptors",
+    "text": "Peppermint,chewing gum",
+    "realm": "FRESH & LIFTED",
+    "family": "AROMATIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "AROMATIC",
+      "Cooling"
+    ],
+    "start": 48.292682926829265,
+    "end": 52.68292682926829,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-38a121600e5c9dec",
+    "field": "descriptors",
+    "text": "Camphoraceous:eucalyptus, vapour rub",
+    "realm": "FRESH & LIFTED",
+    "family": "AROMATIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "AROMATIC",
+      "Cooling"
+    ],
+    "start": 52.68292682926829,
+    "end": 57.073170731707314,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-88d6147b86178d9a",
+    "field": "descriptors",
+    "text": "Aniseed sweets,fennel seed",
+    "realm": "FRESH & LIFTED",
+    "family": "AROMATIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "AROMATIC",
+      "Anisic"
+    ],
+    "start": 57.073170731707314,
+    "end": 61.46341463414634,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-bd1bcab763de4e9d",
+    "field": "descriptors",
+    "text": "Green tea,jasmine petals",
+    "realm": "FRESH & LIFTED",
+    "family": "AROMATIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "AROMATIC",
+      "Tea"
+    ],
+    "start": 61.46341463414634,
+    "end": 65.85365853658537,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-e86e6876eb28ea14",
+    "field": "descriptors",
+    "text": "Lapsang tea,wood smoke",
+    "realm": "FRESH & LIFTED",
+    "family": "AROMATIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "AROMATIC",
+      "Tea"
+    ],
+    "start": 65.85365853658537,
+    "end": 70.2439024390244,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-8253f980d36a868d",
+    "field": "descriptors",
+    "text": "Bitter grapefruit rind",
+    "realm": "FRESH & LIFTED",
+    "family": "CITRUS",
+    "source_path": [
+      "FRESH & LIFTED",
+      "CITRUS",
+      "Bitter / Dry"
+    ],
+    "start": 70.2439024390244,
+    "end": 74.63414634146342,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-a2c3ed15d72ae9ae",
+    "field": "descriptors",
+    "text": "Bergamot:Earl Grey citrus",
+    "realm": "FRESH & LIFTED",
+    "family": "CITRUS",
+    "source_path": [
+      "FRESH & LIFTED",
+      "CITRUS",
+      "Bitter / Dry"
+    ],
+    "start": 74.63414634146342,
+    "end": 79.02439024390245,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-665665d666a0fcf6",
+    "field": "descriptors",
+    "text": "Orange flesh and peel",
+    "realm": "FRESH & LIFTED",
+    "family": "CITRUS",
+    "source_path": [
+      "FRESH & LIFTED",
+      "CITRUS",
+      "Juicy / Sweet"
+    ],
+    "start": 79.02439024390245,
+    "end": 83.41463414634147,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-d1091edce3bfca20",
+    "field": "descriptors",
+    "text": "Candied orange peel",
+    "realm": "FRESH & LIFTED",
+    "family": "CITRUS",
+    "source_path": [
+      "FRESH & LIFTED",
+      "CITRUS",
+      "Juicy / Sweet"
+    ],
+    "start": 83.41463414634147,
+    "end": 87.8048780487805,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-bc82129377f9a9e5",
+    "field": "descriptors",
+    "text": "Freshly grated lemonpeel",
+    "realm": "FRESH & LIFTED",
+    "family": "CITRUS",
+    "source_path": [
+      "FRESH & LIFTED",
+      "CITRUS",
+      "Zesty / Sparkling"
+    ],
+    "start": 87.8048780487805,
+    "end": 92.1951219512195,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-957c6847530bcf07",
+    "field": "descriptors",
+    "text": "Crushed lime peel",
+    "realm": "FRESH & LIFTED",
+    "family": "CITRUS",
+    "source_path": [
+      "FRESH & LIFTED",
+      "CITRUS",
+      "Zesty / Sparkling"
+    ],
+    "start": 92.1951219512195,
+    "end": 96.58536585365853,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-4bdb36b3dbd24ea0",
+    "field": "descriptors",
+    "text": "Fresh orange blossom",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Citrus Floral"
+    ],
+    "start": 96.58536585365853,
+    "end": 100.97560975609755,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-14e3facd1df7db99",
+    "field": "descriptors",
+    "text": "Bitter-orange leaves,green twigs",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Citrus Floral"
+    ],
+    "start": 100.97560975609755,
+    "end": 105.36585365853658,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-9463a8d3c68a9ff3",
+    "field": "descriptors",
+    "text": "Delicate jasmine petals",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Solar / Airy"
+    ],
+    "start": 105.36585365853658,
+    "end": 109.7560975609756,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-bb7b254cb996bd31",
+    "field": "descriptors",
+    "text": "Rich jasmine,a fruity hint",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "White / Narcotic"
+    ],
+    "start": 109.7560975609756,
+    "end": 114.14634146341463,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-7013748649268140",
+    "field": "descriptors",
+    "text": "Honeyed orangeblossom",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "White / Narcotic"
+    ],
+    "start": 114.14634146341463,
+    "end": 118.53658536585365,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-ec7d788661126aa4",
+    "field": "descriptors",
+    "text": "Carnation:petals with a clove hint",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Spicy Floral"
+    ],
+    "start": 118.53658536585365,
+    "end": 122.92682926829268,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-b1f81de916cfb15a",
+    "field": "descriptors",
+    "text": "Ylang-ylang: fruit,spicy petals",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Spicy Floral"
+    ],
+    "start": 122.92682926829268,
+    "end": 127.3170731707317,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-e564a98ea71b774a",
+    "field": "descriptors",
+    "text": "Orris (iris root):face powder",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Iris / Powdery"
+    ],
+    "start": 127.3170731707317,
+    "end": 131.70731707317074,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-9bfd04dec90d3bc3",
+    "field": "descriptors",
+    "text": "Violet sweets,face powder",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Iris / Powdery"
+    ],
+    "start": 131.70731707317074,
+    "end": 136.09756097560975,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-6469e16102dfdea5",
+    "field": "descriptors",
+    "text": "Rosewater,fresh rose petals",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Fresh Rose"
+    ],
+    "start": 136.09756097560975,
+    "end": 140.4878048780488,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-043fa50708a9aadb",
+    "field": "descriptors",
+    "text": "Raspberry jam",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Jammy / Berry"
+    ],
+    "start": 140.4878048780488,
+    "end": 144.8780487804878,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-2419e8c6e0a5faae",
+    "field": "descriptors",
+    "text": "Plum, prune, raisins",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Jammy / Berry"
+    ],
+    "start": 144.8780487804878,
+    "end": 149.26829268292684,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-bb2a87d4de9db508",
+    "field": "descriptors",
+    "text": "Blackcurrant bud,cat-urine hint",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Sulphurous"
+    ],
+    "start": 149.26829268292684,
+    "end": 153.65853658536585,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-1e29276e38837c3f",
+    "field": "descriptors",
+    "text": "Fresh pineapple",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Tropical"
+    ],
+    "start": 153.65853658536585,
+    "end": 158.0487804878049,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-6a9e985100752127",
+    "field": "descriptors",
+    "text": "Ripe mango pulp",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Tropical"
+    ],
+    "start": 158.0487804878049,
+    "end": 162.4390243902439,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-19c245c3d3aad8dd",
+    "field": "descriptors",
+    "text": "Fresh apple,pear juice",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Orchard Fruit"
+    ],
+    "start": 162.4390243902439,
+    "end": 166.82926829268294,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-660b9be3910243e8",
+    "field": "descriptors",
+    "text": "Ripe peach, apricot",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Orchard Fruit"
+    ],
+    "start": 166.82926829268294,
+    "end": 171.21951219512195,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-4b0bf6cd9b47c099",
+    "field": "descriptors",
+    "text": "Coconut milk",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Lactonic"
+    ],
+    "start": 171.21951219512195,
+    "end": 175.609756097561,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-15e1f589caab376d",
+    "field": "descriptors",
+    "text": "Peaches and cream",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Lactonic"
+    ],
+    "start": 175.609756097561,
+    "end": 180.0,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-44b12d10909d5a89",
+    "field": "descriptors",
+    "text": "Vanilla pod, custard",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "GOURMAND",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Sweet / Vanillic"
+    ],
+    "start": 180.0,
+    "end": 184.390243902439,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-93e4128e54d97f0e",
+    "field": "descriptors",
+    "text": "Caramel, spun sugar",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "GOURMAND",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Sweet / Vanillic"
+    ],
+    "start": 184.390243902439,
+    "end": 188.78048780487805,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-426029d132634c66",
+    "field": "descriptors",
+    "text": "Roasted nuts, popcorn",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "GOURMAND",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Roasted / Nutty"
+    ],
+    "start": 188.78048780487805,
+    "end": 193.17073170731706,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-19e46286441c8eda",
+    "field": "descriptors",
+    "text": "Dark roasted coffee",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "GOURMAND",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Roasted / Nutty"
+    ],
+    "start": 193.17073170731706,
+    "end": 197.5609756097561,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-acd69de3969a994e",
+    "field": "descriptors",
+    "text": "Rum, molasses",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "GOURMAND",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Boozy"
+    ],
+    "start": 197.5609756097561,
+    "end": 201.9512195121951,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-a5ca1ba555e528d1",
+    "field": "descriptors",
+    "text": "Whisky barrel",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "GOURMAND",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Boozy"
+    ],
+    "start": 201.9512195121951,
+    "end": 206.34146341463415,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-c03e145fe17afa0e",
+    "field": "descriptors",
+    "text": "Tonka: sweet hay",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "GOURMAND",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Tonka / Almond"
+    ],
+    "start": 206.34146341463415,
+    "end": 210.73170731707316,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-d74aa573cdc79a0c",
+    "field": "descriptors",
+    "text": "Marzipan,cherry kernel",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "GOURMAND",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Tonka / Almond"
+    ],
+    "start": 210.73170731707316,
+    "end": 215.1219512195122,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-d0ce98827fa65696",
+    "field": "descriptors",
+    "text": "Pipe tobacco,molasses, dried fruit",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "TOBACCO",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "TOBACCO",
+      "Sweet / Cured"
+    ],
+    "start": 215.1219512195122,
+    "end": 219.5121951219512,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-f5ce1c837254492e",
+    "field": "descriptors",
+    "text": "Cumin seeds",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "SPICE",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "SPICE",
+      "Savory Spice"
+    ],
+    "start": 219.5121951219512,
+    "end": 223.90243902439025,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-3561ffd01515e986",
+    "field": "descriptors",
+    "text": "Fresh ginger,citrus zest",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "SPICE",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "SPICE",
+      "Fresh Spice"
+    ],
+    "start": 223.90243902439025,
+    "end": 228.29268292682926,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-550932198b5af1d7",
+    "field": "descriptors",
+    "text": "Crushed greencardamom",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "SPICE",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "SPICE",
+      "Fresh Spice"
+    ],
+    "start": 228.29268292682926,
+    "end": 232.6829268292683,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-2f5cccd6244ca9b7",
+    "field": "descriptors",
+    "text": "Cinnamon stick,spiced pastry",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "SPICE",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "SPICE",
+      "Hot Spice"
+    ],
+    "start": 232.6829268292683,
+    "end": 237.0731707317073,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-4f87f509beed0e6d",
+    "field": "descriptors",
+    "text": "Clove buds",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "SPICE",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "SPICE",
+      "Hot Spice"
+    ],
+    "start": 237.0731707317073,
+    "end": 241.46341463414635,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-3bd1f10fc0852605",
+    "field": "descriptors",
+    "text": "Vanilla,sweet balsamic resin",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "AMBER",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "AMBER",
+      "Amber"
+    ],
+    "start": 241.46341463414635,
+    "end": 245.85365853658536,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-6e47046cc862509f",
+    "field": "descriptors",
+    "text": "Labdanum:dark resin, leather",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "AMBER",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "AMBER",
+      "Amber"
+    ],
+    "start": 245.85365853658536,
+    "end": 250.2439024390244,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-7b966a48878265bd",
+    "field": "descriptors",
+    "text": "Benzoin: vanilla,sweet balsam",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "RESINOUS",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "RESINOUS",
+      "Warm Resin"
+    ],
+    "start": 250.2439024390244,
+    "end": 254.6341463414634,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-5d15646c7be7818b",
+    "field": "descriptors",
+    "text": "Myrrh: liquorice,dark resin",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "RESINOUS",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "RESINOUS",
+      "Dark Balsamic"
+    ],
+    "start": 254.6341463414634,
+    "end": 259.0243902439024,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-05c9709f9f73a62d",
+    "field": "descriptors",
+    "text": "Frankincense:pine resin, lemon peel",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "RESINOUS",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "RESINOUS",
+      "Incense"
+    ],
+    "start": 259.0243902439024,
+    "end": 263.4146341463415,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-81fe74972904be81",
+    "field": "descriptors",
+    "text": "Smouldering resin, ash",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "RESINOUS",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "RESINOUS",
+      "Incense"
+    ],
+    "start": 263.4146341463415,
+    "end": 267.8048780487805,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-0c129a668dbc2589",
+    "field": "descriptors",
+    "text": "Charred timber, tar",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "WOOD",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Smoky"
+    ],
+    "start": 267.8048780487805,
+    "end": 272.1951219512195,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-e14ba7470e0dc300",
+    "field": "descriptors",
+    "text": "Smoked tea,warm timber",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "WOOD",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Smoky"
+    ],
+    "start": 272.1951219512195,
+    "end": 276.5853658536585,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-aa3e55d574848591",
+    "field": "descriptors",
+    "text": "Cedary:pencil shavings",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "WOOD",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Dry Wood"
+    ],
+    "start": 276.5853658536585,
+    "end": 280.9756097560976,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-c03cd56aeb11b89e",
+    "field": "descriptors",
+    "text": "Dry roots,a nutty hint",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "WOOD",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Dry Wood"
+    ],
+    "start": 280.9756097560976,
+    "end": 285.3658536585366,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-338fa8d09ca59b73",
+    "field": "descriptors",
+    "text": "Cedar-like wood,dry warmth",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "WOOD",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Dry Wood"
+    ],
+    "start": 285.3658536585366,
+    "end": 289.7560975609756,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-253f9d258a43d434",
+    "field": "descriptors",
+    "text": "Creamy sandalwood,a rosy hint",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "WOOD",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Creamy Wood"
+    ],
+    "start": 289.7560975609756,
+    "end": 294.1463414634146,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-5003de027803036d",
+    "field": "descriptors",
+    "text": "Smooth woody amber",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "WOOD",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Sheer Wood"
+    ],
+    "start": 294.1463414634146,
+    "end": 298.5365853658537,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-dd5ed1c932a8fb89",
+    "field": "descriptors",
+    "text": "Soft suede",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "LEATHER",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "LEATHER",
+      "Suede"
+    ],
+    "start": 298.5365853658537,
+    "end": 302.9268292682927,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-e1e364bf1442a5da",
+    "field": "descriptors",
+    "text": "Saddlery, leather belt",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "LEATHER",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "LEATHER",
+      "Hard Leather"
+    ],
+    "start": 302.9268292682927,
+    "end": 307.3170731707317,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-c0146d76fd803280",
+    "field": "descriptors",
+    "text": "Smoked hide, tar",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "LEATHER",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "LEATHER",
+      "Hard Leather"
+    ],
+    "start": 307.3170731707317,
+    "end": 311.7073170731707,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-3d493641df7f2212",
+    "field": "descriptors",
+    "text": "Warm skin, soft fur",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "ANIMALIC",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "ANIMALIC",
+      "Animalic"
+    ],
+    "start": 311.7073170731707,
+    "end": 316.0975609756098,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-b31ad2d958f16329",
+    "field": "descriptors",
+    "text": "Stable, manure",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "ANIMALIC",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "ANIMALIC",
+      "Animalic"
+    ],
+    "start": 316.0975609756098,
+    "end": 320.4878048780488,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-01e6cc1ddbd17215",
+    "field": "descriptors",
+    "text": "Cigar wrapper,dried leaves",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "TOBACCO",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "TOBACCO",
+      "Dry Leaf / Hay"
+    ],
+    "start": 320.4878048780488,
+    "end": 324.8780487804878,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-c7d4a9f66eb31925",
+    "field": "descriptors",
+    "text": "Dried grass, sweet hay",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "TOBACCO",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "TOBACCO",
+      "Dry Leaf / Hay"
+    ],
+    "start": 324.8780487804878,
+    "end": 329.2682926829268,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-5c8c80555cf4d46d",
+    "field": "descriptors",
+    "text": "Patchouli: damp earth,dried herbs",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "EARTHY",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "EARTHY",
+      "Earthy / Herbal"
+    ],
+    "start": 329.2682926829268,
+    "end": 333.6585365853659,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-50a592952aaaaa52",
+    "field": "descriptors",
+    "text": "Vetiver: dry roots,nutty wood",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "EARTHY",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "EARTHY",
+      "Earthy / Herbal"
+    ],
+    "start": 333.6585365853659,
+    "end": 338.0487804878049,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-6b5c1231d8652c40",
+    "field": "descriptors",
+    "text": "Damp moss, shadedbark",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "EARTHY",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "EARTHY",
+      "Mossy / Forest"
+    ],
+    "start": 338.0487804878049,
+    "end": 342.4390243902439,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-848fa02a1d96e192",
+    "field": "descriptors",
+    "text": "Leaf litter,forest soil",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "EARTHY",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "EARTHY",
+      "Mossy / Forest"
+    ],
+    "start": 342.4390243902439,
+    "end": 346.8292682926829,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-d9b28c1ce69362d0",
+    "field": "descriptors",
+    "text": "Rain on soil,beetroot skin",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "EARTHY",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "EARTHY",
+      "Petrichor"
+    ],
+    "start": 346.8292682926829,
+    "end": 351.219512195122,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-3d5d687a18609eb1",
+    "field": "descriptors",
+    "text": "Rain on stone",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "MARINE",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "MARINE",
+      "Mineral / Salt"
+    ],
+    "start": 351.219512195122,
+    "end": 355.609756097561,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "descriptors-1306e9cde4799039",
+    "field": "descriptors",
+    "text": "Sea air,skin after a sea swim",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "MARINE",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "MARINE",
+      "Mineral / Salt"
+    ],
+    "start": 355.609756097561,
+    "end": 360.0,
+    "inner": 1600,
+    "outer": 2260
+  },
+  {
+    "id": "texture_tactile-9dc8c30d35e181ea",
+    "field": "texture_tactile",
+    "text": "smooth, watery",
+    "realm": "FRESH & LIFTED",
+    "family": "WATERY",
+    "source_path": [
+      "FRESH & LIFTED",
+      "WATERY",
+      "Aquatic / Marine"
+    ],
+    "start": 0.0,
+    "end": 4.390243902439025,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-4590d3ae865296df",
+    "field": "texture_tactile",
+    "text": "cool, airy",
+    "realm": "FRESH & LIFTED",
+    "family": "WATERY",
+    "source_path": [
+      "FRESH & LIFTED",
+      "WATERY",
+      "Aquatic / Marine"
+    ],
+    "start": 4.390243902439025,
+    "end": 8.78048780487805,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-228eff34381408bb",
+    "field": "texture_tactile",
+    "text": "soft, fluffy",
+    "realm": "FRESH & LIFTED",
+    "family": "MUSK",
+    "source_path": [
+      "FRESH & LIFTED",
+      "MUSK",
+      "Clean Musk"
+    ],
+    "start": 8.78048780487805,
+    "end": 13.170731707317072,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-ab48b0bfaa595405",
+    "field": "texture_tactile",
+    "text": "smooth, bright",
+    "realm": "FRESH & LIFTED",
+    "family": "ALDEHYDIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "ALDEHYDIC",
+      "Aldehydic"
+    ],
+    "start": 13.170731707317072,
+    "end": 17.5609756097561,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-63d7317aaee7e6c8",
+    "field": "texture_tactile",
+    "text": "oily",
+    "realm": "FRESH & LIFTED",
+    "family": "ALDEHYDIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "ALDEHYDIC",
+      "Aldehydic"
+    ],
+    "start": 17.5609756097561,
+    "end": 21.951219512195124,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-15705df120b1646a",
+    "field": "texture_tactile",
+    "text": "sharp",
+    "realm": "FRESH & LIFTED",
+    "family": "ETHEREAL",
+    "source_path": [
+      "FRESH & LIFTED",
+      "ETHEREAL",
+      "Ethereal"
+    ],
+    "start": 21.951219512195124,
+    "end": 26.341463414634145,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-d96120c2f522c5a8",
+    "field": "texture_tactile",
+    "text": "crisp",
+    "realm": "FRESH & LIFTED",
+    "family": "GREEN",
+    "source_path": [
+      "FRESH & LIFTED",
+      "GREEN",
+      "Fresh Green"
+    ],
+    "start": 26.341463414634145,
+    "end": 30.73170731707317,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-7ae52322a4deed28",
+    "field": "texture_tactile",
+    "text": "crisp, juicy",
+    "realm": "FRESH & LIFTED",
+    "family": "GREEN",
+    "source_path": [
+      "FRESH & LIFTED",
+      "GREEN",
+      "Vegetal / Resin"
+    ],
+    "start": 30.73170731707317,
+    "end": 35.1219512195122,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-8a6c1f9cc556dcc6",
+    "field": "texture_tactile",
+    "text": "dense",
+    "realm": "FRESH & LIFTED",
+    "family": "GREEN",
+    "source_path": [
+      "FRESH & LIFTED",
+      "GREEN",
+      "Vegetal / Resin"
+    ],
+    "start": 35.1219512195122,
+    "end": 39.51219512195122,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-5935f62b186702af",
+    "field": "texture_tactile",
+    "text": "soft, dry",
+    "realm": "FRESH & LIFTED",
+    "family": "AROMATIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "AROMATIC",
+      "Herbal"
+    ],
+    "start": 39.51219512195122,
+    "end": 43.90243902439025,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-08b193f8d6416d49",
+    "field": "texture_tactile",
+    "text": "dry",
+    "realm": "FRESH & LIFTED",
+    "family": "AROMATIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "AROMATIC",
+      "Herbal"
+    ],
+    "start": 43.90243902439025,
+    "end": 48.292682926829265,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-c78c5325acdabcbd",
+    "field": "texture_tactile",
+    "text": "cool, crisp",
+    "realm": "FRESH & LIFTED",
+    "family": "AROMATIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "AROMATIC",
+      "Cooling"
+    ],
+    "start": 48.292682926829265,
+    "end": 52.68292682926829,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-d20684e0df3b88a3",
+    "field": "texture_tactile",
+    "text": "cool, piercing",
+    "realm": "FRESH & LIFTED",
+    "family": "AROMATIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "AROMATIC",
+      "Cooling"
+    ],
+    "start": 52.68292682926829,
+    "end": 57.073170731707314,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-7ebd3b976cd0afdf",
+    "field": "texture_tactile",
+    "text": "smooth",
+    "realm": "FRESH & LIFTED",
+    "family": "AROMATIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "AROMATIC",
+      "Anisic"
+    ],
+    "start": 57.073170731707314,
+    "end": 61.46341463414634,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-50d915ba1a1d2468",
+    "field": "texture_tactile",
+    "text": "light, soft",
+    "realm": "FRESH & LIFTED",
+    "family": "AROMATIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "AROMATIC",
+      "Tea"
+    ],
+    "start": 61.46341463414634,
+    "end": 65.85365853658537,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-ef31202304795dd1",
+    "field": "texture_tactile",
+    "text": "dry",
+    "realm": "FRESH & LIFTED",
+    "family": "AROMATIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "AROMATIC",
+      "Tea"
+    ],
+    "start": 65.85365853658537,
+    "end": 70.2439024390244,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-35709df9f9826524",
+    "field": "texture_tactile",
+    "text": "sharp",
+    "realm": "FRESH & LIFTED",
+    "family": "CITRUS",
+    "source_path": [
+      "FRESH & LIFTED",
+      "CITRUS",
+      "Bitter / Dry"
+    ],
+    "start": 70.2439024390244,
+    "end": 74.63414634146342,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-660d8422ad2e8844",
+    "field": "texture_tactile",
+    "text": "light",
+    "realm": "FRESH & LIFTED",
+    "family": "CITRUS",
+    "source_path": [
+      "FRESH & LIFTED",
+      "CITRUS",
+      "Bitter / Dry"
+    ],
+    "start": 74.63414634146342,
+    "end": 79.02439024390245,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-1271b316df5f84df",
+    "field": "texture_tactile",
+    "text": "rounded",
+    "realm": "FRESH & LIFTED",
+    "family": "CITRUS",
+    "source_path": [
+      "FRESH & LIFTED",
+      "CITRUS",
+      "Juicy / Sweet"
+    ],
+    "start": 79.02439024390245,
+    "end": 83.41463414634147,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-21571c3a384513eb",
+    "field": "texture_tactile",
+    "text": "rich, sticky",
+    "realm": "FRESH & LIFTED",
+    "family": "CITRUS",
+    "source_path": [
+      "FRESH & LIFTED",
+      "CITRUS",
+      "Juicy / Sweet"
+    ],
+    "start": 83.41463414634147,
+    "end": 87.8048780487805,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-539bd89ad405b4cd",
+    "field": "texture_tactile",
+    "text": "sharp, bright",
+    "realm": "FRESH & LIFTED",
+    "family": "CITRUS",
+    "source_path": [
+      "FRESH & LIFTED",
+      "CITRUS",
+      "Zesty / Sparkling"
+    ],
+    "start": 87.8048780487805,
+    "end": 92.1951219512195,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-9832133fb2db0879",
+    "field": "texture_tactile",
+    "text": "crisp",
+    "realm": "FRESH & LIFTED",
+    "family": "CITRUS",
+    "source_path": [
+      "FRESH & LIFTED",
+      "CITRUS",
+      "Zesty / Sparkling"
+    ],
+    "start": 92.1951219512195,
+    "end": 96.58536585365853,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-20db925560ee3c52",
+    "field": "texture_tactile",
+    "text": "light, soft",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Citrus Floral"
+    ],
+    "start": 96.58536585365853,
+    "end": 100.97560975609755,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-c1f78340ce405e18",
+    "field": "texture_tactile",
+    "text": "crisp, dry",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Citrus Floral"
+    ],
+    "start": 100.97560975609755,
+    "end": 105.36585365853658,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-c26e7d8a45b158bf",
+    "field": "texture_tactile",
+    "text": "sheer",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Solar / Airy"
+    ],
+    "start": 105.36585365853658,
+    "end": 109.7560975609756,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-7edf71a7edc5a283",
+    "field": "texture_tactile",
+    "text": "enveloping",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "White / Narcotic"
+    ],
+    "start": 109.7560975609756,
+    "end": 114.14634146341463,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-e5e59d6b6b2be3a4",
+    "field": "texture_tactile",
+    "text": "rounded",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "White / Narcotic"
+    ],
+    "start": 114.14634146341463,
+    "end": 118.53658536585365,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-f21d9b9158db0763",
+    "field": "texture_tactile",
+    "text": "warm, prickly",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Spicy Floral"
+    ],
+    "start": 118.53658536585365,
+    "end": 122.92682926829268,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-ae37afcfe96b118a",
+    "field": "texture_tactile",
+    "text": "creamy, warm",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Spicy Floral"
+    ],
+    "start": 122.92682926829268,
+    "end": 127.3170731707317,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-ef74d62fbf96d241",
+    "field": "texture_tactile",
+    "text": "soft",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Iris / Powdery"
+    ],
+    "start": 127.3170731707317,
+    "end": 131.70731707317074,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-39fce373c49bff8b",
+    "field": "texture_tactile",
+    "text": "smooth",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Iris / Powdery"
+    ],
+    "start": 131.70731707317074,
+    "end": 136.09756097560975,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-0a6d74144f22b3e6",
+    "field": "texture_tactile",
+    "text": "velvety",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Fresh Rose"
+    ],
+    "start": 136.09756097560975,
+    "end": 140.4878048780488,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-ee27a241db6f855d",
+    "field": "texture_tactile",
+    "text": "thick",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Jammy / Berry"
+    ],
+    "start": 140.4878048780488,
+    "end": 144.8780487804878,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-e9d28a7cc761883f",
+    "field": "texture_tactile",
+    "text": "dense",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Jammy / Berry"
+    ],
+    "start": 144.8780487804878,
+    "end": 149.26829268292684,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-cd0a01ab34432782",
+    "field": "texture_tactile",
+    "text": "sharp, biting",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Sulphurous"
+    ],
+    "start": 149.26829268292684,
+    "end": 153.65853658536585,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-0cf041f49ada7b2b",
+    "field": "texture_tactile",
+    "text": "juicy, sharp",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Tropical"
+    ],
+    "start": 153.65853658536585,
+    "end": 158.0487804878049,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-550a1f1f5e2a6619",
+    "field": "texture_tactile",
+    "text": "fleshy",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Tropical"
+    ],
+    "start": 158.0487804878049,
+    "end": 162.4390243902439,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-f184761808ef8b19",
+    "field": "texture_tactile",
+    "text": "crisp, juicy",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Orchard Fruit"
+    ],
+    "start": 162.4390243902439,
+    "end": 166.82926829268294,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-d213dd5150566117",
+    "field": "texture_tactile",
+    "text": "fleshy, soft",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Orchard Fruit"
+    ],
+    "start": 166.82926829268294,
+    "end": 171.21951219512195,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-4a7b51117a64659f",
+    "field": "texture_tactile",
+    "text": "oily",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Lactonic"
+    ],
+    "start": 171.21951219512195,
+    "end": 175.609756097561,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-e27ab804b7e4959a",
+    "field": "texture_tactile",
+    "text": "soft",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Lactonic"
+    ],
+    "start": 175.609756097561,
+    "end": 180.0,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-f321800826274283",
+    "field": "texture_tactile",
+    "text": "soft, creamy",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "GOURMAND",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Sweet / Vanillic"
+    ],
+    "start": 180.0,
+    "end": 184.390243902439,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-24cb3850933e242a",
+    "field": "texture_tactile",
+    "text": "rich",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "GOURMAND",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Sweet / Vanillic"
+    ],
+    "start": 184.390243902439,
+    "end": 188.78048780487805,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-d50d13a11c63ccee",
+    "field": "texture_tactile",
+    "text": "dry",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "GOURMAND",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Roasted / Nutty"
+    ],
+    "start": 188.78048780487805,
+    "end": 193.17073170731706,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-80e92eebad001c59",
+    "field": "texture_tactile",
+    "text": "dense",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "GOURMAND",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Roasted / Nutty"
+    ],
+    "start": 193.17073170731706,
+    "end": 197.5609756097561,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-b9252e2f3552b149",
+    "field": "texture_tactile",
+    "text": "warm, rounded",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "GOURMAND",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Boozy"
+    ],
+    "start": 197.5609756097561,
+    "end": 201.9512195121951,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-d2ebe3b117ce606f",
+    "field": "texture_tactile",
+    "text": "dry, warm",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "GOURMAND",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Boozy"
+    ],
+    "start": 201.9512195121951,
+    "end": 206.34146341463415,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-a970a8e040a18dd5",
+    "field": "texture_tactile",
+    "text": "powdery, soft",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "GOURMAND",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Tonka / Almond"
+    ],
+    "start": 206.34146341463415,
+    "end": 210.73170731707316,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-6c8f9e06930e687a",
+    "field": "texture_tactile",
+    "text": "smooth",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "GOURMAND",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Tonka / Almond"
+    ],
+    "start": 210.73170731707316,
+    "end": 215.1219512195122,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-0f307f50e1925458",
+    "field": "texture_tactile",
+    "text": "rich",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "TOBACCO",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "TOBACCO",
+      "Sweet / Cured"
+    ],
+    "start": 215.1219512195122,
+    "end": 219.5121951219512,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-cac8018fa22b56d9",
+    "field": "texture_tactile",
+    "text": "warm, dry",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "SPICE",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "SPICE",
+      "Savory Spice"
+    ],
+    "start": 219.5121951219512,
+    "end": 223.90243902439025,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-e019a2e1af22b048",
+    "field": "texture_tactile",
+    "text": "tingling, bright",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "SPICE",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "SPICE",
+      "Fresh Spice"
+    ],
+    "start": 223.90243902439025,
+    "end": 228.29268292682926,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-bcbd974a0bed967d",
+    "field": "texture_tactile",
+    "text": "cool, crisp",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "SPICE",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "SPICE",
+      "Fresh Spice"
+    ],
+    "start": 228.29268292682926,
+    "end": 232.6829268292683,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-db8ba51adc627440",
+    "field": "texture_tactile",
+    "text": "warm, smooth",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "SPICE",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "SPICE",
+      "Hot Spice"
+    ],
+    "start": 232.6829268292683,
+    "end": 237.0731707317073,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-c11833393b1e7613",
+    "field": "texture_tactile",
+    "text": "warm, prickly",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "SPICE",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "SPICE",
+      "Hot Spice"
+    ],
+    "start": 237.0731707317073,
+    "end": 241.46341463414635,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-6da0a77973dc75fc",
+    "field": "texture_tactile",
+    "text": "soft, enveloping",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "AMBER",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "AMBER",
+      "Amber"
+    ],
+    "start": 241.46341463414635,
+    "end": 245.85365853658536,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-4b4abe7186d75b6e",
+    "field": "texture_tactile",
+    "text": "dense, warm",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "AMBER",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "AMBER",
+      "Amber"
+    ],
+    "start": 245.85365853658536,
+    "end": 250.2439024390244,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-a5389c6cd8609573",
+    "field": "texture_tactile",
+    "text": "soft, powdery",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "RESINOUS",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "RESINOUS",
+      "Warm Resin"
+    ],
+    "start": 250.2439024390244,
+    "end": 254.6341463414634,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-b7dd743476862c13",
+    "field": "texture_tactile",
+    "text": "dense",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "RESINOUS",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "RESINOUS",
+      "Dark Balsamic"
+    ],
+    "start": 254.6341463414634,
+    "end": 259.0243902439024,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-f406fc9d649fdac9",
+    "field": "texture_tactile",
+    "text": "crisp",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "RESINOUS",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "RESINOUS",
+      "Incense"
+    ],
+    "start": 259.0243902439024,
+    "end": 263.4146341463415,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-e0e0f9b96989859f",
+    "field": "texture_tactile",
+    "text": "dry, wispy",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "RESINOUS",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "RESINOUS",
+      "Incense"
+    ],
+    "start": 263.4146341463415,
+    "end": 267.8048780487805,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-bf07647cccca0120",
+    "field": "texture_tactile",
+    "text": "rough",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "WOOD",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Smoky"
+    ],
+    "start": 267.8048780487805,
+    "end": 272.1951219512195,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-9692a2958eb1e4f6",
+    "field": "texture_tactile",
+    "text": "soft, dry",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "WOOD",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Smoky"
+    ],
+    "start": 272.1951219512195,
+    "end": 276.5853658536585,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-3beb2c0d58ade675",
+    "field": "texture_tactile",
+    "text": "rough",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "WOOD",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Dry Wood"
+    ],
+    "start": 276.5853658536585,
+    "end": 280.9756097560976,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-3be32618cf9c3aca",
+    "field": "texture_tactile",
+    "text": "fibrous",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "WOOD",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Dry Wood"
+    ],
+    "start": 280.9756097560976,
+    "end": 285.3658536585366,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-b24100aa11c4e7b2",
+    "field": "texture_tactile",
+    "text": "smooth",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "WOOD",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Dry Wood"
+    ],
+    "start": 285.3658536585366,
+    "end": 289.7560975609756,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-de6001a42e8de346",
+    "field": "texture_tactile",
+    "text": "smooth, rounded",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "WOOD",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Creamy Wood"
+    ],
+    "start": 289.7560975609756,
+    "end": 294.1463414634146,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-68024d0d6a0201ac",
+    "field": "texture_tactile",
+    "text": "velvety",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "WOOD",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Sheer Wood"
+    ],
+    "start": 294.1463414634146,
+    "end": 298.5365853658537,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-728a103c15253a95",
+    "field": "texture_tactile",
+    "text": "fuzzy",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "LEATHER",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "LEATHER",
+      "Suede"
+    ],
+    "start": 298.5365853658537,
+    "end": 302.9268292682927,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-640c2ee33ccad89b",
+    "field": "texture_tactile",
+    "text": "firm",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "LEATHER",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "LEATHER",
+      "Hard Leather"
+    ],
+    "start": 302.9268292682927,
+    "end": 307.3170731707317,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-6a7884fc65ecc4c8",
+    "field": "texture_tactile",
+    "text": "rough",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "LEATHER",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "LEATHER",
+      "Hard Leather"
+    ],
+    "start": 307.3170731707317,
+    "end": 311.7073170731707,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-4b71a4f77b81aa1c",
+    "field": "texture_tactile",
+    "text": "rounded",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "ANIMALIC",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "ANIMALIC",
+      "Animalic"
+    ],
+    "start": 311.7073170731707,
+    "end": 316.0975609756098,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-fc2ed2e702d72f8d",
+    "field": "texture_tactile",
+    "text": "dense",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "ANIMALIC",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "ANIMALIC",
+      "Animalic"
+    ],
+    "start": 316.0975609756098,
+    "end": 320.4878048780488,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-14bd7242606c5ba2",
+    "field": "texture_tactile",
+    "text": "papery",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "TOBACCO",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "TOBACCO",
+      "Dry Leaf / Hay"
+    ],
+    "start": 320.4878048780488,
+    "end": 324.8780487804878,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-012462a72a45d777",
+    "field": "texture_tactile",
+    "text": "soft",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "TOBACCO",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "TOBACCO",
+      "Dry Leaf / Hay"
+    ],
+    "start": 324.8780487804878,
+    "end": 329.2682926829268,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-cb6c8d6ad645f833",
+    "field": "texture_tactile",
+    "text": "dense",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "EARTHY",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "EARTHY",
+      "Earthy / Herbal"
+    ],
+    "start": 329.2682926829268,
+    "end": 333.6585365853659,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-3445eae2bffad395",
+    "field": "texture_tactile",
+    "text": "fibrous",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "EARTHY",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "EARTHY",
+      "Earthy / Herbal"
+    ],
+    "start": 333.6585365853659,
+    "end": 338.0487804878049,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-8712148f346fcba1",
+    "field": "texture_tactile",
+    "text": "soft",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "EARTHY",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "EARTHY",
+      "Mossy / Forest"
+    ],
+    "start": 338.0487804878049,
+    "end": 342.4390243902439,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-a0523c0c7f5752bd",
+    "field": "texture_tactile",
+    "text": "dense",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "EARTHY",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "EARTHY",
+      "Mossy / Forest"
+    ],
+    "start": 342.4390243902439,
+    "end": 346.8292682926829,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-9951b057afe6c59d",
+    "field": "texture_tactile",
+    "text": "cool",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "EARTHY",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "EARTHY",
+      "Petrichor"
+    ],
+    "start": 346.8292682926829,
+    "end": 351.219512195122,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-11096f2af8f79c27",
+    "field": "texture_tactile",
+    "text": "cool, smooth",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "MARINE",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "MARINE",
+      "Mineral / Salt"
+    ],
+    "start": 351.219512195122,
+    "end": 355.609756097561,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "texture_tactile-019860e9506bfca8",
+    "field": "texture_tactile",
+    "text": "airy, dry",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "MARINE",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "MARINE",
+      "Mineral / Salt"
+    ],
+    "start": 355.609756097561,
+    "end": 360.0,
+    "inner": 2260,
+    "outer": 2580
+  },
+  {
+    "id": "reference_material-016d58604de93d25",
+    "field": "reference_material",
+    "text": "cis-6-Nonenol (melonfacet)",
+    "realm": "FRESH & LIFTED",
+    "family": "WATERY",
+    "source_path": [
+      "FRESH & LIFTED",
+      "WATERY",
+      "Aquatic / Marine"
+    ],
+    "start": 0.0,
+    "end": 4.390243902439025,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-0e983b508992138f",
+    "field": "reference_material",
+    "text": "Calone (marine facet)",
+    "realm": "FRESH & LIFTED",
+    "family": "WATERY",
+    "source_path": [
+      "FRESH & LIFTED",
+      "WATERY",
+      "Aquatic / Marine"
+    ],
+    "start": 4.390243902439025,
+    "end": 8.78048780487805,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-e283299387b1d1ad",
+    "field": "reference_material",
+    "text": "Galaxolide",
+    "realm": "FRESH & LIFTED",
+    "family": "MUSK",
+    "source_path": [
+      "FRESH & LIFTED",
+      "MUSK",
+      "Clean Musk"
+    ],
+    "start": 8.78048780487805,
+    "end": 13.170731707317072,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-7fba5738ef3947bd",
+    "field": "reference_material",
+    "text": "Aldehyde C12 lauric(soap facet)",
+    "realm": "FRESH & LIFTED",
+    "family": "ALDEHYDIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "ALDEHYDIC",
+      "Aldehydic"
+    ],
+    "start": 13.170731707317072,
+    "end": 17.5609756097561,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-736d431210453a53",
+    "field": "reference_material",
+    "text": "Aldehyde C12 lauric",
+    "realm": "FRESH & LIFTED",
+    "family": "ALDEHYDIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "ALDEHYDIC",
+      "Aldehydic"
+    ],
+    "start": 17.5609756097561,
+    "end": 21.951219512195124,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-fdb677c2757004af",
+    "field": "reference_material",
+    "text": "Ethyl acetate",
+    "realm": "FRESH & LIFTED",
+    "family": "ETHEREAL",
+    "source_path": [
+      "FRESH & LIFTED",
+      "ETHEREAL",
+      "Ethereal"
+    ],
+    "start": 21.951219512195124,
+    "end": 26.341463414634145,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-e5101cf12abd41a2",
+    "field": "reference_material",
+    "text": "cis-3-Hexenol",
+    "realm": "FRESH & LIFTED",
+    "family": "GREEN",
+    "source_path": [
+      "FRESH & LIFTED",
+      "GREEN",
+      "Fresh Green"
+    ],
+    "start": 26.341463414634145,
+    "end": 30.73170731707317,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-7bc74e58400e446d",
+    "field": "reference_material",
+    "text": "cis-3-Hexenal (greenfacet)",
+    "realm": "FRESH & LIFTED",
+    "family": "GREEN",
+    "source_path": [
+      "FRESH & LIFTED",
+      "GREEN",
+      "Vegetal / Resin"
+    ],
+    "start": 30.73170731707317,
+    "end": 35.1219512195122,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-75a1905418923587",
+    "field": "reference_material",
+    "text": "Galbanum absolute",
+    "realm": "FRESH & LIFTED",
+    "family": "GREEN",
+    "source_path": [
+      "FRESH & LIFTED",
+      "GREEN",
+      "Vegetal / Resin"
+    ],
+    "start": 35.1219512195122,
+    "end": 39.51219512195122,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-49a1754c6753463d",
+    "field": "reference_material",
+    "text": "Lavender oil",
+    "realm": "FRESH & LIFTED",
+    "family": "AROMATIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "AROMATIC",
+      "Herbal"
+    ],
+    "start": 39.51219512195122,
+    "end": 43.90243902439025,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-2c379bd333ae18ea",
+    "field": "reference_material",
+    "text": "Rosemary oil (herbalfacet)",
+    "realm": "FRESH & LIFTED",
+    "family": "AROMATIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "AROMATIC",
+      "Herbal"
+    ],
+    "start": 43.90243902439025,
+    "end": 48.292682926829265,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-dfc16fbe0d8f43de",
+    "field": "reference_material",
+    "text": "Peppermint oil",
+    "realm": "FRESH & LIFTED",
+    "family": "AROMATIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "AROMATIC",
+      "Cooling"
+    ],
+    "start": 48.292682926829265,
+    "end": 52.68292682926829,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-498fa16732bb3605",
+    "field": "reference_material",
+    "text": "Eucalyptol",
+    "realm": "FRESH & LIFTED",
+    "family": "AROMATIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "AROMATIC",
+      "Cooling"
+    ],
+    "start": 52.68292682926829,
+    "end": 57.073170731707314,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-19d03834750c2b51",
+    "field": "reference_material",
+    "text": "Anethole",
+    "realm": "FRESH & LIFTED",
+    "family": "AROMATIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "AROMATIC",
+      "Anisic"
+    ],
+    "start": 57.073170731707314,
+    "end": 61.46341463414634,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-3bcc8894af92873a",
+    "field": "reference_material",
+    "text": "Tea Jasmine SFE",
+    "realm": "FRESH & LIFTED",
+    "family": "AROMATIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "AROMATIC",
+      "Tea"
+    ],
+    "start": 61.46341463414634,
+    "end": 65.85365853658537,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-949076a83a2436f6",
+    "field": "reference_material",
+    "text": "Smoked black tea extract",
+    "realm": "FRESH & LIFTED",
+    "family": "AROMATIC",
+    "source_path": [
+      "FRESH & LIFTED",
+      "AROMATIC",
+      "Tea"
+    ],
+    "start": 65.85365853658537,
+    "end": 70.2439024390244,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-ff87c32439920fa8",
+    "field": "reference_material",
+    "text": "Grapefruit oil",
+    "realm": "FRESH & LIFTED",
+    "family": "CITRUS",
+    "source_path": [
+      "FRESH & LIFTED",
+      "CITRUS",
+      "Bitter / Dry"
+    ],
+    "start": 70.2439024390244,
+    "end": 74.63414634146342,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-81a7b2e5efb690e2",
+    "field": "reference_material",
+    "text": "Bergamot oil",
+    "realm": "FRESH & LIFTED",
+    "family": "CITRUS",
+    "source_path": [
+      "FRESH & LIFTED",
+      "CITRUS",
+      "Bitter / Dry"
+    ],
+    "start": 74.63414634146342,
+    "end": 79.02439024390245,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-9b70e6a70c49e4eb",
+    "field": "reference_material",
+    "text": "Sweet orange oil",
+    "realm": "FRESH & LIFTED",
+    "family": "CITRUS",
+    "source_path": [
+      "FRESH & LIFTED",
+      "CITRUS",
+      "Juicy / Sweet"
+    ],
+    "start": 79.02439024390245,
+    "end": 83.41463414634147,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-5d1dcb2ef9953485",
+    "field": "reference_material",
+    "text": "Sweet orange oil (peelfacet)",
+    "realm": "FRESH & LIFTED",
+    "family": "CITRUS",
+    "source_path": [
+      "FRESH & LIFTED",
+      "CITRUS",
+      "Juicy / Sweet"
+    ],
+    "start": 83.41463414634147,
+    "end": 87.8048780487805,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-d63844a1a152dcfd",
+    "field": "reference_material",
+    "text": "Lemon oil",
+    "realm": "FRESH & LIFTED",
+    "family": "CITRUS",
+    "source_path": [
+      "FRESH & LIFTED",
+      "CITRUS",
+      "Zesty / Sparkling"
+    ],
+    "start": 87.8048780487805,
+    "end": 92.1951219512195,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-127f37effec7e505",
+    "field": "reference_material",
+    "text": "Distilled lime oil",
+    "realm": "FRESH & LIFTED",
+    "family": "CITRUS",
+    "source_path": [
+      "FRESH & LIFTED",
+      "CITRUS",
+      "Zesty / Sparkling"
+    ],
+    "start": 92.1951219512195,
+    "end": 96.58536585365853,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-55f0fa47a93ad448",
+    "field": "reference_material",
+    "text": "Neroli oil",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Citrus Floral"
+    ],
+    "start": 96.58536585365853,
+    "end": 100.97560975609755,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-2e29e575500e0607",
+    "field": "reference_material",
+    "text": "Petitgrain bigarade oil",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Citrus Floral"
+    ],
+    "start": 100.97560975609755,
+    "end": 105.36585365853658,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-0c33a0b0e84e74c8",
+    "field": "reference_material",
+    "text": "Hedione",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Solar / Airy"
+    ],
+    "start": 105.36585365853658,
+    "end": 109.7560975609756,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-80e16c98b48ad7b1",
+    "field": "reference_material",
+    "text": "Jasmine absolute",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "White / Narcotic"
+    ],
+    "start": 109.7560975609756,
+    "end": 114.14634146341463,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-7314d7cdaad819e6",
+    "field": "reference_material",
+    "text": "Orange-flower absolute",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "White / Narcotic"
+    ],
+    "start": 114.14634146341463,
+    "end": 118.53658536585365,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-845dc12ff1bb5adc",
+    "field": "reference_material",
+    "text": "Carnation absolute",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Spicy Floral"
+    ],
+    "start": 118.53658536585365,
+    "end": 122.92682926829268,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-6dd16537ae9faf82",
+    "field": "reference_material",
+    "text": "Ylang-ylang oil",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Spicy Floral"
+    ],
+    "start": 122.92682926829268,
+    "end": 127.3170731707317,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-2874796961c12a42",
+    "field": "reference_material",
+    "text": "Orris absolute",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Iris / Powdery"
+    ],
+    "start": 127.3170731707317,
+    "end": 131.70731707317074,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-3bb5e85528b3267c",
+    "field": "reference_material",
+    "text": "Methylionone 70",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Iris / Powdery"
+    ],
+    "start": 131.70731707317074,
+    "end": 136.09756097560975,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-c02dea8f52f9ce18",
+    "field": "reference_material",
+    "text": "Phenylethyl alcohol",
+    "realm": "FLORAL & FRUITY",
+    "family": "FLORAL",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FLORAL",
+      "Fresh Rose"
+    ],
+    "start": 136.09756097560975,
+    "end": 140.4878048780488,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-c8a9f245ef6f2b81",
+    "field": "reference_material",
+    "text": "Furaneol (jammy facet)",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Jammy / Berry"
+    ],
+    "start": 140.4878048780488,
+    "end": 144.8780487804878,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-3aadb37345c176a7",
+    "field": "reference_material",
+    "text": "Davana oil",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Jammy / Berry"
+    ],
+    "start": 144.8780487804878,
+    "end": 149.26829268292684,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-a229725fed57c804",
+    "field": "reference_material",
+    "text": "Blackcurrant bud absolute",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Sulphurous"
+    ],
+    "start": 149.26829268292684,
+    "end": 153.65853658536585,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-de9ce421a3d7fab9",
+    "field": "reference_material",
+    "text": "Allyl caproate",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Tropical"
+    ],
+    "start": 153.65853658536585,
+    "end": 158.0487804878049,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-c40f47bc914247f1",
+    "field": "reference_material",
+    "text": "Tropicalia (fruit facet)",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Tropical"
+    ],
+    "start": 158.0487804878049,
+    "end": 162.4390243902439,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-b0145870152b3306",
+    "field": "reference_material",
+    "text": "Fructone (apple facet)",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Orchard Fruit"
+    ],
+    "start": 162.4390243902439,
+    "end": 166.82926829268294,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-c1fb8dc6c3468646",
+    "field": "reference_material",
+    "text": "Nectaryl",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Orchard Fruit"
+    ],
+    "start": 166.82926829268294,
+    "end": 171.21951219512195,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-d7c7b69d92d24303",
+    "field": "reference_material",
+    "text": "Methyl Laitone",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Lactonic"
+    ],
+    "start": 171.21951219512195,
+    "end": 175.609756097561,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-3838b6fdb7b848af",
+    "field": "reference_material",
+    "text": "Nectaryl + Methyl Laitone",
+    "realm": "FLORAL & FRUITY",
+    "family": "FRUITY",
+    "source_path": [
+      "FLORAL & FRUITY",
+      "FRUITY",
+      "Lactonic"
+    ],
+    "start": 175.609756097561,
+    "end": 180.0,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-fd644295238a5959",
+    "field": "reference_material",
+    "text": "Vanillin",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "GOURMAND",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Sweet / Vanillic"
+    ],
+    "start": 180.0,
+    "end": 184.390243902439,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-c4ca7643daf6df23",
+    "field": "reference_material",
+    "text": "Furaneol",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "GOURMAND",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Sweet / Vanillic"
+    ],
+    "start": 184.390243902439,
+    "end": 188.78048780487805,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-1e4804a10430cb4d",
+    "field": "reference_material",
+    "text": "Filbertone (nut facet)",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "GOURMAND",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Roasted / Nutty"
+    ],
+    "start": 188.78048780487805,
+    "end": 193.17073170731706,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-5740b6ec8aa51291",
+    "field": "reference_material",
+    "text": "Coffee Espresso SFE",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "GOURMAND",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Roasted / Nutty"
+    ],
+    "start": 193.17073170731706,
+    "end": 197.5609756097561,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-1ba904de4debfb9e",
+    "field": "reference_material",
+    "text": "Rum SFE",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "GOURMAND",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Boozy"
+    ],
+    "start": 197.5609756097561,
+    "end": 201.9512195121951,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-1672bfa1ca6f7d85",
+    "field": "reference_material",
+    "text": "Oakwood CO\u2082",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "GOURMAND",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Boozy"
+    ],
+    "start": 201.9512195121951,
+    "end": 206.34146341463415,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-e4adc389ef870e16",
+    "field": "reference_material",
+    "text": "Tonka bean absolute",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "GOURMAND",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Tonka / Almond"
+    ],
+    "start": 206.34146341463415,
+    "end": 210.73170731707316,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-939eaf986a073b53",
+    "field": "reference_material",
+    "text": "Benzaldehyde",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "GOURMAND",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "GOURMAND",
+      "Tonka / Almond"
+    ],
+    "start": 210.73170731707316,
+    "end": 215.1219512195122,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-040bf0cbfc0761dd",
+    "field": "reference_material",
+    "text": "Tobacco absolute",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "TOBACCO",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "TOBACCO",
+      "Sweet / Cured"
+    ],
+    "start": 215.1219512195122,
+    "end": 219.5121951219512,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-2bc79b207575d708",
+    "field": "reference_material",
+    "text": "Cumin seed oil",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "SPICE",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "SPICE",
+      "Savory Spice"
+    ],
+    "start": 219.5121951219512,
+    "end": 223.90243902439025,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-c3b27be8634593fc",
+    "field": "reference_material",
+    "text": "Ginger oil",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "SPICE",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "SPICE",
+      "Fresh Spice"
+    ],
+    "start": 223.90243902439025,
+    "end": 228.29268292682926,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-f76690f716b1c903",
+    "field": "reference_material",
+    "text": "Cardamom oil",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "SPICE",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "SPICE",
+      "Fresh Spice"
+    ],
+    "start": 228.29268292682926,
+    "end": 232.6829268292683,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-873307e06693786a",
+    "field": "reference_material",
+    "text": "Cinnamon bark oil",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "SPICE",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "SPICE",
+      "Hot Spice"
+    ],
+    "start": 232.6829268292683,
+    "end": 237.0731707317073,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-928764b85d041baa",
+    "field": "reference_material",
+    "text": "Clove bud oil",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "SPICE",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "SPICE",
+      "Hot Spice"
+    ],
+    "start": 237.0731707317073,
+    "end": 241.46341463414635,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-261c7eb8b83a242f",
+    "field": "reference_material",
+    "text": "Benzoin Siam resinoid",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "AMBER",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "AMBER",
+      "Amber"
+    ],
+    "start": 241.46341463414635,
+    "end": 245.85365853658536,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-1da8e20b9f5e5c2d",
+    "field": "reference_material",
+    "text": "Labdanum resinoid",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "AMBER",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "AMBER",
+      "Amber"
+    ],
+    "start": 245.85365853658536,
+    "end": 250.2439024390244,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-fd962b4de9c8deae",
+    "field": "reference_material",
+    "text": "Benzoin Siam resinoid",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "RESINOUS",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "RESINOUS",
+      "Warm Resin"
+    ],
+    "start": 250.2439024390244,
+    "end": 254.6341463414634,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-8fc939cd08b101a4",
+    "field": "reference_material",
+    "text": "Myrrh resinoid MD",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "RESINOUS",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "RESINOUS",
+      "Dark Balsamic"
+    ],
+    "start": 254.6341463414634,
+    "end": 259.0243902439024,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-7922abbe7d29bc9b",
+    "field": "reference_material",
+    "text": "Olibanum oil",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "RESINOUS",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "RESINOUS",
+      "Incense"
+    ],
+    "start": 259.0243902439024,
+    "end": 263.4146341463415,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-3720ecf0c9d3c86c",
+    "field": "reference_material",
+    "text": "Guaiacol (smoke facet)",
+    "realm": "AMBER, SPICE & SWEET",
+    "family": "RESINOUS",
+    "source_path": [
+      "AMBER, SPICE & SWEET",
+      "RESINOUS",
+      "Incense"
+    ],
+    "start": 263.4146341463415,
+    "end": 267.8048780487805,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-12e8ce16c9672b11",
+    "field": "reference_material",
+    "text": "Guaiacol (smoke facet)",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "WOOD",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Smoky"
+    ],
+    "start": 267.8048780487805,
+    "end": 272.1951219512195,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-2ad0c0a3d41ec1dc",
+    "field": "reference_material",
+    "text": "Guaiacwood oil",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "WOOD",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Smoky"
+    ],
+    "start": 272.1951219512195,
+    "end": 276.5853658536585,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-924ced195ddc9df6",
+    "field": "reference_material",
+    "text": "Virginia cedarwood oil",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "WOOD",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Dry Wood"
+    ],
+    "start": 276.5853658536585,
+    "end": 280.9756097560976,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-45a331c114f38eff",
+    "field": "reference_material",
+    "text": "Vetiver Heart",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "WOOD",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Dry Wood"
+    ],
+    "start": 280.9756097560976,
+    "end": 285.3658536585366,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-a458e2c8f4771cec",
+    "field": "reference_material",
+    "text": "Bornafix",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "WOOD",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Dry Wood"
+    ],
+    "start": 285.3658536585366,
+    "end": 289.7560975609756,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-22aa325d3f6f605b",
+    "field": "reference_material",
+    "text": "Javanol",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "WOOD",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Creamy Wood"
+    ],
+    "start": 289.7560975609756,
+    "end": 294.1463414634146,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-12c0078d41cb4cb1",
+    "field": "reference_material",
+    "text": "Iso E Super",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "WOOD",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "WOOD",
+      "Sheer Wood"
+    ],
+    "start": 294.1463414634146,
+    "end": 298.5365853658537,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-486e3d25ecd73649",
+    "field": "reference_material",
+    "text": "Suede Petals (Givaudanformula)",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "LEATHER",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "LEATHER",
+      "Suede"
+    ],
+    "start": 298.5365853658537,
+    "end": 302.9268292682927,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-490ff185596a0f31",
+    "field": "reference_material",
+    "text": "Safraleine (leather facet)",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "LEATHER",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "LEATHER",
+      "Hard Leather"
+    ],
+    "start": 302.9268292682927,
+    "end": 307.3170731707317,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-fcb8fb734aa7be05",
+    "field": "reference_material",
+    "text": "Leather MD",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "LEATHER",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "LEATHER",
+      "Hard Leather"
+    ],
+    "start": 307.3170731707317,
+    "end": 311.7073170731707,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-f9abb9dc0c889d6b",
+    "field": "reference_material",
+    "text": "Muscone",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "ANIMALIC",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "ANIMALIC",
+      "Animalic"
+    ],
+    "start": 311.7073170731707,
+    "end": 316.0975609756098,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-03a8526ace33d9db",
+    "field": "reference_material",
+    "text": "Indole (animalic facet)",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "ANIMALIC",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "ANIMALIC",
+      "Animalic"
+    ],
+    "start": 316.0975609756098,
+    "end": 320.4878048780488,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-65c178835480fc47",
+    "field": "reference_material",
+    "text": "Tabanon (tobacco facet)",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "TOBACCO",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "TOBACCO",
+      "Dry Leaf / Hay"
+    ],
+    "start": 320.4878048780488,
+    "end": 324.8780487804878,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-1917a61923881bac",
+    "field": "reference_material",
+    "text": "Hay absolute",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "TOBACCO",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "TOBACCO",
+      "Dry Leaf / Hay"
+    ],
+    "start": 324.8780487804878,
+    "end": 329.2682926829268,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-c149687dd78c1100",
+    "field": "reference_material",
+    "text": "Patchouli oil",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "EARTHY",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "EARTHY",
+      "Earthy / Herbal"
+    ],
+    "start": 329.2682926829268,
+    "end": 333.6585365853659,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-5b222b62844b95bc",
+    "field": "reference_material",
+    "text": "Vetiver Heart",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "EARTHY",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "EARTHY",
+      "Earthy / Herbal"
+    ],
+    "start": 333.6585365853659,
+    "end": 338.0487804878049,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-109106a333a23d9c",
+    "field": "reference_material",
+    "text": "Oakmoss absolute",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "EARTHY",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "EARTHY",
+      "Mossy / Forest"
+    ],
+    "start": 338.0487804878049,
+    "end": 342.4390243902439,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-8f18a33acad757f5",
+    "field": "reference_material",
+    "text": "Patchouli oil",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "EARTHY",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "EARTHY",
+      "Mossy / Forest"
+    ],
+    "start": 342.4390243902439,
+    "end": 346.8292682926829,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-3aa72a5849fd82bc",
+    "field": "reference_material",
+    "text": "Geosmin",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "EARTHY",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "EARTHY",
+      "Petrichor"
+    ],
+    "start": 346.8292682926829,
+    "end": 351.219512195122,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-adb7f4b56e4d4382",
+    "field": "reference_material",
+    "text": "Vetiver Haiti SIGNature(mineral facet)",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "MARINE",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "MARINE",
+      "Mineral / Salt"
+    ],
+    "start": 351.219512195122,
+    "end": 355.609756097561,
+    "inner": 2580,
+    "outer": 2880
+  },
+  {
+    "id": "reference_material-148578c21ada43b0",
+    "field": "reference_material",
+    "text": "Patchouli Min\u00e9ral DL(saline facet)",
+    "realm": "EARTHY, WOODY & DEEP",
+    "family": "MARINE",
+    "source_path": [
+      "EARTHY, WOODY & DEEP",
+      "MARINE",
+      "Mineral / Salt"
+    ],
+    "start": 355.609756097561,
+    "end": 360.0,
+    "inner": 2580,
+    "outer": 2880
+  }
+]
