@@ -48,6 +48,8 @@ Copy the **whole explorer folder** into a static public path. It is intentionall
   style="width:100%;height:75svh;min-height:420px;border:0"></iframe>
 ```
 
+The viewer posts a same-origin `lantern-sea:layout` message with its preferred pixel `height`, calculated from the painting’s 3:2 aspect ratio and measured toolbar/caption heights. The article sizes the iframe to that value, keeping controls close to the image rather than centering it inside an oversized viewport. Expanded mode overrides this preferred height and fills the window.
+
 For same-origin article embeds, expansion also posts a `lantern-sea:expanded` message with a boolean `expanded` value to the parent. The article can use this to fill the viewport when native fullscreen is unavailable; validate both the origin and the iframe source. Sending `lantern-sea:collapse` back closes it.
 
 In embedded mode, wheel zoom requires Ctrl or ⌘ so ordinary scrolling continues through the article; pinch, drag, buttons and keyboard controls remain available. Link to the non-embedded index for a full-window alternative. Lazy loading avoids downloading tiles until the explorer is near the reader. Keep the existing article figures for its narrative; the explorer lets readers inspect the actual map. Update the static assets as one versioned delivery, and preserve the source hash/provenance. The viewer revision can be cache-busted in the iframe path when deploying a replacement. Preparing the repo does not publish the article or deploy a site.
