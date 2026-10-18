@@ -8,3 +8,9 @@
 .embedded header,.embedded footer{display:none}.load-status{white-space:nowrap}#retry{font-size:11px;min-height:28px;padding:3px 8px}button[hidden]{display:none}
 
 .touch-help{display:none}@media(max-width:650px){.desktop-help{display:none}.touch-help{display:inline}}@media(max-width:380px){header{gap:8px}h1{font-size:23px;white-space:nowrap}header nav{max-width:none;flex-shrink:0;font-size:10px;white-space:nowrap}.caption{flex-wrap:nowrap}}
+
+/* Match the companion scent explorer: a compact brand and right-hand links/controls. */
+header{padding:15px 24px;gap:16px}.brand{display:flex;align-items:baseline;min-width:0;gap:18px}.brand p{margin:0;color:var(--muted);font-size:12px;white-space:nowrap}h1{font-size:30px;line-height:1}header nav{margin-left:auto;justify-content:flex-end;gap:22px;flex-shrink:0}header nav a{font-size:12px;white-space:nowrap}.toolbar{justify-content:flex-end}#full{margin-left:0}
+@media(max-width:900px){.brand p{display:none}}
+@media(max-width:650px){header{padding:12px;gap:12px}h1{font-size:25px}header nav a{font-size:11px}.toolbar{padding:7px 8px}}
+@media(max-width:380px){header{gap:8px}h1{font-size:23px}header nav a{font-size:10px}}

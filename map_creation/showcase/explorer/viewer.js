@@ -31,7 +31,11 @@
   const reduced = matchMedia('(prefers-reduced-motion: reduce)');
   $('labels').checked = mode === 'labels';
   $('labels').disabled = !config.modes.labels;
-  if (new URLSearchParams(location.search).has('embed')) document.body.classList.add('embedded');
+  const embedded = new URLSearchParams(location.search).has('embed');
+  if (embedded) {
+    document.body.classList.add('embedded');
+    document.querySelector('.desktop-help').textContent = 'Drag to explore · hold Ctrl or ⌘ and scroll to zoom';
+  }
 
   const fitScale = () => Math.min(W / width, H / height) * .96;
   const clampScale = s => Math.max(fitScale() * .7, Math.min(2, s));
@@ -188,17 +192,24 @@
     document.body.classList.toggle('expanded', expanded);
     $('full').textContent = expanded ? 'Exit expanded view' : 'Expand map';
     $('full').setAttribute('aria-pressed', String(expanded));
+    if (embedded && parent !== window) parent.postMessage({type: 'lantern-sea:expanded', expanded}, location.origin);
   }
   $('full').onclick = async () => {
     if (document.fullscreenElement) { await document.exitFullscreen(); return; }
     const expanded = !document.body.classList.contains('expanded');
     setExpanded(expanded);
     // Fullscreen also enlarges an embedded map beyond the article's iframe.
-    if (expanded && document.documentElement.requestFullscreen) {
+    if (expanded && !embedded && document.documentElement.requestFullscreen) {
       try { await document.documentElement.requestFullscreen(); } catch { /* CSS expansion remains available. */ }
     }
   };
   document.addEventListener('fullscreenchange', () => setExpanded(Boolean(document.fullscreenElement)));
+  window.addEventListener('message', event => {
+    if (embedded && event.origin === location.origin && event.source === parent && event.data?.type === 'lantern-sea:collapse') {
+      setExpanded(false);
+      if (document.fullscreenElement) document.exitFullscreen().catch(() => {});
+    }
+  });
   document.addEventListener('keydown', e => { if (e.key === 'Escape') setExpanded(false); });
   const local = e => { const rect = stage.getBoundingClientRect(); return {x: e.clientX - rect.left, y: e.clientY - rect.top}; };
   function gesture() {
@@ -232,6 +243,8 @@
   }
   for (const name of ['pointerup', 'pointercancel', 'lostpointercapture']) stage.addEventListener(name, end);
   stage.addEventListener('wheel', e => {
+    // Let ordinary wheel scrolling continue through an article containing the iframe.
+    if (embedded && !document.body.classList.contains('expanded') && !e.ctrlKey && !e.metaKey) return;
     e.preventDefault(); const p = local(e);
     const dy = e.deltaY * (e.deltaMode === 1 ? 16 : e.deltaMode === 2 ? H : 1);
     zoom(view.scale * Math.exp(-Math.max(-160, Math.min(160, dy)) * .003), p.x, p.y);
