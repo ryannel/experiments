@@ -18,7 +18,7 @@ From this folder, run:
 python3 -m http.server 8000 --bind 127.0.0.1
 ```
 
-Open **http://127.0.0.1:8000/showcase/explorer/**. Drag to pan, scroll or pinch to zoom, or double-click for a closer look. **Fit map** restores the overview; **Actual detail** shows one source pixel per CSS pixel; **Expand map** makes more room. Keyboard: arrows to pan, +/− to zoom, 0 to fit, 1 for native detail, Escape to leave expanded view. The URL remembers your current view.
+Open **http://127.0.0.1:8000/showcase/explorer/**. Drag to pan, scroll or pinch to zoom, or double-click for a closer look. **Fit map** restores the overview; **Actual detail** shows one source pixel per CSS pixel; **Expand map** makes more room. Keyboard: arrows to pan, +/− to zoom, 0 to fit, 1 for native detail, Escape to leave expanded view. Standalone URLs remember your current view. Article embeds start with the complete world fitted to the available space.
 
 [Read the story](https://ryannel.dev/projects/painting-a-100-megapixel-world/) · [Viewer implementation and embedding](docs/explorer.md) · [Artwork provenance](showcase/explorer/README.md)
 
