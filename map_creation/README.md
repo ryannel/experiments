@@ -8,6 +8,22 @@ Describe the world you have in mind. Your agent helps you find its art style, pl
 
 *An overview from the original Lantern Sea experiment. The shared skills carry forward its woodland, settlement and painting lessons. [Provenance and review limits](showcase/README.md).*
 
+## Explore the finished atlas
+
+The [interactive map explorer](showcase/explorer/index.html) lets you move from the whole world to individual houses, using the original **12,276 × 8,184** painting. It loads small local WebP tiles instead of the roughly 289 MB source PNG. Place names can be switched off. No install, account, Node, external font or API key is needed to view it.
+
+From this folder, run:
+
+```sh
+python3 -m http.server 8000 --bind 127.0.0.1
+```
+
+Open **http://127.0.0.1:8000/showcase/explorer/**. Drag to pan, scroll or pinch to zoom, or double-click for a closer look. **Fit map** restores the overview; **Actual detail** shows one source pixel per CSS pixel; **Expand map** makes more room. Keyboard: arrows to pan, +/− to zoom, 0 to fit, 1 for native detail, Escape to leave expanded view. The URL remembers your current view.
+
+[Read the story](https://ryannel.dev/projects/painting-a-100-megapixel-world/) · [Viewer implementation and embedding](docs/explorer.md) · [Artwork provenance](showcase/explorer/README.md)
+
+The explorer is a delivery of the selected existing artwork. The full-quality masters and editable layers remain in the original project. It preserves the source review status; it does not certify the painting as defect-free.
+
 ## Start here
 
 1. **Get this folder and open it in Codex.** Use the repository's folder-only checkout instructions, or download the repository ZIP and open `map_creation` as your project. Keep its hidden `.agents` and `.codex` folders.

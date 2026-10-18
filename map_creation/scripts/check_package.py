@@ -13,7 +13,7 @@ ROOT = Path(__file__).resolve().parents[1]
 ROOT_FILES = ('README.md','AGENTS.md','CREDITS.md','LICENSE.md','requirements.txt','.gitignore','.codex/config.toml')
 SOURCE_DIRS = ('.agents','docs','templates','examples','showcase','scripts','tests')
 IGNORED_PARTS = {'__pycache__','.pytest_cache','.DS_Store'}
-EXTENSIONS = {'.md','.json','.py','.txt','.yaml','.yml','.jpg','.png','.svg','.toml'}
+EXTENSIONS = {'.md','.json','.py','.txt','.yaml','.yml','.jpg','.png','.svg','.toml','.html','.css','.js','.webp'}
 
 
 def selected_files(root):
@@ -48,7 +48,7 @@ def audit(root):
     issues=[]
     for p in files:
         rel=p.relative_to(root).as_posix()
-        if p.suffix in {'.jpg','.png'}:
+        if p.suffix in {'.jpg','.png','.webp'}:
             with Image.open(p) as im:
                 if im.width>1600:
                     issues.append(f'{rel}: showcase/example image wider than 1600 px')
@@ -82,6 +82,9 @@ def audit(root):
     with Image.open(art) as im:
         if list(im.size)!=provenance['dimensions']:
             issues.append('Showcase dimensions differ from provenance.')
+    from check_explorer import audit_explorer
+    if (root/'showcase/explorer/map.json').is_file():
+        issues.extend(audit_explorer(root/'showcase/explorer'))
     return files,issues
 
 

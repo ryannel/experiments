@@ -24,4 +24,4 @@ The ZIP contains `map_creation/`, including `.agents/` and `.codex/config.toml`.
 
 ## Publication copy
 
-[showcase/website-copy.md](../showcase/website-copy.md) provides a short summary, accessible image description and a suggested page structure. The preview is already small enough for a README; host larger files separately only when deliberately needed. Do not publish the original source repository, its private setting, or its full asset library as part of this kit.
+[showcase/website-copy.md](../showcase/website-copy.md) provides a short summary, accessible image description and a suggested page structure. The preview is already small enough for a README. The selected [tiled explorer](explorer.md) can also be included without shipping its full PNG masters; host larger files separately only when deliberately needed. Do not publish the original source repository, its private setting, or its full asset library as part of this kit.

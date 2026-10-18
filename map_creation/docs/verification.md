@@ -16,3 +16,15 @@ The skill instructions were reviewed against the retained source lessons, but ha
 ## Agent-led guide revision
 
 The README and walkthrough now lead with a creative conversation using GPT-6 Astra on High. Project defaults specify `gpt-6-astra` and `high`; model and configuration references were checked against official documentation. The configuration was parsed locally, all seven skills revalidated, and all twelve helper tests rerun successfully. The package includes only the specific `.codex/config.toml` file, not other local Codex state. Model configuration expresses the required setup; it does not prove a reader's active session or establish a newly completed painted-map trial.
+
+## Tiled explorer — 18 October 2026
+
+The selected clean and labelled world-atlas-complete-v1 paintings were encoded into 1,044 WebP tiles (522 per mode) at their native 12,276 × 8,184 dimensions. Both source hashes are retained in the delivery configuration. Original PNGs and editable layers remain in the original project; only the viewing derivatives were selected for this repo.
+
+- Fourteen behavior tests pass, including two new tests for odd-size tile reconstruction, source preservation, overwrite refusal and rejection of mismatched map modes.
+- The package audit and explorer checker pass: both pyramids have complete coverage, correct overlapping edge dimensions and valid local links. The standalone ZIP was extracted; all 1,050 explorer files match the maintained delivery, and the extracted copy loaded and zoomed without the source repository.
+- Actual browser checks covered whole-map fit, native detail, mouse dragging, name visibility, URL/reload restoration, expanded-view fallback, 320 × 568 and 390 × 844 portrait layouts, 844 × 390 landscape, and operation inside an iframe. Phone layouts showed no horizontal overflow. Pinch handling is implemented; a physical multi-touch device was not tested in this pass.
+- Removing one overview tile temporarily produced an unavailable-detail message and Retry control; restoring it and clicking Retry recovered the map. The final tile set and delivery configuration were restored and rechecked.
+- At a 1280 × 720 browser viewport, the initial overview resolved seven tiles totalling approximately 0.85 MB; zooming to native detail brought the cumulative resolved tile payload to approximately 1.50 MB. These are observed tile payloads for that route, not a guarantee for every viewport, cache state or exploration path. The complete two-mode delivery is approximately 113 MB on disk; visitors do not load all of it at once.
+
+These are delivery and interaction checks. They do not constitute new approval of the painting, independent geographic validation or a bounded-memory production-render benchmark. The article site has not been modified by this work.

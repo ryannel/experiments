@@ -18,3 +18,5 @@ Select public files explicitly. Remove private lore from filenames, prompts, log
 Use [release-notes.md](../../../templates/release-notes.md) and record actual reuse terms for artwork and external sources. Bundle editable dependencies needed for the promised kind of reuse; a preview alone is not a reconstruction package.
 
 Report saved locations, what was visually checked, native dimensions, known limits and whether publication occurred. For sharing the kit itself, use `scripts/package_experiment.py` and test the extracted standalone folder.
+
+For this showcase’s large-map web delivery, follow [the explorer handoff](../../../docs/explorer.md). Use only explicitly selected artwork exports; never copy a private world directory. Build a static zoom pyramid offline, keep original pixels unchanged, and ship the portable viewer with no master-image runtime dependency. Check whole-map and native crops, both label modes, mouse/touch zoom and pan, small screens, reloadable view links and tile failures. Preserve source review status in public provenance. Browser tile caching does not imply bounded-memory production rendering.
