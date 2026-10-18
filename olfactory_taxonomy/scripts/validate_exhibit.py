@@ -64,6 +64,20 @@ def main():
             parts=urlsplit(url)
             if parts.scheme or parts.netloc or not parts.path:continue
             require((page.parent/unquote(parts.path)).is_file(),f'Broken local link in {page.name}: {url}')
+    built=(ROOT/'exhibit/index.html').read_text()
+    embedded=re.search(r'<script>const config=(.*?);</script>',built,re.S)
+    require(embedded is not None,'Missing generated exploration data')
+    explorer=json.loads(embedded.group(1))['exploration']
+    nodes=explorer['nodes'];node_map={n['id']:n for n in nodes}
+    expected={c['id'] for c in cells if c['field'] in ('realm','family','note','descriptors')}
+    require(set(node_map)==expected and len(nodes)==154,'Exploration is out of sync with the final cells')
+    for node in nodes:
+        cell=next(c for c in cells if c['id']==node['id'])
+        require(abs(node['from']-cell['start'])<1e-6 and abs(node['to']-cell['end'])<1e-6,'Stale exploration geometry')
+        if node['parent']:
+            parent=node_map[node['parent']]
+            require(parent['level']==node['level']-1 and parent['from']<=node['from']+1e-6 and parent['to']>=node['to']-1e-6,'Invalid exploration ancestry')
+    require((ROOT/'exhibit/viewer.js').read_bytes()==(ROOT/'templates/viewer.js').read_bytes(),'Rebuild the viewer after editing its JavaScript')
     avif=(ROOT/'exports/olfactory-atlas.avif').read_bytes()
     require(b'avif' in avif[:64],'Invalid AVIF export')
     print(f'Validated {len(labels)} labels, six complete rings, {len(assets)} assets, {tile_count} tiles and local exhibit links.'+(' All original PNG checksums verified.' if args.originals else ' Originals are optional for viewing.'))

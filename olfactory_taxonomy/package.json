@@ -7,7 +7,11 @@
     "build": "node scripts/build_exhibit.cjs",
     "prepare:render": "node scripts/build_exhibit.cjs --prepare",
     "build:tiles": "node scripts/build_exhibit.cjs --tiles",
-    "verify": "python3 scripts/build_layout.py && python3 scripts/validate_exhibit.py"
+    "verify": "python3 scripts/build_layout.py && python3 scripts/validate_exhibit.py && python3 scripts/plan_artwork.py",
+    "test": "python3 -m unittest discover -s tests -v && node --test tests/*.test.cjs",
+    "plan:artwork": "python3 scripts/plan_artwork.py"
   },
-  "devDependencies": {"sharp": "0.35.4"}
+  "devDependencies": {
+    "sharp": "0.35.4"
+  }
 }

@@ -1,11 +1,15 @@
 #!/usr/bin/env node
 // Rebuild the public exhibit without any historical experiments.
 const fs=require('node:fs/promises'),path=require('node:path'),crypto=require('node:crypto');
+const {buildExploration}=require('./exploration-data.cjs');
 const root=path.resolve(__dirname,'..');
 const read=p=>fs.readFile(path.join(root,p),'utf8');
 async function main(){
  const args=new Set(process.argv.slice(2));
  const config=JSON.parse(await read('data/explorer.json'));
+ const cells=JSON.parse(await read('data/cells.json'));
+ const editorial=await Promise.all(['fresh','floral-amber','earthy'].map(async name=>JSON.parse(await read('data/hierarchy-review-'+name+'.json'))));
+ config.exploration=buildExploration(cells,editorial);
  await fs.mkdir(path.join(root,'build'),{recursive:true});
  if(args.has('--prepare')){
   const manifest=JSON.parse(await read('source/artwork.json'));
@@ -32,9 +36,11 @@ async function main(){
   await sharp(path.join(root,'build/labels.png')).avif({quality:65,effort:4,chromaSubsampling:'4:4:4'}).toFile(path.join(root,'exports/olfactory-atlas.avif'));
   await sharp(path.join(root,'build/labels.png')).resize(1600).webp({quality:86,effort:6}).toFile(path.join(root,'exhibit/preview.webp'));
   config.revision=crypto.createHash('sha256').update(await fs.readFile(path.join(root,'exports/olfactory-atlas.avif'))).digest('hex').slice(0,12);
-  await fs.writeFile(path.join(root,'data/explorer.json'),JSON.stringify(config,null,2)+'\n');
+  await fs.writeFile(path.join(root,'data/explorer.json'),JSON.stringify(Object.fromEntries(Object.entries(config).filter(([key])=>key!=='exploration')),null,2)+'\n');
  }
- await fs.writeFile(path.join(root,'exhibit/index.html'),(await read('templates/explorer.html')).replace('/* CONFIG */','const config='+JSON.stringify(config)+';'));
+ const viewerRevision=crypto.createHash('sha256').update(await read('templates/viewer.js')).digest('hex').slice(0,12);
+ await fs.copyFile(path.join(root,'templates/viewer.js'),path.join(root,'exhibit/viewer.js'));
+ await fs.writeFile(path.join(root,'exhibit/index.html'),(await read('templates/explorer.html')).replace('/* CONFIG */','const config='+JSON.stringify(config).replaceAll('<','\\u003c')+';').replace('src="viewer.js"','src="viewer.js?v='+viewerRevision+'"'));
  console.log('Exhibit viewer built. No dependencies are needed to view the checked-in exhibit.');
 }
 main().catch(e=>{console.error(e.message);process.exitCode=1});

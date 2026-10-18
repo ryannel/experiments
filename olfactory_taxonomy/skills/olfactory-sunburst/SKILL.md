@@ -1,18 +1,29 @@
 ---
 name: olfactory-sunburst
-description: Revise the Olfactory Atlas photographic scent wheel, preserving its approved geometry, editable labels, original artwork and portable exhibit.
+description: Build or revise the Olfactory Atlas photographic scent wheel from its taxonomy, editorial data and generation briefs, with exact vector geometry, editable labels and a portable exhibit.
 ---
 
 # Olfactory Atlas
 
-Use the selected experiment root, identified by `data/taxonomy.json` and `source/master.svg`. Read its README, PROVENANCE and AGENTS first. The accepted screen exhibit replaces the earlier prototype pipeline; retired files are local development history, not build dependencies.
+Work from this standalone project root. Read README.md, PROVENANCE.md and AGENTS.md. This skill covers both creating fresh artwork from the final specification and editing the accepted wheel.
 
-The aim is useful scent possibilities for an amateur. Start with broad impression, then family, character and familiar comparison. Optional feel words and material references continue each route to the edge. Learners may stop at any tier. Leading recognition cues and selective hierarchy are intentional; do not imply scientific distance, exhaustive coverage or ingredient identification. Longevity is outside scope.
+The goal is useful scent descriptions for an amateur: broad impression → family → character → familiar comparison, with optional feel words and material references. Leading recognition prompts and a selective hierarchy are intentional. Learners can stop at any tier. A reference illustrates a scent facet, not an ingredient identified in a perfume. Longevity is outside scope.
 
-Preserve the source transcription. Editorial data lives separately in `data/print-editorial.json` and `data/hierarchy-review-*.json`; current geometry/content is in `data/cells.json`. There are 4 realms, 20 realm-scoped families, 48 source characters, 82 possibilities and 318 cell labels. Scope TOBACCO by realm. Each possibility gets equal angular width; parents merge over their actual descendants.
+## Choose the starting point
 
-The approved master uses a 6144-unit coordinate system and 9216-pixel output. Read [the assembly plan](references/assembly-plan.md), [imagery guidance](references/background-imagery.md) and [typography guidance](references/typography.md). Edit the accepted master directly, keeping source metadata aligned. Do not depend on archived builders or reclassify notes silently.
+- **Edit the accepted work:** `source/master.svg` is the assembly. Restore original PNGs with `python3 scripts/restore_sources.py`; it preserves current SVG and metadata edits. Follow [the editing guide](../../docs/EDITING.md).
+- **Start fresh from the final design:** follow [the from-scratch recipe](references/from-scratch.md). Run `python3 scripts/plan_artwork.py` to create 130 self-contained generation jobs with scent context, target cells and exact sector clips. This requires neither original pictures nor earlier drafts.
 
-Keep original photographs in `source/images/`, prompts in `source/prompts/`, and provenance/checksums in `source/artwork.json`. If originals are missing, install the documented working-source archive. Use built-in image generation for new photographic assets. Never promote a lossy delivery file to the original source.
+The final content is 4 realms, 20 realm-scoped families, 48 source characters, 82 scent possibilities and 318 cell labels. `data/taxonomy.json` preserves the source transcription. The editorial overlay and three `data/hierarchy-review-*.json` files define the selected possibilities and material references; `data/cells.json` is the final cell specification. Scope TOBACCO by realm. Sector width represents included possibilities, not measured scent distance or prevalence.
 
-Review actual browser output at native reading size as well as an overview. Verify long labels, pale/busy imagery, boundaries and narrow families. Run both documented validators; rebuild tiles after artwork or label edits. Keep exports in the exhibit portable and local. Updating files does not authorize uploading or publishing them. No print-readiness claim follows from a screen check.
+Read [assembly guidance](references/assembly-plan.md) for geometry, layers and export; [imagery guidance](references/background-imagery.md) before generating; and [typography guidance](references/typography.md) before placing lettering. Current settings and the editable master hold exact accepted values.
+
+Build imagery from the outer scent routes inward. One photograph continues through a route's comparison, feel and reference bands. Parents mix representative cues from their descendants organically, without mirroring the child columns. Compose for the actual wedge: generous partial leaf tips, gum corners and petal curls may read better than tiny complete objects.
+
+Use built-in image generation for photographic creation and edits. Keep original PNGs, prompts, dimensions, generation IDs, assigned cells and SHA-256 in the artwork manifest. `source/prompts/` preserves the selected original calls; six edit-only calls have self-contained fresh-generation replacements in `source/generation-briefs.json`. Never replace an original with its lossy export. Stage fresh generations under `build/regeneration/` until reviewed.
+
+Keep photography, exact geometry, boundaries and editable lettering in separate SVG layers. Review actual crops with and without labels, at overview and native reading size, including narrow families and long text over pale/busy imagery. Fit calculations alone do not establish readability.
+
+Run the documented validators, restoration tests when changing source handling, and the artwork planner when changing generation inputs. Rebuild delivery tiles after artwork or lettering changes. The exhibit must work after cloning without custom fonts, Node or online services; those are authoring requirements only. Publishing needs explicit user authorization. Screen review does not establish print readiness.
+
+For small screens, keep the wheel visible while the question panel scrolls independently. Keep the primary toolbar compact, put secondary actions in Tools, and offer a reversible Wheel only / Show questions view. Preserve the scent path and manually panned camera when resizing or toggling panels. Use generous touch targets and check narrow portrait, short landscape and tablet layouts in the actual browser, including question navigation and image-only mode.
